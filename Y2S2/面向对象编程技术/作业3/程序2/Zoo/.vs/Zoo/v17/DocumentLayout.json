@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\p6\\Zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B006A71-9421-45FA-BF31-B1AA2D905D1A}|Zoo\\Zoo.vcxproj|D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\p6\\Zoo\\Zoo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B006A71-9421-45FA-BF31-B1AA2D905D1A}|Zoo\\Zoo.vcxproj|solutionrelative:Zoo\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\p6\\Zoo\\Zoo\\main.cpp",
+              "RelativeDocumentMoniker": "Zoo\\main.cpp",
+              "ToolTip": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\p6\\Zoo\\Zoo\\main.cpp",
+              "RelativeToolTip": "Zoo\\main.cpp",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAgwHwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T03:57:45.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

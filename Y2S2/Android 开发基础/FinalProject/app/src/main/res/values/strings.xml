@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="title_home">笔记</string>
+    <string name="title_dashboard">事件</string>
+    <string name="title_notifications">日历</string>
+    <string name="profile">我的</string>
+    <string name="searchText">搜索框</string>
+    <string name="done">完成</string>
+    <string name="cntLetter">0 字数</string>
+    <string name="ReturnText">返回</string>
+    <string name="noteTitle">标题</string>
+    <string name="hint_noteText">Type your note...</string>
+    <string name="eventTextCalendar">该月事件</string>
+    <string name="cntNotesText">拥有笔记数量</string>
+    <string name="cntEventsText">拥有事件数量</string>
+    <string name="LoginText">Login</string>
+</resources>

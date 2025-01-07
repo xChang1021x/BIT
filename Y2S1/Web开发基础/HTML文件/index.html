@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="./onlinetest-style.css">
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>考试系统</title>
+</head>
+<body>
+    <%
+    response.write("Hello!")
+    %>
+    <div id="examContainer">
+        <h1>考试系统</h1>
+        <label for="username">用户名：</label>
+        <input type="text" id="username" required><br><br>
+        <input type="checkbox" id="readRules" required>
+        <label for="readRules">我已阅读并同意<a href="exam_rules.html" target="_blank">考试规则</a></label><br><br>
+        <button id="startButton" onclick="startExam()">开始考试</button>
+        <div id="greeting"></div>
+        <div id="questionContainer" style="display: none;">
+            <h2>动漫题</h2>
+            <div id="question1">
+                <p id="Question">1. 请问下列哪一部动画作品不是出自于京阿尼（京都动画）？</p>
+                <label><input type="radio" name="q1" value="a">a) 中二病也要谈恋爱</label>
+                <label><input type="radio" name="q1" value="b">b) 进击的巨人</label>
+                <label><input type="radio" name="q1" value="c">c) 冰菓</label>
+                <label><input type="radio" name="q1" value="d">d) 轻音少女</label>
+            </div>
+            <div id="question2">
+                <p id="Question">2. 请问下列哪一部动画作品不是出自于飞碟社（UFOtable） ？</p>
+                <label><input type="radio" name="q2" value="a">a) Fate</label>
+                <label><input type="radio" name="q2" value="b">b) 噬神者</label>
+                <label><input type="radio" name="q2" value="c">c) 一拳超人</label>
+                <label><input type="radio" name="q2" value="c">d) 鬼灭之刃</label>
+            </div>
+            <div id="question3">
+                <p id="Question">3. 请问下列哪一部作品不是出自于 MAPPA ？</p>
+                <label><input type="radio" name="q2" value="a">a) 狂赌之渊</label>
+                <label><input type="radio" name="q2" value="b">b) 咒术回战</label>
+                <label><input type="radio" name="q2" value="c">c) 链锯人</label>
+                <label><input type="radio" name="q2" value="d">d) 声之形</label>
+            </div>
+            <div id="question4">
+                <p id="Question">4. 请问下图中的画面出自哪一部动漫？</p>
+                <img id="questionImg1" src="./素材/想要成为影之实力者画面.jfif" alt="图1">
+                <label><input type="radio" name="q2" value="a">a) Overlord</label>
+                <label><input type="radio" name="q2" value="b">b) 想要成为影之实力者</label>
+                <label><input type="radio" name="q2" value="c">c) 一拳超人</label>
+                <label><input type="radio" name="q2" value="d">d) 魔王学院的不适任者</label>
+            </div>
+            
+            <div id="question5">
+                <p id="Question">5. 请问下图中的人物叫什么？</p>
+                <img id="questionImg2" src="./素材/谢斯塔.jpg" alt="图2">
+                <label><input type="radio" name="q2" value="a">a) 谢斯塔</label>
+                <label><input type="radio" name="q2" value="b">b) 鸢一折纸</label>
+                <label><input type="radio" name="q2" value="c">c) 伊蕾娜</label>
+                <label><input type="radio" name="q2" value="d">d) 爱蜜莉雅</label>
+            </div>
+            <div id="question6">
+                <p id="Question">3. 以下哪些数字是偶数？（多选题，选择所有正确答案）</p>
+                <label><input type="checkbox" name="q3a" value="1">1) 1</label>
+                <label><input type="checkbox" name="q3b" value="2">2) 2</label>
+                <label><input type="checkbox" name="q3c" value="3">3) 3</label>
+                <label><input type="checkbox" name="q3d" value="4">4) 4</label>
+            </div>
+            <div id="question7">
+                <p id="Question">3. 以下哪些数字是偶数？（多选题，选择所有正确答案）</p>
+                <label><input type="checkbox" name="q3a" value="1">1) 1</label>
+                <label><input type="checkbox" name="q3b" value="2">2) 2</label>
+                <label><input type="checkbox" name="q3c" value="3">3) 3</label>
+                <label><input type="checkbox" name="q3d" value="4">4) 4</label>
+            </div>
+            <div id="question8">
+                <p id="Question">3. 以下哪些数字是偶数？（多选题，选择所有正确答案）</p>
+                <label><input type="checkbox" name="q3a" value="1">1) 1</label>
+                <label><input type="checkbox" name="q3b" value="2">2) 2</label>
+                <label><input type="checkbox" name="q3c" value="3">3) 3</label>
+                <label><input type="checkbox" name="q3d" value="4">4) 4</label>
+            </div>
+            <div id="question9">
+                <p id="Question">4. 请简要解释什么是平方根：</p>
+                <textarea id="q4" rows="4" cols="50" placeholder="请输入您的答案"></textarea>
+            </div>
+            <div id="question10">
+                <p id="Question">4. 请简要解释什么是平方根：</p>
+                <textarea id="q4" rows="4" cols="50" placeholder="请输入您的答案"></textarea>
+            </div>
+            
+            <!-- 添加更多题目 -->
+        </div>
+        <button id="submitButton" style="display: none;">提交</button>
+        <div id="score" style="display: none;"></div>
+        <div id="incorrectAnswers" style="display: none;"></div>
+        <div id="timer" style="display: none;"></div>
+    </div>
+    <script src="./onlinetestfunction.js"></script>
+</body>
+</html>

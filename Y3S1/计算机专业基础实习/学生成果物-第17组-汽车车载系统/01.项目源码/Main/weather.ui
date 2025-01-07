@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Weather</class>
+ <widget class="QWidget" name="Weather">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(46, 52, 54);
+background-color: rgb(0, 0, 0);</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>801</width>
+     <height>601</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QWidget" name="layoutWidget_4">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>60</y>
+      <width>801</width>
+      <height>321</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_13">
+     <item>
+      <widget class="QWidget" name="widgetLeft_2" native="true">
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>100</width>
+         <height>16777215</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(46, 52, 54);
+border-top-right-radius: 50px;
+border-bottom-right-radius: 50px;</string>
+       </property>
+       <widget class="QWidget" name="layoutWidget_10">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>10</y>
+          <width>81</width>
+          <height>303</height>
+         </rect>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_13">
+         <item>
+          <layout class="QVBoxLayout" name="verticalLayout_25">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+           <item>
+            <widget class="QLabel" name="logoWin_3">
+             <property name="minimumSize">
+              <size>
+               <width>70</width>
+               <height>70</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>77</width>
+               <height>77</height>
+              </size>
+             </property>
+             <property name="font">
+              <font>
+               <kerning>true</kerning>
+              </font>
+             </property>
+             <property name="cursor">
+              <cursorShape>IBeamCursor</cursorShape>
+             </property>
+             <property name="autoFillBackground">
+              <bool>false</bool>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">background-color: rgb(238, 238, 236);
+border-radius: 38px</string>
+             </property>
+             <property name="text">
+              <string/>
+             </property>
+             <property name="pixmap">
+              <pixmap resource="res.qrc">:/fengsu.png</pixmap>
+             </property>
+             <property name="scaledContents">
+              <bool>true</bool>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="labelWin_2">
+             <property name="styleSheet">
+              <string notr="true">color: rgb(238, 238, 236);</string>
+             </property>
+             <property name="text">
+              <string>东南风</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="labelWinSpeed_2">
+             <property name="styleSheet">
+              <string notr="true">color: rgb(238, 238, 236);</string>
+             </property>
+             <property name="text">
+              <string>2级别</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="labelWinMeter_2">
+             <property name="styleSheet">
+              <string notr="true">color: rgb(238, 238, 236);</string>
+             </property>
+             <property name="text">
+              <string>7km/h</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <widget class="Line" name="line_3">
+           <property name="styleSheet">
+            <string notr="true">background-color: white;</string>
+           </property>
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <layout class="QVBoxLayout" name="verticalLayout_26">
+           <item>
+            <layout class="QVBoxLayout" name="verticalLayout_27">
+             <item>
+              <widget class="QLabel" name="logoHumidity_3">
+               <property name="minimumSize">
+                <size>
+                 <width>70</width>
+                 <height>70</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>77</width>
+                 <height>77</height>
+                </size>
+               </property>
+               <property name="font">
+                <font>
+                 <kerning>true</kerning>
+                </font>
+               </property>
+               <property name="cursor">
+                <cursorShape>IBeamCursor</cursorShape>
+               </property>
+               <property name="autoFillBackground">
+                <bool>false</bool>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">background-color: rgb(238, 238, 236);
+border-radius: 36px</string>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="res.qrc">:/shidu.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="labelHumidityPanel_2">
+               <property name="styleSheet">
+                <string notr="true">color: rgb(238, 238, 236);</string>
+               </property>
+               <property name="text">
+                <string>湿度</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="labelHumidity_2">
+               <property name="styleSheet">
+                <string notr="true">color: rgb(238, 238, 236);</string>
+               </property>
+               <property name="text">
+                <string>76%</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_4">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QWidget" name="widgetCenter_2" native="true">
+       <property name="minimumSize">
+        <size>
+         <width>550</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(46, 52, 54);</string>
+       </property>
+       <widget class="QWidget" name="layoutWidget_11">
+        <property name="geometry">
+         <rect>
+          <x>10</x>
+          <y>10</y>
+          <width>531</width>
+          <height>311</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_14" stretch="0,0,10">
+         <item>
+          <layout class="QVBoxLayout" name="verticalLayout_28">
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_15">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_16">
+               <item>
+                <layout class="QVBoxLayout" name="verticalLayout_29">
+                 <item>
+                  <widget class="QLabel" name="weaImg_8">
+                   <property name="minimumSize">
+                    <size>
+                     <width>90</width>
+                     <height>81</height>
+                    </size>
+                   </property>
+                   <property name="maximumSize">
+                    <size>
+                     <width>90</width>
+                     <height>81</height>
+                    </size>
+                   </property>
+                   <property name="text">
+                    <string/>
+                   </property>
+                   <property name="pixmap">
+                    <pixmap resource="res.qrc">:/qing.png</pixmap>
+                   </property>
+                   <property name="scaledContents">
+                    <bool>true</bool>
+                   </property>
+                   <property name="wordWrap">
+                    <bool>true</bool>
+                   </property>
+                   <property name="margin">
+                    <number>1</number>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QLabel" name="labelWea_2">
+                   <property name="styleSheet">
+                    <string notr="true">color: white
+</string>
+                   </property>
+                   <property name="text">
+                    <string>多云</string>
+                   </property>
+                   <property name="alignment">
+                    <set>Qt::AlignCenter</set>
+                   </property>
+                  </widget>
+                 </item>
+                </layout>
+               </item>
+               <item>
+                <widget class="QLabel" name="labelTem_2">
+                 <property name="font">
+                  <font>
+                   <pointsize>50</pointsize>
+                  </font>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">color: white;</string>
+                 </property>
+                 <property name="text">
+                  <string>28.4</string>
+                 </property>
+                 <property name="alignment">
+                  <set>Qt::AlignCenter</set>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <spacer name="horizontalSpacer_5">
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                 <property name="sizeHint" stdset="0">
+                  <size>
+                   <width>40</width>
+                   <height>20</height>
+                  </size>
+                 </property>
+                </spacer>
+               </item>
+               <item>
+                <layout class="QVBoxLayout" name="verticalLayout_30">
+                 <item>
+                  <widget class="QLabel" name="labelTemp1_2">
+                   <property name="minimumSize">
+                    <size>
+                     <width>50</width>
+                     <height>0</height>
+                    </size>
+                   </property>
+                   <property name="styleSheet">
+                    <string notr="true">color: white
+</string>
+                   </property>
+                   <property name="text">
+                    <string>31</string>
+                   </property>
+                   <property name="alignment">
+                    <set>Qt::AlignHCenter|Qt::AlignTop</set>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <widget class="QLabel" name="labelTemp2_2">
+                   <property name="minimumSize">
+                    <size>
+                     <width>50</width>
+                     <height>0</height>
+                    </size>
+                   </property>
+                   <property name="styleSheet">
+                    <string notr="true">color: white
+</string>
+                   </property>
+                   <property name="text">
+                    <string>25</string>
+                   </property>
+                   <property name="alignment">
+                    <set>Qt::AlignBottom|Qt::AlignHCenter</set>
+                   </property>
+                  </widget>
+                 </item>
+                </layout>
+               </item>
+              </layout>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QVBoxLayout" name="verticalLayout_31" stretch="10,0">
+             <item>
+              <widget class="QWidget" name="widget01Center_2" native="true">
+               <property name="styleSheet">
+                <string notr="true">background-color: rgb(237, 212, 0);
+border-radius: 24px</string>
+               </property>
+               <widget class="QWidget" name="layoutWidget_12">
+                <property name="geometry">
+                 <rect>
+                  <x>30</x>
+                  <y>0</y>
+                  <width>279</width>
+                  <height>158</height>
+                 </rect>
+                </property>
+                <layout class="QHBoxLayout" name="horizontalLayout_17">
+                 <item>
+                  <widget class="QLabel" name="airImg_2">
+                   <property name="minimumSize">
+                    <size>
+                     <width>90</width>
+                     <height>81</height>
+                    </size>
+                   </property>
+                   <property name="maximumSize">
+                    <size>
+                     <width>90</width>
+                     <height>81</height>
+                    </size>
+                   </property>
+                   <property name="text">
+                    <string/>
+                   </property>
+                   <property name="pixmap">
+                    <pixmap resource="res.qrc">:/air.png</pixmap>
+                   </property>
+                   <property name="scaledContents">
+                    <bool>true</bool>
+                   </property>
+                   <property name="indent">
+                    <number>0</number>
+                   </property>
+                  </widget>
+                 </item>
+                 <item>
+                  <layout class="QVBoxLayout" name="verticalLayout_32">
+                   <item>
+                    <widget class="QLabel" name="labelAirPanel_2">
+                     <property name="styleSheet">
+                      <string notr="true">color: white
+</string>
+                     </property>
+                     <property name="text">
+                      <string>空气质量</string>
+                     </property>
+                     <property name="alignment">
+                      <set>Qt::AlignCenter</set>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <widget class="QLabel" name="labelAir_2">
+                     <property name="font">
+                      <font>
+                       <pointsize>50</pointsize>
+                      </font>
+                     </property>
+                     <property name="styleSheet">
+                      <string notr="true">color: white;</string>
+                     </property>
+                     <property name="text">
+                      <string>35</string>
+                     </property>
+                     <property name="alignment">
+                      <set>Qt::AlignCenter</set>
+                     </property>
+                    </widget>
+                   </item>
+                   <item>
+                    <layout class="QHBoxLayout" name="horizontalLayout_18">
+                     <item>
+                      <layout class="QHBoxLayout" name="horizontalLayout_19">
+                       <item>
+                        <widget class="QLabel" name="labelAirPmPanel_2">
+                         <property name="text">
+                          <string>pm25:</string>
+                         </property>
+                        </widget>
+                       </item>
+                       <item>
+                        <widget class="QLabel" name="labelAirPm_2">
+                         <property name="text">
+                          <string>21</string>
+                         </property>
+                         <property name="alignment">
+                          <set>Qt::AlignCenter</set>
+                         </property>
+                        </widget>
+                       </item>
+                      </layout>
+                     </item>
+                     <item>
+                      <widget class="QLabel" name="labelAirLevel_2">
+                       <property name="text">
+                        <string>优</string>
+                       </property>
+                       <property name="alignment">
+                        <set>Qt::AlignCenter</set>
+                       </property>
+                      </widget>
+                     </item>
+                    </layout>
+                   </item>
+                  </layout>
+                 </item>
+                </layout>
+               </widget>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="labelAirTips_2">
+               <property name="styleSheet">
+                <string notr="true">color:white
+</string>
+               </property>
+               <property name="text">
+                <string>* 空气质量令人满意，基本无空气污染</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <layout class="QHBoxLayout" name="horizontalLayout_20"/>
+         </item>
+         <item>
+          <layout class="QVBoxLayout" name="verticalLayout_33" stretch="0,5">
+           <item>
+            <layout class="QVBoxLayout" name="verticalLayout_34">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_21">
+               <item>
+                <widget class="QLabel" name="labelUpdateTimePanel_2">
+                 <property name="styleSheet">
+                  <string notr="true">color: white;</string>
+                 </property>
+                 <property name="text">
+                  <string>update-time:</string>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QLabel" name="labelUpdateTime_2">
+                 <property name="styleSheet">
+                  <string notr="true">color: white;</string>
+                 </property>
+                 <property name="text">
+                  <string>10:46</string>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QLabel" name="labelCity_2">
+               <property name="styleSheet">
+                <string notr="true">color: white;</string>
+               </property>
+               <property name="text">
+                <string>北京</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="labelCityEn_2">
+               <property name="styleSheet">
+                <string notr="true">color: white;</string>
+               </property>
+               <property name="text">
+                <string>beijing</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <widget class="QWidget" name="widget_3" native="true">
+             <property name="styleSheet">
+              <string notr="true">background-color: rgb(233, 185, 110);</string>
+             </property>
+             <widget class="QWidget" name="layoutWidget_13">
+              <property name="geometry">
+               <rect>
+                <x>0</x>
+                <y>0</y>
+                <width>181</width>
+                <height>231</height>
+               </rect>
+              </property>
+              <layout class="QVBoxLayout" name="verticalLayout_35">
+               <item>
+                <widget class="QLabel" name="labelSafePanel_2">
+                 <property name="text">
+                  <string>安全提示</string>
+                 </property>
+                 <property name="alignment">
+                  <set>Qt::AlignCenter</set>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="Line" name="line_5">
+                 <property name="styleSheet">
+                  <string notr="true">background-color: white;</string>
+                 </property>
+                 <property name="orientation">
+                  <enum>Qt::Horizontal</enum>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QLabel" name="labelSafe1_2">
+                 <property name="text">
+                  <string>安全提示</string>
+                 </property>
+                 <property name="alignment">
+                  <set>Qt::AlignCenter</set>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QLabel" name="labelSafe2_2">
+                 <property name="text">
+                  <string>安全提示</string>
+                 </property>
+                 <property name="alignment">
+                  <set>Qt::AlignCenter</set>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QLabel" name="labelSafe3_2">
+                 <property name="text">
+                  <string>安全提示</string>
+                 </property>
+                 <property name="alignment">
+                  <set>Qt::AlignCenter</set>
+                 </property>
+                </widget>
+               </item>
+               <item>
+                <widget class="QLabel" name="labelSafe4_2">
+                 <property name="text">
+                  <string>安全提示</string>
+                 </property>
+                 <property name="alignment">
+                  <set>Qt::AlignCenter</set>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+            </widget>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_6">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QWidget" name="widgetRight_2" native="true">
+       <property name="enabled">
+        <bool>true</bool>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>100</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>100</width>
+         <height>16777215</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(46, 52, 54);
+border-top-left-radius: 50px;
+border-bottom-left-radius: 50px;
+widgetRight {
+	border: 5px solid rgb(136, 138, 133);
+}
+</string>
+       </property>
+       <widget class="QWidget" name="layoutWidget_14">
+        <property name="geometry">
+         <rect>
+          <x>20</x>
+          <y>10</y>
+          <width>81</width>
+          <height>301</height>
+         </rect>
+        </property>
+        <layout class="QVBoxLayout" name="verticalLayout_36">
+         <item>
+          <layout class="QVBoxLayout" name="verticalLayout_37">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+           <item>
+            <widget class="QLabel" name="logoWin_4">
+             <property name="minimumSize">
+              <size>
+               <width>70</width>
+               <height>70</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>77</width>
+               <height>77</height>
+              </size>
+             </property>
+             <property name="font">
+              <font>
+               <kerning>true</kerning>
+              </font>
+             </property>
+             <property name="cursor">
+              <cursorShape>IBeamCursor</cursorShape>
+             </property>
+             <property name="autoFillBackground">
+              <bool>false</bool>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">background-color: rgb(238, 238, 236);
+border-radius: 38px</string>
+             </property>
+             <property name="text">
+              <string/>
+             </property>
+             <property name="pixmap">
+              <pixmap resource="res.qrc">:/uv.png</pixmap>
+             </property>
+             <property name="scaledContents">
+              <bool>true</bool>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="labelUvPanel_2">
+             <property name="styleSheet">
+              <string notr="true">color: rgb(238, 238, 236);</string>
+             </property>
+             <property name="text">
+              <string>压强</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="labelUvDesc_2">
+             <property name="styleSheet">
+              <string notr="true">color: rgb(238, 238, 236);</string>
+             </property>
+             <property name="text">
+              <string>中等</string>
+             </property>
+             <property name="alignment">
+              <set>Qt::AlignCenter</set>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item>
+          <widget class="Line" name="line_6">
+           <property name="styleSheet">
+            <string notr="true">background-color: white;</string>
+           </property>
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <layout class="QVBoxLayout" name="verticalLayout_38">
+           <item>
+            <layout class="QVBoxLayout" name="verticalLayout_39">
+             <item>
+              <widget class="QLabel" name="logoHumidity_4">
+               <property name="minimumSize">
+                <size>
+                 <width>70</width>
+                 <height>70</height>
+                </size>
+               </property>
+               <property name="maximumSize">
+                <size>
+                 <width>77</width>
+                 <height>77</height>
+                </size>
+               </property>
+               <property name="font">
+                <font>
+                 <kerning>true</kerning>
+                </font>
+               </property>
+               <property name="cursor">
+                <cursorShape>IBeamCursor</cursorShape>
+               </property>
+               <property name="autoFillBackground">
+                <bool>false</bool>
+               </property>
+               <property name="styleSheet">
+                <string notr="true">background-color: rgb(238, 238, 236);
+border-radius: 36px</string>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="pixmap">
+                <pixmap resource="res.qrc">:/visibility.png</pixmap>
+               </property>
+               <property name="scaledContents">
+                <bool>true</bool>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="labelVisibilityPanel_2">
+               <property name="styleSheet">
+                <string notr="true">color: rgb(238, 238, 236);</string>
+               </property>
+               <property name="text">
+                <string>可见度</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="labelVisibility_2">
+               <property name="styleSheet">
+                <string notr="true">color: rgb(238, 238, 236);</string>
+               </property>
+               <property name="text">
+                <string>11km</string>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignCenter</set>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="widgetTop" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>801</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(46, 52, 54);
+border-bottom: 5px solid rgb(136, 138, 133)</string>
+    </property>
+    <widget class="QWidget" name="layoutWidget_15">
+     <property name="geometry">
+      <rect>
+       <x>220</x>
+       <y>0</y>
+       <width>301</width>
+       <height>61</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_22">
+      <item>
+       <widget class="QTextEdit" name="searchText_2">
+        <property name="minimumSize">
+         <size>
+          <width>200</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>200</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: white;
+border-bottom: none</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QPushButton" name="searchButton_2">
+        <property name="minimumSize">
+         <size>
+          <width>30</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="maximumSize">
+         <size>
+          <width>30</width>
+          <height>30</height>
+         </size>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color: rgb(46, 52, 54)</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+        <property name="icon">
+         <iconset resource="res.qrc">
+          <normaloff>:/search.png</normaloff>:/search.png</iconset>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QWidget" name="layoutWidget_16">
+     <property name="geometry">
+      <rect>
+       <x>550</x>
+       <y>0</y>
+       <width>251</width>
+       <height>61</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_23">
+      <item>
+       <widget class="QLabel" name="labelWeek_2">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(46, 52, 54)</string>
+        </property>
+        <property name="text">
+         <string>xingqisan</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="labelDate_2">
+        <property name="styleSheet">
+         <string notr="true">color: rgb(255, 255, 255);
+background-color: rgb(46, 52, 54)</string>
+        </property>
+        <property name="text">
+         <string>2024-08-21</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+    <widget class="QWidget" name="widgetReturn_2" native="true">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>71</width>
+       <height>61</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(46, 52, 54);
+border-bottom-right-radius: 50px;
+border-bottom: 5px solid rgb(136, 138, 133);
+border-right: 5px solid rgb(136, 138, 133);</string>
+     </property>
+     <widget class="QPushButton" name="logoReturn_2">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>71</width>
+        <height>61</height>
+       </rect>
+      </property>
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="icon">
+       <iconset resource="res.qrc">
+        <normaloff>:/return.png</normaloff>:/return.png</iconset>
+      </property>
+      <property name="iconSize">
+       <size>
+        <width>40</width>
+        <height>40</height>
+       </size>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="widgetDays" native="true">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>570</y>
+      <width>671</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(46, 52, 54)</string>
+    </property>
+    <widget class="QWidget" name="layoutWidget_17">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>671</width>
+       <height>35</height>
+      </rect>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_24">
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_40">
+        <item>
+         <widget class="QPushButton" name="pushButton_8">
+          <property name="styleSheet">
+           <string notr="true">color: white;
+background-color: rgb(52, 101, 164);</string>
+          </property>
+          <property name="text">
+           <string>今天</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_41">
+        <item>
+         <widget class="QPushButton" name="pushButton_9">
+          <property name="styleSheet">
+           <string notr="true">color: white</string>
+          </property>
+          <property name="text">
+           <string>今天</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_42">
+        <item>
+         <widget class="QPushButton" name="pushButton_10">
+          <property name="styleSheet">
+           <string notr="true">color: white</string>
+          </property>
+          <property name="text">
+           <string>今天</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_43">
+        <item>
+         <widget class="QPushButton" name="pushButton_11">
+          <property name="styleSheet">
+           <string notr="true">color: white</string>
+          </property>
+          <property name="text">
+           <string>今天</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_44">
+        <item>
+         <widget class="QPushButton" name="pushButton_12">
+          <property name="styleSheet">
+           <string notr="true">color: white</string>
+          </property>
+          <property name="text">
+           <string>今天</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_45">
+        <item>
+         <widget class="QPushButton" name="pushButton_13">
+          <property name="styleSheet">
+           <string notr="true">color: white</string>
+          </property>
+          <property name="text">
+           <string>今天</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item>
+       <layout class="QVBoxLayout" name="verticalLayout_46">
+        <item>
+         <widget class="QPushButton" name="pushButton_14">
+          <property name="styleSheet">
+           <string notr="true">color: white</string>
+          </property>
+          <property name="text">
+           <string>今天</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="dayLinePanel" native="true">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>380</y>
+      <width>801</width>
+      <height>111</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(46, 52, 54);
+
+border: 3px solid rgb(136, 138, 133);</string>
+    </property>
+    <widget class="QScrollArea" name="dayLine">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>10</y>
+       <width>781</width>
+       <height>91</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(46, 52, 54);
+border:none;</string>
+     </property>
+     <property name="widgetResizable">
+      <bool>true</bool>
+     </property>
+     <widget class="QWidget" name="scrollAreaWidgetContents">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>781</width>
+        <height>91</height>
+       </rect>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QLabel" name="label_3">
+     <property name="geometry">
+      <rect>
+       <x>760</x>
+       <y>30</y>
+       <width>31</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: none;
+color:white;</string>
+     </property>
+     <property name="text">
+      <string>(℃)</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_4">
+     <property name="geometry">
+      <rect>
+       <x>760</x>
+       <y>70</y>
+       <width>31</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">border: none;
+color:white;</string>
+     </property>
+     <property name="text">
+      <string>(时)</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="dayLinePanel_2" native="true">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>490</y>
+      <width>671</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(46, 52, 54);
+
+border: 3px solid rgb(136, 138, 133);</string>
+    </property>
+    <widget class="QScrollArea" name="dayLine_3">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>0</y>
+       <width>651</width>
+       <height>71</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(46, 52, 54);
+border:none;</string>
+     </property>
+     <property name="widgetResizable">
+      <bool>true</bool>
+     </property>
+     <widget class="QWidget" name="scrollAreaWidgetContents_3">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>651</width>
+        <height>71</height>
+       </rect>
+      </property>
+     </widget>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>

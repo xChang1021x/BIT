@@ -1,0 +1,112 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+}
+textarea {
+    resize: none;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+}
+#timer {
+    height: 50px;
+    width: 450px;
+    font-size: 25px;
+    position: fixed;
+    top: 60px;
+    left: 100px;
+}
+#Hello {
+    font-size: 30px;
+}
+#examContainer {
+    margin: 0 auto;
+    width: 80%;
+    padding: 20px;
+    border: 1px solid white;
+}
+#endDisplay {
+    margin: 0 auto;
+    width: 80%;
+    padding: 20px;
+    border: 1px solid white;
+}
+#startButton {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#submitButton {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#questionImg1 {
+    display: block;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+#questionImg2 {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+#questionImg3 {
+    display: block;
+    width: 300px;
+    height: 150px;
+    margin: 0 auto;
+}
+#questionImg4 {
+    display: block;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+#questionImg5 {
+    display: block;
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+}
+#questionImg6 {
+    display: block;
+    width: 300px;
+    height: 400px;
+    margin: 0 auto;
+}
+#questionImg7 {
+    display: block;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+#questionContainer p {
+    font-size: 25px;
+}
+#usedTime {
+    font-size: 30px;
+}
+#score {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#incorrectAnswers {
+    font-size: 30px;
+}

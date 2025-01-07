@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="./onlinetest-style.css">
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>考试系统</title>
+</head>
+<body>
+    <%
+    response.write("Hello!");
+    %>
+    <div id="examContainer">
+        <h1>考试系统</h1>
+        <label for="username">用户名：</label>
+        <input type="text" id="username" required><br><br>
+        <input type="checkbox" id="readRules" required>
+        <label for="readRules">我已阅读并同意<a href="exam_rules.html" target="_blank">考试规则</a></label><br><br>
+        <button id="startButton" onclick="startExam()">开始考试</button>
+        <div id="Hello"></div>
+        <div id="questionContainer" style="display: none;">
+            <h2>动漫题</h2>
+            <div id="question1">
+                <p id="Question">1. 请问下列哪一部动画作品不是出自于京阿尼（京都动画）？</p>
+                <label><input type="radio" name="q1" value="A">A. 中二病也要谈恋爱</label>
+                <label><input type="radio" name="q1" value="B">B. 进击的巨人</label>
+                <label><input type="radio" name="q1" value="C">C. 冰菓</label>
+                <label><input type="radio" name="q1" value="D">D. 轻音少女</label>
+            </div>
+            <div id="question2">
+                <p id="Question">2. 请问下列哪一部动画作品不是出自于飞碟社（Ufotable） ？</p>
+                <label><input type="radio" name="q2" value="A">A. Fate</label>
+                <label><input type="radio" name="q2" value="B">B. 噬神者</label>
+                <label><input type="radio" name="q2" value="C">C. 一拳超人</label>
+                <label><input type="radio" name="q2" value="D">D. 鬼灭之刃</label>
+            </div>
+            <div id="question3">
+                <p id="Question">3. 请问下列哪一部作品不是出自于 MAPPA ？</p>
+                <label><input type="radio" name="q3" value="A">A. 狂赌之渊</label>
+                <label><input type="radio" name="q3" value="B">B. 咒术回战</label>
+                <label><input type="radio" name="q3" value="C">C. 链锯人</label>
+                <label><input type="radio" name="q3" value="D">D. 声之形</label>
+            </div>
+            <div id="question4">
+                <p id="Question">4. 请问下图中的画面出自哪一部动漫？</p>
+                <img id="questionImg1" src="./素材/动漫1.jfif" alt="图1">
+                <label><input type="radio" name="q4" value="A">A. Overlord</label>
+                <label><input type="radio" name="q4" value="B">B. 想要成为影之实力者</label>
+                <label><input type="radio" name="q4" value="C">C. 一拳超人</label>
+                <label><input type="radio" name="q4" value="D">D. 魔王学院的不适任者</label>
+            </div>
+            
+            <div id="question5">
+                <p id="Question">5. 请问下图中的人物叫什么？</p>
+                <img id="questionImg2" src="./素材/人物1.jpg" alt="图2">
+                <label><input type="radio" name="q5" value="A">A. 谢斯塔</label>
+                <label><input type="radio" name="q5" value="B">B. 鸢一折纸</label>
+                <label><input type="radio" name="q5" value="C">C. 伊蕾娜</label>
+                <label><input type="radio" name="q5" value="D">D. 锦木千束</label>
+            </div>
+            <div id="question6">
+                <p id="Question">6. 请选出属于下图中的动漫的人物（答案可能不止一个）</p>
+                <img id="questionImg3" src="./素材/动漫2.jfif" alt="图3">
+                <label><input type="checkbox" name="q6a" value="A">A. 五河琴里</label>
+                <label><input type="checkbox" name="q6b" value="B">B. 时崎狂三</label>
+                <label><input type="checkbox" name="q6c" value="C">C. 蕾姆</label>
+                <label><input type="checkbox" name="q6d" value="D">D. 鸢一折纸</label>
+            </div>
+            <div id="question7">
+                <p id="Question">7. 请选出属于下图中的动漫的人物（答案可能不止一个）</p>
+                <img id="questionImg4" src="./素材/动漫3.jpg" alt="图4">
+                <label><input type="checkbox" name="q7a" value="A">A. 伊蕾娜</label>
+                <label><input type="checkbox" name="q7b" value="B">B. 洛琪希</label>
+                <label><input type="checkbox" name="q7c" value="C">C. 艾莉丝</label>
+                <label><input type="checkbox" name="q7d" value="D">D. 希露菲</label>
+            </div>
+            <div id="question8">
+                <p id="Question">8. 请选出属于下图中的动漫的人物（答案可能不止一个）</p>
+                <img id="questionImg5" src="./素材/动漫4.jfif" alt="图5">
+                <label><input type="checkbox" name="q8a" value="A">A. 五条悟</label>
+                <label><input type="checkbox" name="q8b" value="B">B. 虎杖悠仁</label>
+                <label><input type="checkbox" name="q8c" value="C">C. 七海建人</label>
+                <label><input type="checkbox" name="q8d" value="D">D. 金木研</label>
+            </div>
+            <!-- <div id="question9">
+                <p id="Question">4. 请简要解释什么是平方根：</p>
+                <textarea id="q4" rows="4" cols="50" placeholder="请输入您的答案"></textarea>
+            </div>
+            <div id="question10">
+                <p id="Question">4. 请简要解释什么是平方根：</p>
+                <textarea id="q4" rows="4" cols="50" placeholder="请输入您的答案"></textarea>
+            </div> -->
+            
+            <!-- 添加更多题目 -->
+        </div>
+        <button id="submitButton" style="display: none;">提交</button>
+        <div id="score" style="display: none;"></div>
+        <div id="incorrectAnswers" style="display: none;"></div>
+        <div id="timer" style="display: none;"></div>
+    </div>
+    <script src="./onlinetestfunction.js"></script>
+</body>
+</html>

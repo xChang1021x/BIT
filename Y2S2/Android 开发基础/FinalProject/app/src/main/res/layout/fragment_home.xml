@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:background="@drawable/nav_background"
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/layoutSearch">
+
+        <ImageButton
+            android:id="@+id/add_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_3d"
+            android:src="@drawable/ic_add_notes"
+            android:stateListAnimator="@null"
+            android:layout_marginEnd="@dimen/activity_vertical_margin"/>
+
+        <ImageButton
+            android:id="@+id/more_setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_3d"
+            android:src="@drawable/ic_menu_more"
+            android:stateListAnimator="@null"
+            android:layout_marginEnd="@dimen/activity_vertical_margin"/>
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/layoutSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/toolBar"
+        android:layout_marginEnd="8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_search"/>
+
+        <EditText
+            android:id="@+id/note_search"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:inputType="text"
+            android:hint="@string/searchText"/>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView_notes"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="20dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        app:layout_constraintBottom_toTopOf="@+id/navInvisible"
+        app:layout_constraintTop_toBottomOf="@id/layoutSearch"
+        app:layout_constraintVertical_bias="1.0"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <LinearLayout
+        android:id="@+id/navInvisible"
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:elevation="8dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\\u65B0\u5EFA\u6587\u4EF6\u5939\\project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4F8C27-7D4D-45F9-98E4-1345707F74ED}|project2\\project2.vcxproj|D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\\u65B0\u5EFA\u6587\u4EF6\u5939\\project2\\project2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C4F8C27-7D4D-45F9-98E4-1345707F74ED}|project2\\project2.vcxproj|solutionrelative:project2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\\u65B0\u5EFA\u6587\u4EF6\u5939\\project2\\project2\\main.cpp",
+              "RelativeDocumentMoniker": "project2\\main.cpp",
+              "ToolTip": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\\u65B0\u5EFA\u6587\u4EF6\u5939\\project2\\project2\\main.cpp",
+              "RelativeToolTip": "project2\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-20T06:03:55.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

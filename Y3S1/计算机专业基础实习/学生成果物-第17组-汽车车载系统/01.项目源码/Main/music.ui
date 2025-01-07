@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Music</class>
+ <widget class="QWidget" name="Music">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QPushButton" name="btnPlaylist">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>410</y>
+     <width>61</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/Playlist.png</normaloff>:/Playlist.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>70</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QSlider" name="progressBar">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>470</y>
+     <width>761</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="mouseTracking">
+    <bool>false</bool>
+   </property>
+   <property name="tabletTracking">
+    <bool>false</bool>
+   </property>
+   <property name="maximum">
+    <number>1100</number>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Horizontal</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnPause">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>410</y>
+     <width>81</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/Play.png</normaloff>:/Play.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>70</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnPrevious">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>410</y>
+     <width>81</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/Previous(2).png</normaloff>:/Previous(2).png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>70</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnNext">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>410</y>
+     <width>91</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/Next(2).png</normaloff>:/Next(2).png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>70</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QSlider" name="volumeBar">
+   <property name="geometry">
+    <rect>
+     <x>710</x>
+     <y>140</y>
+     <width>31</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <property name="orientation">
+    <enum>Qt::Vertical</enum>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnPlaybackMode">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>410</y>
+     <width>61</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/Sequential.png</normaloff>:/Sequential.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>55</width>
+     <height>55</height>
+    </size>
+   </property>
+   <property name="autoRepeatDelay">
+    <number>300</number>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnAdd">
+   <property name="geometry">
+    <rect>
+     <x>670</x>
+     <y>30</y>
+     <width>71</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>0</width>
+     <height>50</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/Add.png</normaloff>:/Add.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>70</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnFavourites">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>30</y>
+     <width>81</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>0</width>
+     <height>50</height>
+    </size>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/Favourites.png</normaloff>:/Favourites.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>70</width>
+     <height>70</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelMusic">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>110</y>
+     <width>251</width>
+     <height>241</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="res.qrc">:/music.png</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnDelete">
+   <property name="geometry">
+    <rect>
+     <x>570</x>
+     <y>30</y>
+     <width>71</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/Delete.png</normaloff>:/Delete.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>60</width>
+     <height>60</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QLabel" name="currentTime">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>500</y>
+     <width>41</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>00:00</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="totalTime">
+   <property name="geometry">
+    <rect>
+     <x>730</x>
+     <y>490</y>
+     <width>51</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>00:00</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>801</width>
+     <height>601</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(167, 72, 191, 255), stop:1 rgba(255, 255, 255, 255));</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="songName">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>340</y>
+     <width>661</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Song Name</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="btnBack">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>91</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color:rgb(46, 52, 54);
+border-right: 5px solid rgb(136, 138, 133);
+border-bottom: 5px solid rgb(136, 138, 133);
+border-bottom-right-radius: 70px;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="icon">
+    <iconset resource="res.qrc">
+     <normaloff>:/return.png</normaloff>:/return.png</iconset>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>50</width>
+     <height>50</height>
+    </size>
+   </property>
+  </widget>
+  <zorder>label</zorder>
+  <zorder>btnPlaylist</zorder>
+  <zorder>progressBar</zorder>
+  <zorder>btnPause</zorder>
+  <zorder>btnPrevious</zorder>
+  <zorder>btnNext</zorder>
+  <zorder>volumeBar</zorder>
+  <zorder>btnPlaybackMode</zorder>
+  <zorder>btnAdd</zorder>
+  <zorder>btnFavourites</zorder>
+  <zorder>labelMusic</zorder>
+  <zorder>btnDelete</zorder>
+  <zorder>currentTime</zorder>
+  <zorder>totalTime</zorder>
+  <zorder>songName</zorder>
+  <zorder>btnBack</zorder>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="8dp" /> <!-- 设置圆角的半径 -->
+    <solid android:color="@color/purple_200"/> <!-- 设置背景颜色 -->
+    <!-- 如果需要，可以添加其他定义形状的元素，如 stroke -->
+</shape>

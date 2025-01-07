@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Image</class>
+ <widget class="QWidget" name="Image">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>600</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QWidget" name="verticalLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>804</width>
+      <height>608</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_2">
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <item>
+        <widget class="QPushButton" name="rotateleft">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/rotate-left.png</normaloff>:/rotate-left.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="rotateright">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/rotate-right.png</normaloff>:/rotate-right.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <item>
+        <widget class="QWidget" name="widget_2" native="true">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>400</height>
+          </size>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">background-color: rgb(255, 255, 255);</string>
+         </property>
+         <widget class="QPushButton" name="next">
+          <property name="geometry">
+           <rect>
+            <x>700</x>
+            <y>0</y>
+            <width>101</width>
+            <height>401</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset resource="res.qrc">
+            <normaloff>:/Next.png</normaloff>:/Next.png</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>80</width>
+            <height>80</height>
+           </size>
+          </property>
+         </widget>
+         <widget class="QLabel" name="image">
+          <property name="geometry">
+           <rect>
+            <x>210</x>
+            <y>80</y>
+            <width>361</width>
+            <height>261</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(238, 238, 236);</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="pre">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>0</y>
+            <width>101</width>
+            <height>401</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset resource="res.qrc">
+            <normaloff>:/Previous.png</normaloff>:/Previous.png</iconset>
+          </property>
+          <property name="iconSize">
+           <size>
+            <width>80</width>
+            <height>80</height>
+           </size>
+          </property>
+         </widget>
+         <widget class="QLabel" name="info">
+          <property name="geometry">
+           <rect>
+            <x>310</x>
+            <y>0</y>
+            <width>171</width>
+            <height>51</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="info_2">
+          <property name="geometry">
+           <rect>
+            <x>600</x>
+            <y>0</y>
+            <width>91</width>
+            <height>41</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="label">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>0</y>
+            <width>811</width>
+            <height>611</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">background-color: rgb(255, 255, 255);</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <zorder>label</zorder>
+         <zorder>next</zorder>
+         <zorder>image</zorder>
+         <zorder>pre</zorder>
+         <zorder>info</zorder>
+         <zorder>info_2</zorder>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_3">
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <item>
+        <widget class="QPushButton" name="file">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/OpenFile.png</normaloff>:/OpenFile.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>70</width>
+           <height>70</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="mirror">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/mirror.png</normaloff>:/mirror.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="max">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/maximize.png</normaloff>:/maximize.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="min">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/minimize.png</normaloff>:/minimize.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="up">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/move_up.png</normaloff>:/move_up.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="down">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/move_down.png</normaloff>:/move_down.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="left">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/move-left.png</normaloff>:/move-left.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="right">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/move-right.png</normaloff>:/move-right.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="reset">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/reset.png</normaloff>:/reset.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>80</width>
+           <height>80</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="quit">
+         <property name="minimumSize">
+          <size>
+           <width>0</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>80</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="res.qrc">
+           <normaloff>:/quit.png</normaloff>:/quit.png</iconset>
+         </property>
+         <property name="iconSize">
+          <size>
+           <width>70</width>
+           <height>70</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
+ <connections/>
+</ui>

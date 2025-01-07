@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\p4\\date\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C279D9-7466-4F22-9250-D2E57B08A042}|date\\date.vcxproj|D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\p4\\date\\date\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5C279D9-7466-4F22-9250-D2E57B08A042}|date\\date.vcxproj|solutionrelative:date\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\p4\\date\\date\\main.cpp",
+              "RelativeDocumentMoniker": "date\\main.cpp",
+              "ToolTip": "D:\\STUDY\\beijing_universiti_folder4\\\u9762\u5411\u5BF9\u8C61\\code\\p4\\date\\date\\main.cpp",
+              "RelativeToolTip": "date\\main.cpp",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-19T16:28:05.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

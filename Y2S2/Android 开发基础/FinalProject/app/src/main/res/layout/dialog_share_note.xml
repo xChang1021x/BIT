@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="你想要将此笔记分享到哪个账户？"
+        android:textSize="25sp"/>
+
+    <EditText
+        android:id="@+id/usernameShare"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username" />
+
+    <Button
+        android:id="@+id/share_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Share" />
+
+    <Button
+        android:id="@+id/cancel_share_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel" />
+</LinearLayout>

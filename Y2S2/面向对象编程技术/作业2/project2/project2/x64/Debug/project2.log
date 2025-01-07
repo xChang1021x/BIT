@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\STUDY\beijing_universiti_folder4\面向对象\code\新建文件夹\project2\project2\main.cpp(51,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\STUDY\beijing_universiti_folder4\面向对象\code\新建文件夹\project2\project2\main.cpp(53,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\STUDY\beijing_universiti_folder4\面向对象\code\新建文件夹\project2\project2\main.cpp(54,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\STUDY\beijing_universiti_folder4\面向对象\code\新建文件夹\project2\project2\main.cpp(55,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\STUDY\beijing_universiti_folder4\面向对象\code\新建文件夹\project2\project2\main.cpp(56,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\STUDY\beijing_universiti_folder4\面向对象\code\新建文件夹\project2\project2\main.cpp(58,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\STUDY\beijing_universiti_folder4\面向对象\code\新建文件夹\project2\project2\main.cpp(50,31): warning C4101: “k5”: 未引用的局部变量
+  project2.vcxproj -> D:\STUDY\beijing_universiti_folder4\面向对象\code\新建文件夹\project2\x64\Debug\project2.exe

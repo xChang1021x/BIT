@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-size: 2500px;
+    background-color:cyan;
+}
+
+h1
+{
+    color: rgb(141, 0, 0);
+    background-color: gray;
+    padding: 30px 0;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2{
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+h3.top1{
+    color: gold;
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    margin-left: -50px;
+}
+h3.top2{
+    color: silver;
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    margin-left: -50px;
+}
+h3.top3{
+    color: brown;
+    font-size: 25px;
+    display: block;
+    text-align: center;
+    margin-left: -50px;
+}
+
+h3.name{
+    text-align: center;
+    margin-left: -50px;
+}
+h3.mood{
+    text-align: center;
+    margin-left: -50px;
+}
+
+a.name{
+    text-decoration: none;
+}
+a.name:hover{
+    text-decoration: underline;
+}
+
+b.a{
+    color:midnightblue;
+}
+
+b.b{
+    color:darkorange;
+}
+
+p{
+    font-weight:50;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+img.tv{
+    width: 350px;
+    height: 500px;
+    margin-right: 50px;
+}
+img.tv:hover{
+    transform: translateY(-10px);
+}
+img.tv:active{
+    transform: translateY(0px);
+}
+
+img.game{
+    width: 600px;
+    height: 450px;
+    margin-right: 40px;
+}
+img.game:hover{
+    transform: translateY(-10px);
+}
+img.game:active{
+    transform: translateY(0px);
+}
+
+img.mood{
+    margin-right: 40px;
+}
+
+div.bolder{
+    display:inline-flex;
+}
+
+div.favourite{
+    display: block;
+
+}
+
+
+ul{
+    font-size: 25px;
+    margin: 0 auto;
+}
+
+li.music{
+    list-style-type: none;
+}
+
+ol{
+    font-size: 25px;
+}
