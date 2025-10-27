@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>首页</title>
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+				background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+				min-height: 100vh;
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+				padding: 2rem;
+			}
+
+			.container {
+				background: rgba(255, 255, 255, 0.95);
+				padding: 3rem;
+				border-radius: 20px;
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+				text-align: center;
+				max-width: 800px;
+				width: 100%;
+			}
+
+			h1 {
+				color: #333;
+				font-size: 2.5rem;
+				margin-bottom: 2rem;
+				font-weight: 300;
+			}
+
+			.nav-links {
+				margin: 2rem 0;
+			}
+
+			.nav-links a {
+				display: inline-block;
+				background: linear-gradient(45deg, #667eea, #764ba2);
+				color: white;
+				padding: 15px 30px;
+				text-decoration: none;
+				border-radius: 25px;
+				font-weight: 500;
+				margin: 0 10px;
+				transition: all 0.3s ease;
+				box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+			}
+
+			.nav-links a:hover {
+				transform: translateY(-3px);
+				box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+			}
+
+			.image-container {
+				margin-top: 2rem;
+			}
+
+			.image-container img {
+				max-width: 100%;
+				height: auto;
+				border-radius: 15px;
+				box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			
+			<div class="nav-links">
+				<a href="Calculator.html">计算器</a>
+				<a href="Query.html">查询</a>
+			</div>
+			
+		</div>
+	</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>403 Forbidden</title>
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+				background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+				min-height: 100vh;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+
+			.error-container {
+				background: rgba(255, 255, 255, 0.95);
+				padding: 3rem;
+				border-radius: 15px;
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+				text-align: center;
+				max-width: 500px;
+				width: 90%;
+			}
+
+			h1 {
+				color: #e74c3c;
+				font-size: 3rem;
+				margin-bottom: 1rem;
+				font-weight: 300;
+			}
+
+			h2 {
+				color: #e74c3c;
+				font-size: 2rem;
+				margin-bottom: 1rem;
+				font-weight: 300;
+			}
+
+			p {
+				color: #555;
+				font-size: 1.2rem;
+				margin-bottom: 2rem;
+			}
+
+			.home-link {
+				display: inline-block;
+				background: linear-gradient(45deg, #ff6b6b, #ee5a24);
+				color: white;
+				padding: 12px 30px;
+				text-decoration: none;
+				border-radius: 25px;
+				font-weight: 500;
+				transition: transform 0.3s ease;
+			}
+
+			.home-link:hover {
+				transform: translateY(-2px);
+			}
+		</style>
+	</head>
+	<body>
+		<div class="error-container">
+			<h1>403</h1>
+			<h2>Forbidden</h2>
+			<p>抱歉，您没有权限访问该页面。</p>
+			<a href="index.html" class="home-link">返回首页</a>
+		</div>
+	</body>
+</html>

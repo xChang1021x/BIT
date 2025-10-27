@@ -1,0 +1,8322 @@
+[
+  {
+    "code": 1,
+    "name": "临沧市",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 101,
+        "name": "临翔区",
+        "parentId": 1,
+        "children": [
+          {
+            "code": 10101,
+            "name": "凤翔街道",
+            "parentId": 101
+          },
+          {
+            "code": 10102,
+            "name": "南美拉祜族乡",
+            "parentId": 101
+          },
+          {
+            "code": 10103,
+            "name": "博尚镇",
+            "parentId": 101
+          },
+          {
+            "code": 10104,
+            "name": "圈内乡",
+            "parentId": 101
+          },
+          {
+            "code": 10105,
+            "name": "平村彝族傣族乡",
+            "parentId": 101
+          },
+          {
+            "code": 10106,
+            "name": "忙畔街道",
+            "parentId": 101
+          },
+          {
+            "code": 10107,
+            "name": "章驮乡",
+            "parentId": 101
+          },
+          {
+            "code": 10108,
+            "name": "蚂蚁堆乡",
+            "parentId": 101
+          },
+          {
+            "code": 10109,
+            "name": "邦东乡",
+            "parentId": 101
+          },
+          {
+            "code": 10110,
+            "name": "马台乡",
+            "parentId": 101
+          }
+        ]
+      },
+      {
+        "code": 102,
+        "name": "云县",
+        "parentId": 1,
+        "children": [
+          {
+            "code": 10201,
+            "name": "临沧监狱",
+            "parentId": 102
+          },
+          {
+            "code": 10202,
+            "name": "后箐彝族乡",
+            "parentId": 102
+          },
+          {
+            "code": 10203,
+            "name": "大寨镇",
+            "parentId": 102
+          },
+          {
+            "code": 10204,
+            "name": "大朝山西镇",
+            "parentId": 102
+          },
+          {
+            "code": 10205,
+            "name": "幸福农场",
+            "parentId": 102
+          },
+          {
+            "code": 10206,
+            "name": "幸福镇",
+            "parentId": 102
+          },
+          {
+            "code": 10207,
+            "name": "忙怀彝族布朗族乡",
+            "parentId": 102
+          },
+          {
+            "code": 10208,
+            "name": "晓街乡",
+            "parentId": 102
+          },
+          {
+            "code": 10209,
+            "name": "栗树彝族傣族乡",
+            "parentId": 102
+          },
+          {
+            "code": 10210,
+            "name": "涌宝镇",
+            "parentId": 102
+          },
+          {
+            "code": 10211,
+            "name": "漫湾镇",
+            "parentId": 102
+          },
+          {
+            "code": 10212,
+            "name": "爱华镇",
+            "parentId": 102
+          },
+          {
+            "code": 10213,
+            "name": "茂兰镇",
+            "parentId": 102
+          },
+          {
+            "code": 10214,
+            "name": "茶房乡",
+            "parentId": 102
+          }
+        ]
+      },
+      {
+        "code": 103,
+        "name": "凤庆县",
+        "parentId": 1,
+        "children": [
+          {
+            "code": 10301,
+            "name": "三岔河镇",
+            "parentId": 103
+          },
+          {
+            "code": 10302,
+            "name": "凤山镇",
+            "parentId": 103
+          },
+          {
+            "code": 10303,
+            "name": "勐佑镇",
+            "parentId": 103
+          },
+          {
+            "code": 10304,
+            "name": "大寺乡",
+            "parentId": 103
+          },
+          {
+            "code": 10305,
+            "name": "小湾镇",
+            "parentId": 103
+          },
+          {
+            "code": 10306,
+            "name": "新华彝族苗族乡",
+            "parentId": 103
+          },
+          {
+            "code": 10307,
+            "name": "洛党镇",
+            "parentId": 103
+          },
+          {
+            "code": 10308,
+            "name": "腰街彝族乡",
+            "parentId": 103
+          },
+          {
+            "code": 10309,
+            "name": "营盘镇",
+            "parentId": 103
+          },
+          {
+            "code": 10310,
+            "name": "诗礼乡",
+            "parentId": 103
+          },
+          {
+            "code": 10311,
+            "name": "郭大寨彝族白族乡",
+            "parentId": 103
+          },
+          {
+            "code": 10312,
+            "name": "雪山镇",
+            "parentId": 103
+          },
+          {
+            "code": 10313,
+            "name": "鲁史镇",
+            "parentId": 103
+          }
+        ]
+      },
+      {
+        "code": 104,
+        "name": "双江拉祜族佤族布朗族傣族自治县",
+        "parentId": 1,
+        "children": [
+          {
+            "code": 10401,
+            "name": "勐勐镇",
+            "parentId": 104
+          },
+          {
+            "code": 10402,
+            "name": "勐库镇",
+            "parentId": 104
+          },
+          {
+            "code": 10403,
+            "name": "大文乡",
+            "parentId": 104
+          },
+          {
+            "code": 10404,
+            "name": "忙糯乡",
+            "parentId": 104
+          },
+          {
+            "code": 10405,
+            "name": "沙河乡",
+            "parentId": 104
+          },
+          {
+            "code": 10406,
+            "name": "邦丙乡",
+            "parentId": 104
+          }
+        ]
+      },
+      {
+        "code": 105,
+        "name": "永德县",
+        "parentId": 1,
+        "children": [
+          {
+            "code": 10501,
+            "name": "乌木龙彝族乡",
+            "parentId": 105
+          },
+          {
+            "code": 10502,
+            "name": "亚练乡",
+            "parentId": 105
+          },
+          {
+            "code": 10503,
+            "name": "勐底农场",
+            "parentId": 105
+          },
+          {
+            "code": 10504,
+            "name": "勐板乡",
+            "parentId": 105
+          },
+          {
+            "code": 10505,
+            "name": "大山乡",
+            "parentId": 105
+          },
+          {
+            "code": 10506,
+            "name": "大雪山彝族拉祜族傣族乡",
+            "parentId": 105
+          },
+          {
+            "code": 10507,
+            "name": "小勐统镇",
+            "parentId": 105
+          },
+          {
+            "code": 10508,
+            "name": "崇岗乡",
+            "parentId": 105
+          },
+          {
+            "code": 10509,
+            "name": "德党镇",
+            "parentId": 105
+          },
+          {
+            "code": 10510,
+            "name": "永康镇",
+            "parentId": 105
+          },
+          {
+            "code": 10511,
+            "name": "班卡乡",
+            "parentId": 105
+          }
+        ]
+      },
+      {
+        "code": 106,
+        "name": "沧源佤族自治县",
+        "parentId": 1,
+        "children": [
+          {
+            "code": 10601,
+            "name": "勐来乡",
+            "parentId": 106
+          },
+          {
+            "code": 10602,
+            "name": "勐省农场",
+            "parentId": 106
+          },
+          {
+            "code": 10603,
+            "name": "勐省镇",
+            "parentId": 106
+          },
+          {
+            "code": 10604,
+            "name": "勐董镇",
+            "parentId": 106
+          },
+          {
+            "code": 10605,
+            "name": "勐角傣族彝族拉祜族乡",
+            "parentId": 106
+          },
+          {
+            "code": 10606,
+            "name": "单甲乡",
+            "parentId": 106
+          },
+          {
+            "code": 10607,
+            "name": "岩帅镇",
+            "parentId": 106
+          },
+          {
+            "code": 10608,
+            "name": "班洪乡",
+            "parentId": 106
+          },
+          {
+            "code": 10609,
+            "name": "班老乡",
+            "parentId": 106
+          },
+          {
+            "code": 10610,
+            "name": "糯良乡",
+            "parentId": 106
+          },
+          {
+            "code": 10611,
+            "name": "芒卡镇",
+            "parentId": 106
+          }
+        ]
+      },
+      {
+        "code": 107,
+        "name": "耿马傣族佤族自治县",
+        "parentId": 1,
+        "children": [
+          {
+            "code": 10701,
+            "name": "勐撒农场",
+            "parentId": 107
+          },
+          {
+            "code": 10702,
+            "name": "勐撒镇",
+            "parentId": 107
+          },
+          {
+            "code": 10703,
+            "name": "勐永镇",
+            "parentId": 107
+          },
+          {
+            "code": 10704,
+            "name": "勐简乡",
+            "parentId": 107
+          },
+          {
+            "code": 10705,
+            "name": "四排山乡",
+            "parentId": 107
+          },
+          {
+            "code": 10706,
+            "name": "大兴乡",
+            "parentId": 107
+          },
+          {
+            "code": 10707,
+            "name": "孟定农场",
+            "parentId": 107
+          },
+          {
+            "code": 10708,
+            "name": "孟定镇",
+            "parentId": 107
+          },
+          {
+            "code": 10709,
+            "name": "耿马华侨农场",
+            "parentId": 107
+          },
+          {
+            "code": 10710,
+            "name": "耿马镇",
+            "parentId": 107
+          },
+          {
+            "code": 10711,
+            "name": "芒洪拉祜族布朗族乡",
+            "parentId": 107
+          },
+          {
+            "code": 10712,
+            "name": "贺派乡",
+            "parentId": 107
+          }
+        ]
+      },
+      {
+        "code": 108,
+        "name": "镇康县",
+        "parentId": 1,
+        "children": [
+          {
+            "code": 10801,
+            "name": "军赛佤族拉祜族傈僳族德昂族乡",
+            "parentId": 108
+          },
+          {
+            "code": 10802,
+            "name": "凤尾镇",
+            "parentId": 108
+          },
+          {
+            "code": 10803,
+            "name": "勐堆乡",
+            "parentId": 108
+          },
+          {
+            "code": 10804,
+            "name": "勐捧镇",
+            "parentId": 108
+          },
+          {
+            "code": 10805,
+            "name": "南伞镇",
+            "parentId": 108
+          },
+          {
+            "code": 10806,
+            "name": "忙丙乡",
+            "parentId": 108
+          },
+          {
+            "code": 10807,
+            "name": "木场乡",
+            "parentId": 108
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 2,
+    "name": "丽江市",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 201,
+        "name": "华坪县",
+        "parentId": 2,
+        "children": [
+          {
+            "code": 20101,
+            "name": "中心镇",
+            "parentId": 201
+          },
+          {
+            "code": 20102,
+            "name": "兴泉镇",
+            "parentId": 201
+          },
+          {
+            "code": 20103,
+            "name": "新庄傈僳族傣族乡",
+            "parentId": 201
+          },
+          {
+            "code": 20104,
+            "name": "永兴傈僳族乡",
+            "parentId": 201
+          },
+          {
+            "code": 20105,
+            "name": "石龙坝镇",
+            "parentId": 201
+          },
+          {
+            "code": 20106,
+            "name": "船房傈僳族傣族乡",
+            "parentId": 201
+          },
+          {
+            "code": 20107,
+            "name": "荣将镇",
+            "parentId": 201
+          },
+          {
+            "code": 20108,
+            "name": "通达傈僳族乡",
+            "parentId": 201
+          }
+        ]
+      },
+      {
+        "code": 202,
+        "name": "古城区",
+        "parentId": 2,
+        "children": [
+          {
+            "code": 20201,
+            "name": "七河镇",
+            "parentId": 202
+          },
+          {
+            "code": 20202,
+            "name": "大东乡",
+            "parentId": 202
+          },
+          {
+            "code": 20203,
+            "name": "大研街道",
+            "parentId": 202
+          },
+          {
+            "code": 20204,
+            "name": "开南街道",
+            "parentId": 202
+          },
+          {
+            "code": 20205,
+            "name": "文化街道",
+            "parentId": 202
+          },
+          {
+            "code": 20206,
+            "name": "束河街道",
+            "parentId": 202
+          },
+          {
+            "code": 20207,
+            "name": "祥和街道",
+            "parentId": 202
+          },
+          {
+            "code": 20208,
+            "name": "西安街道",
+            "parentId": 202
+          },
+          {
+            "code": 20209,
+            "name": "金安镇",
+            "parentId": 202
+          },
+          {
+            "code": 20210,
+            "name": "金山街道",
+            "parentId": 202
+          },
+          {
+            "code": 20211,
+            "name": "金江白族乡",
+            "parentId": 202
+          }
+        ]
+      },
+      {
+        "code": 203,
+        "name": "宁蒗彝族自治县",
+        "parentId": 2,
+        "children": [
+          {
+            "code": 20301,
+            "name": "大兴街道",
+            "parentId": 203
+          },
+          {
+            "code": 20302,
+            "name": "宁利乡",
+            "parentId": 203
+          },
+          {
+            "code": 20303,
+            "name": "战河镇",
+            "parentId": 203
+          },
+          {
+            "code": 20304,
+            "name": "拉伯乡",
+            "parentId": 203
+          },
+          {
+            "code": 20305,
+            "name": "新营盘乡",
+            "parentId": 203
+          },
+          {
+            "code": 20306,
+            "name": "永宁坪乡",
+            "parentId": 203
+          },
+          {
+            "code": 20307,
+            "name": "永宁镇",
+            "parentId": 203
+          },
+          {
+            "code": 20308,
+            "name": "烂泥箐乡",
+            "parentId": 203
+          },
+          {
+            "code": 20309,
+            "name": "紫玛街道",
+            "parentId": 203
+          },
+          {
+            "code": 20310,
+            "name": "红桥镇",
+            "parentId": 203
+          },
+          {
+            "code": 20311,
+            "name": "翠玉傈僳族普米族乡",
+            "parentId": 203
+          },
+          {
+            "code": 20312,
+            "name": "蝉战河乡",
+            "parentId": 203
+          },
+          {
+            "code": 20313,
+            "name": "西川乡",
+            "parentId": 203
+          },
+          {
+            "code": 20314,
+            "name": "西布河乡",
+            "parentId": 203
+          },
+          {
+            "code": 20315,
+            "name": "跑马坪乡",
+            "parentId": 203
+          },
+          {
+            "code": 20316,
+            "name": "金棉乡",
+            "parentId": 203
+          }
+        ]
+      },
+      {
+        "code": 204,
+        "name": "永胜县",
+        "parentId": 2,
+        "children": [
+          {
+            "code": 20401,
+            "name": "三川镇",
+            "parentId": 204
+          },
+          {
+            "code": 20402,
+            "name": "东山傈僳族彝族乡",
+            "parentId": 204
+          },
+          {
+            "code": 20403,
+            "name": "仁和镇",
+            "parentId": 204
+          },
+          {
+            "code": 20404,
+            "name": "光华傈僳族彝族乡",
+            "parentId": 204
+          },
+          {
+            "code": 20405,
+            "name": "六德傈僳族彝族乡",
+            "parentId": 204
+          },
+          {
+            "code": 20406,
+            "name": "大安彝族纳西族乡",
+            "parentId": 204
+          },
+          {
+            "code": 20407,
+            "name": "期纳镇",
+            "parentId": 204
+          },
+          {
+            "code": 20408,
+            "name": "松坪傈僳族彝族乡",
+            "parentId": 204
+          },
+          {
+            "code": 20409,
+            "name": "永北镇",
+            "parentId": 204
+          },
+          {
+            "code": 20410,
+            "name": "涛源镇",
+            "parentId": 204
+          },
+          {
+            "code": 20411,
+            "name": "片角镇",
+            "parentId": 204
+          },
+          {
+            "code": 20412,
+            "name": "程海镇",
+            "parentId": 204
+          },
+          {
+            "code": 20413,
+            "name": "羊坪彝族乡",
+            "parentId": 204
+          },
+          {
+            "code": 20414,
+            "name": "顺州镇",
+            "parentId": 204
+          },
+          {
+            "code": 20415,
+            "name": "鲁地拉镇",
+            "parentId": 204
+          }
+        ]
+      },
+      {
+        "code": 205,
+        "name": "玉龙纳西族自治县",
+        "parentId": 2,
+        "children": [
+          {
+            "code": 20501,
+            "name": "九河白族乡",
+            "parentId": 205
+          },
+          {
+            "code": 20502,
+            "name": "塔城乡",
+            "parentId": 205
+          },
+          {
+            "code": 20503,
+            "name": "大具乡",
+            "parentId": 205
+          },
+          {
+            "code": 20504,
+            "name": "太安乡",
+            "parentId": 205
+          },
+          {
+            "code": 20505,
+            "name": "奉科镇",
+            "parentId": 205
+          },
+          {
+            "code": 20506,
+            "name": "宝山乡",
+            "parentId": 205
+          },
+          {
+            "code": 20507,
+            "name": "巨甸镇",
+            "parentId": 205
+          },
+          {
+            "code": 20508,
+            "name": "拉市镇",
+            "parentId": 205
+          },
+          {
+            "code": 20509,
+            "name": "白沙镇",
+            "parentId": 205
+          },
+          {
+            "code": 20510,
+            "name": "石头白族乡",
+            "parentId": 205
+          },
+          {
+            "code": 20511,
+            "name": "石鼓镇",
+            "parentId": 205
+          },
+          {
+            "code": 20512,
+            "name": "鲁甸乡",
+            "parentId": 205
+          },
+          {
+            "code": 20513,
+            "name": "鸣音镇",
+            "parentId": 205
+          },
+          {
+            "code": 20514,
+            "name": "黄山街道",
+            "parentId": 205
+          },
+          {
+            "code": 20515,
+            "name": "黎明傈僳族乡",
+            "parentId": 205
+          },
+          {
+            "code": 20516,
+            "name": "龙蟠乡",
+            "parentId": 205
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 3,
+    "name": "保山市",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 301,
+        "name": "施甸县",
+        "parentId": 3,
+        "children": [
+          {
+            "code": 30101,
+            "name": "万兴乡",
+            "parentId": 301
+          },
+          {
+            "code": 30102,
+            "name": "仁和镇",
+            "parentId": 301
+          },
+          {
+            "code": 30103,
+            "name": "何元乡",
+            "parentId": 301
+          },
+          {
+            "code": 30104,
+            "name": "太平镇",
+            "parentId": 301
+          },
+          {
+            "code": 30105,
+            "name": "姚关镇",
+            "parentId": 301
+          },
+          {
+            "code": 30106,
+            "name": "摆榔彝族布朗族乡",
+            "parentId": 301
+          },
+          {
+            "code": 30107,
+            "name": "旧城乡",
+            "parentId": 301
+          },
+          {
+            "code": 30108,
+            "name": "木老元布朗族彝族乡",
+            "parentId": 301
+          },
+          {
+            "code": 30109,
+            "name": "水长乡",
+            "parentId": 301
+          },
+          {
+            "code": 30110,
+            "name": "由旺镇",
+            "parentId": 301
+          },
+          {
+            "code": 30111,
+            "name": "甸阳镇",
+            "parentId": 301
+          },
+          {
+            "code": 30112,
+            "name": "老麦乡",
+            "parentId": 301
+          },
+          {
+            "code": 30113,
+            "name": "酒房乡",
+            "parentId": 301
+          }
+        ]
+      },
+      {
+        "code": 302,
+        "name": "昌宁县",
+        "parentId": 3,
+        "children": [
+          {
+            "code": 30201,
+            "name": "勐统镇",
+            "parentId": 302
+          },
+          {
+            "code": 30202,
+            "name": "卡斯镇",
+            "parentId": 302
+          },
+          {
+            "code": 30203,
+            "name": "大田坝镇",
+            "parentId": 302
+          },
+          {
+            "code": 30204,
+            "name": "更戛乡",
+            "parentId": 302
+          },
+          {
+            "code": 30205,
+            "name": "柯街镇",
+            "parentId": 302
+          },
+          {
+            "code": 30206,
+            "name": "温泉镇",
+            "parentId": 302
+          },
+          {
+            "code": 30207,
+            "name": "湾甸傣族乡",
+            "parentId": 302
+          },
+          {
+            "code": 30208,
+            "name": "漭水镇",
+            "parentId": 302
+          },
+          {
+            "code": 30209,
+            "name": "珠街彝族乡",
+            "parentId": 302
+          },
+          {
+            "code": 30210,
+            "name": "田园镇",
+            "parentId": 302
+          },
+          {
+            "code": 30211,
+            "name": "翁堵镇",
+            "parentId": 302
+          },
+          {
+            "code": 30212,
+            "name": "耈街彝族苗族乡",
+            "parentId": 302
+          },
+          {
+            "code": 30213,
+            "name": "鸡飞镇",
+            "parentId": 302
+          }
+        ]
+      },
+      {
+        "code": 303,
+        "name": "腾冲市",
+        "parentId": 3,
+        "children": [
+          {
+            "code": 30301,
+            "name": "中和镇",
+            "parentId": 303
+          },
+          {
+            "code": 30302,
+            "name": "五合乡",
+            "parentId": 303
+          },
+          {
+            "code": 30303,
+            "name": "北海镇",
+            "parentId": 303
+          },
+          {
+            "code": 30304,
+            "name": "和顺镇",
+            "parentId": 303
+          },
+          {
+            "code": 30305,
+            "name": "团田乡",
+            "parentId": 303
+          },
+          {
+            "code": 30306,
+            "name": "固东镇",
+            "parentId": 303
+          },
+          {
+            "code": 30307,
+            "name": "新华乡",
+            "parentId": 303
+          },
+          {
+            "code": 30308,
+            "name": "明光镇",
+            "parentId": 303
+          },
+          {
+            "code": 30309,
+            "name": "曲石镇",
+            "parentId": 303
+          },
+          {
+            "code": 30310,
+            "name": "清水镇",
+            "parentId": 303
+          },
+          {
+            "code": 30311,
+            "name": "滇滩镇",
+            "parentId": 303
+          },
+          {
+            "code": 30312,
+            "name": "猴桥镇",
+            "parentId": 303
+          },
+          {
+            "code": 30313,
+            "name": "界头镇",
+            "parentId": 303
+          },
+          {
+            "code": 30314,
+            "name": "腾越街道",
+            "parentId": 303
+          },
+          {
+            "code": 30315,
+            "name": "芒棒镇",
+            "parentId": 303
+          },
+          {
+            "code": 30316,
+            "name": "荷花镇",
+            "parentId": 303
+          },
+          {
+            "code": 30317,
+            "name": "蒲川乡",
+            "parentId": 303
+          },
+          {
+            "code": 30318,
+            "name": "西源街道",
+            "parentId": 303
+          },
+          {
+            "code": 30319,
+            "name": "马站乡",
+            "parentId": 303
+          }
+        ]
+      },
+      {
+        "code": 304,
+        "name": "隆阳区",
+        "parentId": 3,
+        "children": [
+          {
+            "code": 30401,
+            "name": "丙麻乡",
+            "parentId": 304
+          },
+          {
+            "code": 30402,
+            "name": "九隆街道",
+            "parentId": 304
+          },
+          {
+            "code": 30403,
+            "name": "兰城街道",
+            "parentId": 304
+          },
+          {
+            "code": 30404,
+            "name": "杨柳白族彝族乡",
+            "parentId": 304
+          },
+          {
+            "code": 30405,
+            "name": "板桥镇",
+            "parentId": 304
+          },
+          {
+            "code": 30406,
+            "name": "水寨乡",
+            "parentId": 304
+          },
+          {
+            "code": 30407,
+            "name": "永昌街道",
+            "parentId": 304
+          },
+          {
+            "code": 30408,
+            "name": "永盛街道",
+            "parentId": 304
+          },
+          {
+            "code": 30409,
+            "name": "汉庄镇",
+            "parentId": 304
+          },
+          {
+            "code": 30410,
+            "name": "河图街道",
+            "parentId": 304
+          },
+          {
+            "code": 30411,
+            "name": "潞江镇",
+            "parentId": 304
+          },
+          {
+            "code": 30412,
+            "name": "瓦房彝族苗族乡",
+            "parentId": 304
+          },
+          {
+            "code": 30413,
+            "name": "瓦渡乡",
+            "parentId": 304
+          },
+          {
+            "code": 30414,
+            "name": "瓦窑镇",
+            "parentId": 304
+          },
+          {
+            "code": 30415,
+            "name": "瓦马彝族白族乡",
+            "parentId": 304
+          },
+          {
+            "code": 30416,
+            "name": "芒宽彝族傣族乡",
+            "parentId": 304
+          },
+          {
+            "code": 30417,
+            "name": "蒲缥镇",
+            "parentId": 304
+          },
+          {
+            "code": 30418,
+            "name": "西邑乡",
+            "parentId": 304
+          },
+          {
+            "code": 30419,
+            "name": "辛街乡",
+            "parentId": 304
+          },
+          {
+            "code": 30420,
+            "name": "金鸡乡",
+            "parentId": 304
+          },
+          {
+            "code": 30421,
+            "name": "青华街道",
+            "parentId": 304
+          }
+        ]
+      },
+      {
+        "code": 305,
+        "name": "龙陵县",
+        "parentId": 3,
+        "children": [
+          {
+            "code": 30501,
+            "name": "勐糯镇",
+            "parentId": 305
+          },
+          {
+            "code": 30502,
+            "name": "平达乡",
+            "parentId": 305
+          },
+          {
+            "code": 30503,
+            "name": "木城彝族傈僳族乡",
+            "parentId": 305
+          },
+          {
+            "code": 30504,
+            "name": "碧寨乡",
+            "parentId": 305
+          },
+          {
+            "code": 30505,
+            "name": "腊勐镇",
+            "parentId": 305
+          },
+          {
+            "code": 30506,
+            "name": "象达镇",
+            "parentId": 305
+          },
+          {
+            "code": 30507,
+            "name": "镇安镇",
+            "parentId": 305
+          },
+          {
+            "code": 30508,
+            "name": "龙山镇",
+            "parentId": 305
+          },
+          {
+            "code": 30509,
+            "name": "龙新乡",
+            "parentId": 305
+          },
+          {
+            "code": 30510,
+            "name": "龙江乡",
+            "parentId": 305
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 4,
+    "name": "大理白族自治州",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 401,
+        "name": "云龙县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40101,
+            "name": "关坪乡",
+            "parentId": 401
+          },
+          {
+            "code": 40102,
+            "name": "功果桥镇",
+            "parentId": 401
+          },
+          {
+            "code": 40103,
+            "name": "团结彝族乡",
+            "parentId": 401
+          },
+          {
+            "code": 40104,
+            "name": "宝丰乡",
+            "parentId": 401
+          },
+          {
+            "code": 40105,
+            "name": "检槽乡",
+            "parentId": 401
+          },
+          {
+            "code": 40106,
+            "name": "民建乡",
+            "parentId": 401
+          },
+          {
+            "code": 40107,
+            "name": "漕涧镇",
+            "parentId": 401
+          },
+          {
+            "code": 40108,
+            "name": "白石镇",
+            "parentId": 401
+          },
+          {
+            "code": 40109,
+            "name": "苗尾傈僳族乡",
+            "parentId": 401
+          },
+          {
+            "code": 40110,
+            "name": "诺邓镇",
+            "parentId": 401
+          },
+          {
+            "code": 40111,
+            "name": "长新乡",
+            "parentId": 401
+          }
+        ]
+      },
+      {
+        "code": 402,
+        "name": "剑川县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40201,
+            "name": "弥沙乡",
+            "parentId": 402
+          },
+          {
+            "code": 40202,
+            "name": "沙溪镇",
+            "parentId": 402
+          },
+          {
+            "code": 40203,
+            "name": "甸南镇",
+            "parentId": 402
+          },
+          {
+            "code": 40204,
+            "name": "羊岑乡",
+            "parentId": 402
+          },
+          {
+            "code": 40205,
+            "name": "老君山镇",
+            "parentId": 402
+          },
+          {
+            "code": 40206,
+            "name": "象图乡",
+            "parentId": 402
+          },
+          {
+            "code": 40207,
+            "name": "金华镇",
+            "parentId": 402
+          },
+          {
+            "code": 40208,
+            "name": "马登镇",
+            "parentId": 402
+          }
+        ]
+      },
+      {
+        "code": 403,
+        "name": "南涧彝族自治县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40301,
+            "name": "乐秋乡",
+            "parentId": 403
+          },
+          {
+            "code": 40302,
+            "name": "公郎镇",
+            "parentId": 403
+          },
+          {
+            "code": 40303,
+            "name": "南涧镇",
+            "parentId": 403
+          },
+          {
+            "code": 40304,
+            "name": "宝华镇",
+            "parentId": 403
+          },
+          {
+            "code": 40305,
+            "name": "小湾东镇",
+            "parentId": 403
+          },
+          {
+            "code": 40306,
+            "name": "拥翠乡",
+            "parentId": 403
+          },
+          {
+            "code": 40307,
+            "name": "无量山镇",
+            "parentId": 403
+          },
+          {
+            "code": 40308,
+            "name": "碧溪乡",
+            "parentId": 403
+          }
+        ]
+      },
+      {
+        "code": 404,
+        "name": "大理市",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40401,
+            "name": "上关镇",
+            "parentId": 404
+          },
+          {
+            "code": 40402,
+            "name": "下关街道",
+            "parentId": 404
+          },
+          {
+            "code": 40403,
+            "name": "凤仪镇",
+            "parentId": 404
+          },
+          {
+            "code": 40404,
+            "name": "双廊镇",
+            "parentId": 404
+          },
+          {
+            "code": 40405,
+            "name": "喜洲镇",
+            "parentId": 404
+          },
+          {
+            "code": 40406,
+            "name": "大理镇",
+            "parentId": 404
+          },
+          {
+            "code": 40407,
+            "name": "太和街道",
+            "parentId": 404
+          },
+          {
+            "code": 40408,
+            "name": "太邑彝族乡",
+            "parentId": 404
+          },
+          {
+            "code": 40409,
+            "name": "挖色镇",
+            "parentId": 404
+          },
+          {
+            "code": 40410,
+            "name": "海东镇",
+            "parentId": 404
+          },
+          {
+            "code": 40411,
+            "name": "湾桥镇",
+            "parentId": 404
+          },
+          {
+            "code": 40412,
+            "name": "满江街道",
+            "parentId": 404
+          },
+          {
+            "code": 40413,
+            "name": "银桥镇",
+            "parentId": 404
+          }
+        ]
+      },
+      {
+        "code": 405,
+        "name": "宾川县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40501,
+            "name": "乔甸镇",
+            "parentId": 405
+          },
+          {
+            "code": 40502,
+            "name": "力角镇",
+            "parentId": 405
+          },
+          {
+            "code": 40503,
+            "name": "大营镇",
+            "parentId": 405
+          },
+          {
+            "code": 40504,
+            "name": "宾居镇",
+            "parentId": 405
+          },
+          {
+            "code": 40505,
+            "name": "州城镇",
+            "parentId": 405
+          },
+          {
+            "code": 40506,
+            "name": "平川镇",
+            "parentId": 405
+          },
+          {
+            "code": 40507,
+            "name": "拉乌彝族乡",
+            "parentId": 405
+          },
+          {
+            "code": 40508,
+            "name": "金牛镇",
+            "parentId": 405
+          },
+          {
+            "code": 40509,
+            "name": "钟英傈僳族彝族乡",
+            "parentId": 405
+          },
+          {
+            "code": 40510,
+            "name": "鸡足山镇",
+            "parentId": 405
+          }
+        ]
+      },
+      {
+        "code": 406,
+        "name": "巍山彝族回族自治县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40601,
+            "name": "五印乡",
+            "parentId": 406
+          },
+          {
+            "code": 40602,
+            "name": "南诏镇",
+            "parentId": 406
+          },
+          {
+            "code": 40603,
+            "name": "大仓镇",
+            "parentId": 406
+          },
+          {
+            "code": 40604,
+            "name": "巍宝山乡",
+            "parentId": 406
+          },
+          {
+            "code": 40605,
+            "name": "庙街镇",
+            "parentId": 406
+          },
+          {
+            "code": 40606,
+            "name": "永建镇",
+            "parentId": 406
+          },
+          {
+            "code": 40607,
+            "name": "牛街乡",
+            "parentId": 406
+          },
+          {
+            "code": 40608,
+            "name": "紫金乡",
+            "parentId": 406
+          },
+          {
+            "code": 40609,
+            "name": "青华乡",
+            "parentId": 406
+          },
+          {
+            "code": 40610,
+            "name": "马鞍山乡",
+            "parentId": 406
+          }
+        ]
+      },
+      {
+        "code": 407,
+        "name": "弥渡县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40701,
+            "name": "寅街镇",
+            "parentId": 407
+          },
+          {
+            "code": 40702,
+            "name": "密祉镇",
+            "parentId": 407
+          },
+          {
+            "code": 40703,
+            "name": "弥城镇",
+            "parentId": 407
+          },
+          {
+            "code": 40704,
+            "name": "德苴乡",
+            "parentId": 407
+          },
+          {
+            "code": 40705,
+            "name": "新街镇",
+            "parentId": 407
+          },
+          {
+            "code": 40706,
+            "name": "牛街彝族乡",
+            "parentId": 407
+          },
+          {
+            "code": 40707,
+            "name": "红岩镇",
+            "parentId": 407
+          },
+          {
+            "code": 40708,
+            "name": "苴力镇",
+            "parentId": 407
+          }
+        ]
+      },
+      {
+        "code": 408,
+        "name": "永平县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40801,
+            "name": "北斗彝族乡",
+            "parentId": 408
+          },
+          {
+            "code": 40802,
+            "name": "博南镇",
+            "parentId": 408
+          },
+          {
+            "code": 40803,
+            "name": "厂街彝族乡",
+            "parentId": 408
+          },
+          {
+            "code": 40804,
+            "name": "杉阳镇",
+            "parentId": 408
+          },
+          {
+            "code": 40805,
+            "name": "水泄彝族乡",
+            "parentId": 408
+          },
+          {
+            "code": 40806,
+            "name": "龙街镇",
+            "parentId": 408
+          },
+          {
+            "code": 40807,
+            "name": "龙门乡",
+            "parentId": 408
+          }
+        ]
+      },
+      {
+        "code": 409,
+        "name": "洱源县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 40901,
+            "name": "三营镇",
+            "parentId": 409
+          },
+          {
+            "code": 40902,
+            "name": "乔后镇",
+            "parentId": 409
+          },
+          {
+            "code": 40903,
+            "name": "凤羽镇",
+            "parentId": 409
+          },
+          {
+            "code": 40904,
+            "name": "右所镇",
+            "parentId": 409
+          },
+          {
+            "code": 40905,
+            "name": "炼铁乡",
+            "parentId": 409
+          },
+          {
+            "code": 40906,
+            "name": "牛街乡",
+            "parentId": 409
+          },
+          {
+            "code": 40907,
+            "name": "茈碧湖镇",
+            "parentId": 409
+          },
+          {
+            "code": 40908,
+            "name": "西山乡",
+            "parentId": 409
+          },
+          {
+            "code": 40909,
+            "name": "邓川镇",
+            "parentId": 409
+          }
+        ]
+      },
+      {
+        "code": 410,
+        "name": "漾濞彝族自治县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 41001,
+            "name": "太平乡",
+            "parentId": 410
+          },
+          {
+            "code": 41002,
+            "name": "富恒乡",
+            "parentId": 410
+          },
+          {
+            "code": 41003,
+            "name": "平坡镇",
+            "parentId": 410
+          },
+          {
+            "code": 41004,
+            "name": "漾江镇",
+            "parentId": 410
+          },
+          {
+            "code": 41005,
+            "name": "瓦厂乡",
+            "parentId": 410
+          },
+          {
+            "code": 41006,
+            "name": "苍山西镇",
+            "parentId": 410
+          },
+          {
+            "code": 41007,
+            "name": "顺濞镇",
+            "parentId": 410
+          },
+          {
+            "code": 41008,
+            "name": "鸡街乡",
+            "parentId": 410
+          },
+          {
+            "code": 41009,
+            "name": "龙潭乡",
+            "parentId": 410
+          }
+        ]
+      },
+      {
+        "code": 411,
+        "name": "祥云县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 41101,
+            "name": "下庄镇",
+            "parentId": 411
+          },
+          {
+            "code": 41102,
+            "name": "东山彝族乡",
+            "parentId": 411
+          },
+          {
+            "code": 41103,
+            "name": "云南驿镇",
+            "parentId": 411
+          },
+          {
+            "code": 41104,
+            "name": "刘厂镇",
+            "parentId": 411
+          },
+          {
+            "code": 41105,
+            "name": "普棚镇",
+            "parentId": 411
+          },
+          {
+            "code": 41106,
+            "name": "沙龙镇",
+            "parentId": 411
+          },
+          {
+            "code": 41107,
+            "name": "祥城镇",
+            "parentId": 411
+          },
+          {
+            "code": 41108,
+            "name": "禾甸镇",
+            "parentId": 411
+          },
+          {
+            "code": 41109,
+            "name": "米甸镇",
+            "parentId": 411
+          },
+          {
+            "code": 41110,
+            "name": "鹿鸣乡",
+            "parentId": 411
+          }
+        ]
+      },
+      {
+        "code": 412,
+        "name": "鹤庆县",
+        "parentId": 4,
+        "children": [
+          {
+            "code": 41201,
+            "name": "云鹤镇",
+            "parentId": 412
+          },
+          {
+            "code": 41202,
+            "name": "六合彝族乡",
+            "parentId": 412
+          },
+          {
+            "code": 41203,
+            "name": "松桂镇",
+            "parentId": 412
+          },
+          {
+            "code": 41204,
+            "name": "草海镇",
+            "parentId": 412
+          },
+          {
+            "code": 41205,
+            "name": "西邑镇",
+            "parentId": 412
+          },
+          {
+            "code": 41206,
+            "name": "辛屯镇",
+            "parentId": 412
+          },
+          {
+            "code": 41207,
+            "name": "金墩乡",
+            "parentId": 412
+          },
+          {
+            "code": 41208,
+            "name": "黄坪镇",
+            "parentId": 412
+          },
+          {
+            "code": 41209,
+            "name": "龙开口镇",
+            "parentId": 412
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 5,
+    "name": "德宏傣族景颇族自治州",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 501,
+        "name": "梁河县",
+        "parentId": 5,
+        "children": [
+          {
+            "code": 50101,
+            "name": "九保阿昌族乡",
+            "parentId": 501
+          },
+          {
+            "code": 50102,
+            "name": "勐养镇",
+            "parentId": 501
+          },
+          {
+            "code": 50103,
+            "name": "大厂乡",
+            "parentId": 501
+          },
+          {
+            "code": 50104,
+            "name": "小厂乡",
+            "parentId": 501
+          },
+          {
+            "code": 50105,
+            "name": "平山乡",
+            "parentId": 501
+          },
+          {
+            "code": 50106,
+            "name": "曩宋阿昌族乡",
+            "parentId": 501
+          },
+          {
+            "code": 50107,
+            "name": "河西乡",
+            "parentId": 501
+          },
+          {
+            "code": 50108,
+            "name": "芒东镇",
+            "parentId": 501
+          },
+          {
+            "code": 50109,
+            "name": "遮岛镇",
+            "parentId": 501
+          }
+        ]
+      },
+      {
+        "code": 502,
+        "name": "瑞丽市",
+        "parentId": 5,
+        "children": [
+          {
+            "code": 50201,
+            "name": "勐卯街道",
+            "parentId": 502
+          },
+          {
+            "code": 50202,
+            "name": "勐秀乡",
+            "parentId": 502
+          },
+          {
+            "code": 50203,
+            "name": "姐相镇",
+            "parentId": 502
+          },
+          {
+            "code": 50204,
+            "name": "弄岛镇",
+            "parentId": 502
+          },
+          {
+            "code": 50205,
+            "name": "户育乡",
+            "parentId": 502
+          },
+          {
+            "code": 50206,
+            "name": "瑞丽农场",
+            "parentId": 502
+          },
+          {
+            "code": 50207,
+            "name": "畹町农场",
+            "parentId": 502
+          },
+          {
+            "code": 50208,
+            "name": "畹町镇",
+            "parentId": 502
+          }
+        ]
+      },
+      {
+        "code": 503,
+        "name": "盈江县",
+        "parentId": 5,
+        "children": [
+          {
+            "code": 50301,
+            "name": "勐弄乡",
+            "parentId": 503
+          },
+          {
+            "code": 50302,
+            "name": "卡场镇",
+            "parentId": 503
+          },
+          {
+            "code": 50303,
+            "name": "太平镇",
+            "parentId": 503
+          },
+          {
+            "code": 50304,
+            "name": "平原镇",
+            "parentId": 503
+          },
+          {
+            "code": 50305,
+            "name": "弄璋镇",
+            "parentId": 503
+          },
+          {
+            "code": 50306,
+            "name": "支那乡",
+            "parentId": 503
+          },
+          {
+            "code": 50307,
+            "name": "新城乡",
+            "parentId": 503
+          },
+          {
+            "code": 50308,
+            "name": "旧城镇",
+            "parentId": 503
+          },
+          {
+            "code": 50309,
+            "name": "昔马镇",
+            "parentId": 503
+          },
+          {
+            "code": 50310,
+            "name": "油松岭乡",
+            "parentId": 503
+          },
+          {
+            "code": 50311,
+            "name": "盈江农场",
+            "parentId": 503
+          },
+          {
+            "code": 50312,
+            "name": "盏西镇",
+            "parentId": 503
+          },
+          {
+            "code": 50313,
+            "name": "芒章乡",
+            "parentId": 503
+          },
+          {
+            "code": 50314,
+            "name": "苏典傈僳族乡",
+            "parentId": 503
+          },
+          {
+            "code": 50315,
+            "name": "那邦镇",
+            "parentId": 503
+          },
+          {
+            "code": 50316,
+            "name": "铜壁关乡",
+            "parentId": 503
+          }
+        ]
+      },
+      {
+        "code": 504,
+        "name": "芒市",
+        "parentId": 5,
+        "children": [
+          {
+            "code": 50401,
+            "name": "三台山德昂族乡",
+            "parentId": 504
+          },
+          {
+            "code": 50402,
+            "name": "中山乡",
+            "parentId": 504
+          },
+          {
+            "code": 50403,
+            "name": "五岔路乡",
+            "parentId": 504
+          },
+          {
+            "code": 50404,
+            "name": "勐戛镇",
+            "parentId": 504
+          },
+          {
+            "code": 50405,
+            "name": "江东乡",
+            "parentId": 504
+          },
+          {
+            "code": 50406,
+            "name": "芒市勐焕街道",
+            "parentId": 504
+          },
+          {
+            "code": 50407,
+            "name": "芒市遮放农场",
+            "parentId": 504
+          },
+          {
+            "code": 50408,
+            "name": "芒市镇",
+            "parentId": 504
+          },
+          {
+            "code": 50409,
+            "name": "芒海镇",
+            "parentId": 504
+          },
+          {
+            "code": 50410,
+            "name": "西山乡",
+            "parentId": 504
+          },
+          {
+            "code": 50411,
+            "name": "轩岗乡",
+            "parentId": 504
+          },
+          {
+            "code": 50412,
+            "name": "遮放镇",
+            "parentId": 504
+          },
+          {
+            "code": 50413,
+            "name": "风平镇",
+            "parentId": 504
+          }
+        ]
+      },
+      {
+        "code": 505,
+        "name": "陇川县",
+        "parentId": 5,
+        "children": [
+          {
+            "code": 50501,
+            "name": "勐约乡",
+            "parentId": 505
+          },
+          {
+            "code": 50502,
+            "name": "城子镇",
+            "parentId": 505
+          },
+          {
+            "code": 50503,
+            "name": "户撒阿昌族乡",
+            "parentId": 505
+          },
+          {
+            "code": 50504,
+            "name": "护国乡",
+            "parentId": 505
+          },
+          {
+            "code": 50505,
+            "name": "景罕镇",
+            "parentId": 505
+          },
+          {
+            "code": 50506,
+            "name": "清平乡",
+            "parentId": 505
+          },
+          {
+            "code": 50507,
+            "name": "王子树乡",
+            "parentId": 505
+          },
+          {
+            "code": 50508,
+            "name": "章凤镇",
+            "parentId": 505
+          },
+          {
+            "code": 50509,
+            "name": "陇川农场",
+            "parentId": 505
+          },
+          {
+            "code": 50510,
+            "name": "陇把镇",
+            "parentId": 505
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 6,
+    "name": "怒江傈僳族自治州",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 601,
+        "name": "兰坪白族普米族自治县",
+        "parentId": 6,
+        "children": [
+          {
+            "code": 60101,
+            "name": "中排乡",
+            "parentId": 601
+          },
+          {
+            "code": 60102,
+            "name": "兔峨乡",
+            "parentId": 601
+          },
+          {
+            "code": 60103,
+            "name": "啦井镇",
+            "parentId": 601
+          },
+          {
+            "code": 60104,
+            "name": "河西乡",
+            "parentId": 601
+          },
+          {
+            "code": 60105,
+            "name": "石登乡",
+            "parentId": 601
+          },
+          {
+            "code": 60106,
+            "name": "翠屏街道",
+            "parentId": 601
+          },
+          {
+            "code": 60107,
+            "name": "营盘镇",
+            "parentId": 601
+          },
+          {
+            "code": 60108,
+            "name": "通甸镇",
+            "parentId": 601
+          },
+          {
+            "code": 60109,
+            "name": "金顶街道",
+            "parentId": 601
+          }
+        ]
+      },
+      {
+        "code": 602,
+        "name": "泸水市",
+        "parentId": 6,
+        "children": [
+          {
+            "code": 60201,
+            "name": "上江镇",
+            "parentId": 602
+          },
+          {
+            "code": 60202,
+            "name": "六库街道",
+            "parentId": 602
+          },
+          {
+            "code": 60203,
+            "name": "古登乡",
+            "parentId": 602
+          },
+          {
+            "code": 60204,
+            "name": "大兴地镇",
+            "parentId": 602
+          },
+          {
+            "code": 60205,
+            "name": "大练地街道",
+            "parentId": 602
+          },
+          {
+            "code": 60206,
+            "name": "洛本卓白族乡",
+            "parentId": 602
+          },
+          {
+            "code": 60207,
+            "name": "片马镇",
+            "parentId": 602
+          },
+          {
+            "code": 60208,
+            "name": "称杆乡",
+            "parentId": 602
+          },
+          {
+            "code": 60209,
+            "name": "老窝镇",
+            "parentId": 602
+          },
+          {
+            "code": 60210,
+            "name": "鲁掌镇",
+            "parentId": 602
+          }
+        ]
+      },
+      {
+        "code": 603,
+        "name": "福贡县",
+        "parentId": 6,
+        "children": [
+          {
+            "code": 60301,
+            "name": "上帕镇",
+            "parentId": 603
+          },
+          {
+            "code": 60302,
+            "name": "匹河怒族乡",
+            "parentId": 603
+          },
+          {
+            "code": 60303,
+            "name": "子里甲乡",
+            "parentId": 603
+          },
+          {
+            "code": 60304,
+            "name": "架科底乡",
+            "parentId": 603
+          },
+          {
+            "code": 60305,
+            "name": "石月亮乡",
+            "parentId": 603
+          },
+          {
+            "code": 60306,
+            "name": "马吉乡",
+            "parentId": 603
+          },
+          {
+            "code": 60307,
+            "name": "鹿马登乡",
+            "parentId": 603
+          }
+        ]
+      },
+      {
+        "code": 604,
+        "name": "贡山独龙族怒族自治县",
+        "parentId": 6,
+        "children": [
+          {
+            "code": 60401,
+            "name": "丙中洛镇",
+            "parentId": 604
+          },
+          {
+            "code": 60402,
+            "name": "捧当乡",
+            "parentId": 604
+          },
+          {
+            "code": 60403,
+            "name": "普拉底乡",
+            "parentId": 604
+          },
+          {
+            "code": 60404,
+            "name": "独龙江乡",
+            "parentId": 604
+          },
+          {
+            "code": 60405,
+            "name": "茨开镇",
+            "parentId": 604
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 7,
+    "name": "文山壮族苗族自治州",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 701,
+        "name": "丘北县",
+        "parentId": 7,
+        "children": [
+          {
+            "code": 70101,
+            "name": "八道哨彝族乡",
+            "parentId": 701
+          },
+          {
+            "code": 70102,
+            "name": "双龙营镇",
+            "parentId": 701
+          },
+          {
+            "code": 70103,
+            "name": "天星乡",
+            "parentId": 701
+          },
+          {
+            "code": 70104,
+            "name": "官寨乡",
+            "parentId": 701
+          },
+          {
+            "code": 70105,
+            "name": "平寨乡",
+            "parentId": 701
+          },
+          {
+            "code": 70106,
+            "name": "新店彝族乡",
+            "parentId": 701
+          },
+          {
+            "code": 70107,
+            "name": "曰者镇",
+            "parentId": 701
+          },
+          {
+            "code": 70108,
+            "name": "树皮彝族乡",
+            "parentId": 701
+          },
+          {
+            "code": 70109,
+            "name": "温浏乡",
+            "parentId": 701
+          },
+          {
+            "code": 70110,
+            "name": "腻脚彝族乡",
+            "parentId": 701
+          },
+          {
+            "code": 70111,
+            "name": "舍得彝族乡",
+            "parentId": 701
+          },
+          {
+            "code": 70112,
+            "name": "锦屏镇",
+            "parentId": 701
+          }
+        ]
+      },
+      {
+        "code": 702,
+        "name": "富宁县",
+        "parentId": 7,
+        "children": [
+          {
+            "code": 70201,
+            "name": "剥隘镇",
+            "parentId": 702
+          },
+          {
+            "code": 70202,
+            "name": "归朝镇",
+            "parentId": 702
+          },
+          {
+            "code": 70203,
+            "name": "新华镇",
+            "parentId": 702
+          },
+          {
+            "code": 70204,
+            "name": "木央镇",
+            "parentId": 702
+          },
+          {
+            "code": 70205,
+            "name": "板仑乡",
+            "parentId": 702
+          },
+          {
+            "code": 70206,
+            "name": "洞波瑶族乡",
+            "parentId": 702
+          },
+          {
+            "code": 70207,
+            "name": "田蓬镇",
+            "parentId": 702
+          },
+          {
+            "code": 70208,
+            "name": "者桑乡",
+            "parentId": 702
+          },
+          {
+            "code": 70209,
+            "name": "花甲乡",
+            "parentId": 702
+          },
+          {
+            "code": 70210,
+            "name": "谷拉乡",
+            "parentId": 702
+          },
+          {
+            "code": 70211,
+            "name": "那能乡",
+            "parentId": 702
+          },
+          {
+            "code": 70212,
+            "name": "里达镇",
+            "parentId": 702
+          },
+          {
+            "code": 70213,
+            "name": "阿用乡",
+            "parentId": 702
+          }
+        ]
+      },
+      {
+        "code": 703,
+        "name": "广南县",
+        "parentId": 7,
+        "children": [
+          {
+            "code": 70301,
+            "name": "五珠乡",
+            "parentId": 703
+          },
+          {
+            "code": 70302,
+            "name": "八宝镇",
+            "parentId": 703
+          },
+          {
+            "code": 70303,
+            "name": "南屏镇",
+            "parentId": 703
+          },
+          {
+            "code": 70304,
+            "name": "坝美镇",
+            "parentId": 703
+          },
+          {
+            "code": 70305,
+            "name": "底圩乡",
+            "parentId": 703
+          },
+          {
+            "code": 70306,
+            "name": "旧莫乡",
+            "parentId": 703
+          },
+          {
+            "code": 70307,
+            "name": "曙光乡",
+            "parentId": 703
+          },
+          {
+            "code": 70308,
+            "name": "杨柳井乡",
+            "parentId": 703
+          },
+          {
+            "code": 70309,
+            "name": "板蚌乡",
+            "parentId": 703
+          },
+          {
+            "code": 70310,
+            "name": "珠琳镇",
+            "parentId": 703
+          },
+          {
+            "code": 70311,
+            "name": "珠街镇",
+            "parentId": 703
+          },
+          {
+            "code": 70312,
+            "name": "篆角乡",
+            "parentId": 703
+          },
+          {
+            "code": 70313,
+            "name": "者兔乡",
+            "parentId": 703
+          },
+          {
+            "code": 70314,
+            "name": "者太乡",
+            "parentId": 703
+          },
+          {
+            "code": 70315,
+            "name": "莲城镇",
+            "parentId": 703
+          },
+          {
+            "code": 70316,
+            "name": "董堡乡",
+            "parentId": 703
+          },
+          {
+            "code": 70317,
+            "name": "那洒镇",
+            "parentId": 703
+          },
+          {
+            "code": 70318,
+            "name": "黑支果乡",
+            "parentId": 703
+          }
+        ]
+      },
+      {
+        "code": 704,
+        "name": "文山市",
+        "parentId": 7,
+        "children": [
+          {
+            "code": 70401,
+            "name": "东山彝族乡",
+            "parentId": 704
+          },
+          {
+            "code": 70402,
+            "name": "卧龙街道",
+            "parentId": 704
+          },
+          {
+            "code": 70403,
+            "name": "古木镇",
+            "parentId": 704
+          },
+          {
+            "code": 70404,
+            "name": "喜古乡",
+            "parentId": 704
+          },
+          {
+            "code": 70405,
+            "name": "坝心彝族乡",
+            "parentId": 704
+          },
+          {
+            "code": 70406,
+            "name": "小街镇",
+            "parentId": 704
+          },
+          {
+            "code": 70407,
+            "name": "平坝镇",
+            "parentId": 704
+          },
+          {
+            "code": 70408,
+            "name": "开化街道",
+            "parentId": 704
+          },
+          {
+            "code": 70409,
+            "name": "德厚镇",
+            "parentId": 704
+          },
+          {
+            "code": 70410,
+            "name": "文山高新技术产业开发区",
+            "parentId": 704
+          },
+          {
+            "code": 70411,
+            "name": "新平街道",
+            "parentId": 704
+          },
+          {
+            "code": 70412,
+            "name": "新街乡",
+            "parentId": 704
+          },
+          {
+            "code": 70413,
+            "name": "柳井彝族乡",
+            "parentId": 704
+          },
+          {
+            "code": 70414,
+            "name": "秉烈彝族乡",
+            "parentId": 704
+          },
+          {
+            "code": 70415,
+            "name": "红甸回族乡",
+            "parentId": 704
+          },
+          {
+            "code": 70416,
+            "name": "薄竹镇",
+            "parentId": 704
+          },
+          {
+            "code": 70417,
+            "name": "追栗街镇",
+            "parentId": 704
+          },
+          {
+            "code": 70418,
+            "name": "马塘镇",
+            "parentId": 704
+          }
+        ]
+      },
+      {
+        "code": 705,
+        "name": "砚山县",
+        "parentId": 7,
+        "children": [
+          {
+            "code": 70501,
+            "name": "八嘎乡",
+            "parentId": 705
+          },
+          {
+            "code": 70502,
+            "name": "干河彝族乡",
+            "parentId": 705
+          },
+          {
+            "code": 70503,
+            "name": "平远镇",
+            "parentId": 705
+          },
+          {
+            "code": 70504,
+            "name": "江那镇",
+            "parentId": 705
+          },
+          {
+            "code": 70505,
+            "name": "盘龙彝族乡",
+            "parentId": 705
+          },
+          {
+            "code": 70506,
+            "name": "稼依镇",
+            "parentId": 705
+          },
+          {
+            "code": 70507,
+            "name": "维摩彝族乡",
+            "parentId": 705
+          },
+          {
+            "code": 70508,
+            "name": "者腊乡",
+            "parentId": 705
+          },
+          {
+            "code": 70509,
+            "name": "蚌峨乡",
+            "parentId": 705
+          },
+          {
+            "code": 70510,
+            "name": "阿猛镇",
+            "parentId": 705
+          },
+          {
+            "code": 70511,
+            "name": "阿舍彝族乡",
+            "parentId": 705
+          }
+        ]
+      },
+      {
+        "code": 706,
+        "name": "西畴县",
+        "parentId": 7,
+        "children": [
+          {
+            "code": 70601,
+            "name": "兴街镇",
+            "parentId": 706
+          },
+          {
+            "code": 70602,
+            "name": "新马街乡",
+            "parentId": 706
+          },
+          {
+            "code": 70603,
+            "name": "柏林乡",
+            "parentId": 706
+          },
+          {
+            "code": 70604,
+            "name": "法斗乡",
+            "parentId": 706
+          },
+          {
+            "code": 70605,
+            "name": "莲花塘乡",
+            "parentId": 706
+          },
+          {
+            "code": 70606,
+            "name": "董马乡",
+            "parentId": 706
+          },
+          {
+            "code": 70607,
+            "name": "蚌谷乡",
+            "parentId": 706
+          },
+          {
+            "code": 70608,
+            "name": "西洒镇",
+            "parentId": 706
+          },
+          {
+            "code": 70609,
+            "name": "鸡街乡",
+            "parentId": 706
+          }
+        ]
+      },
+      {
+        "code": 707,
+        "name": "马关县",
+        "parentId": 7,
+        "children": [
+          {
+            "code": 70701,
+            "name": "仁和镇",
+            "parentId": 707
+          },
+          {
+            "code": 70702,
+            "name": "健康农场",
+            "parentId": 707
+          },
+          {
+            "code": 70703,
+            "name": "八寨镇",
+            "parentId": 707
+          },
+          {
+            "code": 70704,
+            "name": "南捞乡",
+            "parentId": 707
+          },
+          {
+            "code": 70705,
+            "name": "古林箐乡",
+            "parentId": 707
+          },
+          {
+            "code": 70706,
+            "name": "坡脚镇",
+            "parentId": 707
+          },
+          {
+            "code": 70707,
+            "name": "大栗树乡",
+            "parentId": 707
+          },
+          {
+            "code": 70708,
+            "name": "夹寒箐镇",
+            "parentId": 707
+          },
+          {
+            "code": 70709,
+            "name": "小坝子镇",
+            "parentId": 707
+          },
+          {
+            "code": 70710,
+            "name": "木厂镇",
+            "parentId": 707
+          },
+          {
+            "code": 70711,
+            "name": "篾厂乡",
+            "parentId": 707
+          },
+          {
+            "code": 70712,
+            "name": "都龙镇",
+            "parentId": 707
+          },
+          {
+            "code": 70713,
+            "name": "金厂镇",
+            "parentId": 707
+          },
+          {
+            "code": 70714,
+            "name": "马白镇",
+            "parentId": 707
+          }
+        ]
+      },
+      {
+        "code": 708,
+        "name": "麻栗坡县",
+        "parentId": 7,
+        "children": [
+          {
+            "code": 70801,
+            "name": "下金厂乡",
+            "parentId": 708
+          },
+          {
+            "code": 70802,
+            "name": "八布乡",
+            "parentId": 708
+          },
+          {
+            "code": 70803,
+            "name": "六河乡",
+            "parentId": 708
+          },
+          {
+            "code": 70804,
+            "name": "大坪镇",
+            "parentId": 708
+          },
+          {
+            "code": 70805,
+            "name": "天保镇",
+            "parentId": 708
+          },
+          {
+            "code": 70806,
+            "name": "杨万乡",
+            "parentId": 708
+          },
+          {
+            "code": 70807,
+            "name": "猛硐瑶族乡",
+            "parentId": 708
+          },
+          {
+            "code": 70808,
+            "name": "董干镇",
+            "parentId": 708
+          },
+          {
+            "code": 70809,
+            "name": "铁厂乡",
+            "parentId": 708
+          },
+          {
+            "code": 70810,
+            "name": "马街乡",
+            "parentId": 708
+          },
+          {
+            "code": 70811,
+            "name": "麻栗镇",
+            "parentId": 708
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 8,
+    "name": "昆明市",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 801,
+        "name": "东川区",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80101,
+            "name": "乌龙镇",
+            "parentId": 801
+          },
+          {
+            "code": 80102,
+            "name": "因民镇",
+            "parentId": 801
+          },
+          {
+            "code": 80103,
+            "name": "拖布卡镇",
+            "parentId": 801
+          },
+          {
+            "code": 80104,
+            "name": "汤丹镇",
+            "parentId": 801
+          },
+          {
+            "code": 80105,
+            "name": "碧谷街道",
+            "parentId": 801
+          },
+          {
+            "code": 80106,
+            "name": "红土地镇",
+            "parentId": 801
+          },
+          {
+            "code": 80107,
+            "name": "舍块乡",
+            "parentId": 801
+          },
+          {
+            "code": 80108,
+            "name": "铜都街道",
+            "parentId": 801
+          },
+          {
+            "code": 80109,
+            "name": "阿旺镇",
+            "parentId": 801
+          }
+        ]
+      },
+      {
+        "code": 802,
+        "name": "五华区",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80201,
+            "name": "丰宁街道",
+            "parentId": 802
+          },
+          {
+            "code": 80202,
+            "name": "华山街道",
+            "parentId": 802
+          },
+          {
+            "code": 80203,
+            "name": "大观街道",
+            "parentId": 802
+          },
+          {
+            "code": 80204,
+            "name": "护国街道",
+            "parentId": 802
+          },
+          {
+            "code": 80205,
+            "name": "昆明国家高新技术产业开发区",
+            "parentId": 802
+          },
+          {
+            "code": 80206,
+            "name": "普吉街道",
+            "parentId": 802
+          },
+          {
+            "code": 80207,
+            "name": "红云街道",
+            "parentId": 802
+          },
+          {
+            "code": 80208,
+            "name": "莲华街道",
+            "parentId": 802
+          },
+          {
+            "code": 80209,
+            "name": "西翥街道",
+            "parentId": 802
+          },
+          {
+            "code": 80210,
+            "name": "黑林铺街道",
+            "parentId": 802
+          },
+          {
+            "code": 80211,
+            "name": "龙翔街道",
+            "parentId": 802
+          }
+        ]
+      },
+      {
+        "code": 803,
+        "name": "呈贡区",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80301,
+            "name": "七甸街道",
+            "parentId": 803
+          },
+          {
+            "code": 80302,
+            "name": "乌龙街道",
+            "parentId": 803
+          },
+          {
+            "code": 80303,
+            "name": "吴家营街道",
+            "parentId": 803
+          },
+          {
+            "code": 80304,
+            "name": "大渔街道",
+            "parentId": 803
+          },
+          {
+            "code": 80305,
+            "name": "斗南街道",
+            "parentId": 803
+          },
+          {
+            "code": 80306,
+            "name": "洛羊街道",
+            "parentId": 803
+          },
+          {
+            "code": 80307,
+            "name": "洛龙街道",
+            "parentId": 803
+          },
+          {
+            "code": 80308,
+            "name": "雨花街道",
+            "parentId": 803
+          },
+          {
+            "code": 80309,
+            "name": "马金铺街道",
+            "parentId": 803
+          },
+          {
+            "code": 80310,
+            "name": "龙城街道",
+            "parentId": 803
+          }
+        ]
+      },
+      {
+        "code": 804,
+        "name": "安宁市",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80401,
+            "name": "八街街道",
+            "parentId": 804
+          },
+          {
+            "code": 80402,
+            "name": "县街街道",
+            "parentId": 804
+          },
+          {
+            "code": 80403,
+            "name": "太平新城街道",
+            "parentId": 804
+          },
+          {
+            "code": 80404,
+            "name": "温泉街道",
+            "parentId": 804
+          },
+          {
+            "code": 80405,
+            "name": "禄脿街道",
+            "parentId": 804
+          },
+          {
+            "code": 80406,
+            "name": "草铺街道",
+            "parentId": 804
+          },
+          {
+            "code": 80407,
+            "name": "连然街道",
+            "parentId": 804
+          },
+          {
+            "code": 80408,
+            "name": "金方街道",
+            "parentId": 804
+          },
+          {
+            "code": 80409,
+            "name": "青龙街道",
+            "parentId": 804
+          }
+        ]
+      },
+      {
+        "code": 805,
+        "name": "官渡区",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80501,
+            "name": "六甲街道",
+            "parentId": 805
+          },
+          {
+            "code": 80502,
+            "name": "关上街道",
+            "parentId": 805
+          },
+          {
+            "code": 80503,
+            "name": "吴井街道",
+            "parentId": 805
+          },
+          {
+            "code": 80504,
+            "name": "大板桥街道",
+            "parentId": 805
+          },
+          {
+            "code": 80505,
+            "name": "太和街道",
+            "parentId": 805
+          },
+          {
+            "code": 80506,
+            "name": "官渡街道",
+            "parentId": 805
+          },
+          {
+            "code": 80507,
+            "name": "小哨街道",
+            "parentId": 805
+          },
+          {
+            "code": 80508,
+            "name": "小板桥街道",
+            "parentId": 805
+          },
+          {
+            "code": 80509,
+            "name": "昆明经济技术开发区",
+            "parentId": 805
+          },
+          {
+            "code": 80510,
+            "name": "矣六街道",
+            "parentId": 805
+          },
+          {
+            "code": 80511,
+            "name": "金马街道",
+            "parentId": 805
+          },
+          {
+            "code": 80512,
+            "name": "长水街道",
+            "parentId": 805
+          },
+          {
+            "code": 80513,
+            "name": "阿拉街道",
+            "parentId": 805
+          }
+        ]
+      },
+      {
+        "code": 806,
+        "name": "宜良县",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80601,
+            "name": "九乡彝族回族乡",
+            "parentId": 806
+          },
+          {
+            "code": 80602,
+            "name": "北古城镇",
+            "parentId": 806
+          },
+          {
+            "code": 80603,
+            "name": "匡远街道",
+            "parentId": 806
+          },
+          {
+            "code": 80604,
+            "name": "南羊街道",
+            "parentId": 806
+          },
+          {
+            "code": 80605,
+            "name": "昆明阳宗海风景名胜区",
+            "parentId": 806
+          },
+          {
+            "code": 80606,
+            "name": "汤池街道",
+            "parentId": 806
+          },
+          {
+            "code": 80607,
+            "name": "狗街镇",
+            "parentId": 806
+          },
+          {
+            "code": 80608,
+            "name": "竹山镇",
+            "parentId": 806
+          },
+          {
+            "code": 80609,
+            "name": "耿家营彝族苗族乡",
+            "parentId": 806
+          },
+          {
+            "code": 80610,
+            "name": "马街镇",
+            "parentId": 806
+          }
+        ]
+      },
+      {
+        "code": 807,
+        "name": "富民县",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80701,
+            "name": "东村镇",
+            "parentId": 807
+          },
+          {
+            "code": 80702,
+            "name": "大营街道",
+            "parentId": 807
+          },
+          {
+            "code": 80703,
+            "name": "散旦镇",
+            "parentId": 807
+          },
+          {
+            "code": 80704,
+            "name": "款庄镇",
+            "parentId": 807
+          },
+          {
+            "code": 80705,
+            "name": "永定街道",
+            "parentId": 807
+          },
+          {
+            "code": 80706,
+            "name": "罗免镇",
+            "parentId": 807
+          },
+          {
+            "code": 80707,
+            "name": "赤鹫镇",
+            "parentId": 807
+          }
+        ]
+      },
+      {
+        "code": 808,
+        "name": "寻甸回族彝族自治县",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80801,
+            "name": "七星镇",
+            "parentId": 808
+          },
+          {
+            "code": 80802,
+            "name": "仁德街道",
+            "parentId": 808
+          },
+          {
+            "code": 80803,
+            "name": "倘甸镇",
+            "parentId": 808
+          },
+          {
+            "code": 80804,
+            "name": "先锋镇",
+            "parentId": 808
+          },
+          {
+            "code": 80805,
+            "name": "六哨乡",
+            "parentId": 808
+          },
+          {
+            "code": 80806,
+            "name": "凤合镇",
+            "parentId": 808
+          },
+          {
+            "code": 80807,
+            "name": "功山镇",
+            "parentId": 808
+          },
+          {
+            "code": 80808,
+            "name": "塘子街道",
+            "parentId": 808
+          },
+          {
+            "code": 80809,
+            "name": "昆明倘甸产业园区轿子山旅游开发区",
+            "parentId": 808
+          },
+          {
+            "code": 80810,
+            "name": "柯渡镇",
+            "parentId": 808
+          },
+          {
+            "code": 80811,
+            "name": "河口镇",
+            "parentId": 808
+          },
+          {
+            "code": 80812,
+            "name": "甸沙乡",
+            "parentId": 808
+          },
+          {
+            "code": 80813,
+            "name": "羊街镇",
+            "parentId": 808
+          },
+          {
+            "code": 80814,
+            "name": "联合乡",
+            "parentId": 808
+          },
+          {
+            "code": 80815,
+            "name": "金所街道",
+            "parentId": 808
+          },
+          {
+            "code": 80816,
+            "name": "金源乡",
+            "parentId": 808
+          },
+          {
+            "code": 80817,
+            "name": "鸡街镇",
+            "parentId": 808
+          }
+        ]
+      },
+      {
+        "code": 809,
+        "name": "嵩明县",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 80901,
+            "name": "云南省嵩明职业教育基地",
+            "parentId": 809
+          },
+          {
+            "code": 80902,
+            "name": "云南省花卉示范园区",
+            "parentId": 809
+          },
+          {
+            "code": 80903,
+            "name": "小街镇",
+            "parentId": 809
+          },
+          {
+            "code": 80904,
+            "name": "嵩明杨林经济技术开发区",
+            "parentId": 809
+          },
+          {
+            "code": 80905,
+            "name": "嵩阳街道",
+            "parentId": 809
+          },
+          {
+            "code": 80906,
+            "name": "杨林镇",
+            "parentId": 809
+          },
+          {
+            "code": 80907,
+            "name": "杨桥街道",
+            "parentId": 809
+          },
+          {
+            "code": 80908,
+            "name": "牛栏江镇",
+            "parentId": 809
+          }
+        ]
+      },
+      {
+        "code": 810,
+        "name": "晋宁区",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 81001,
+            "name": "上蒜镇",
+            "parentId": 810
+          },
+          {
+            "code": 81002,
+            "name": "二街镇",
+            "parentId": 810
+          },
+          {
+            "code": 81003,
+            "name": "六街镇",
+            "parentId": 810
+          },
+          {
+            "code": 81004,
+            "name": "双河彝族乡",
+            "parentId": 810
+          },
+          {
+            "code": 81005,
+            "name": "夕阳彝族乡",
+            "parentId": 810
+          },
+          {
+            "code": 81006,
+            "name": "宝峰街道",
+            "parentId": 810
+          },
+          {
+            "code": 81007,
+            "name": "昆阳街道",
+            "parentId": 810
+          },
+          {
+            "code": 81008,
+            "name": "晋城街道",
+            "parentId": 810
+          }
+        ]
+      },
+      {
+        "code": 811,
+        "name": "盘龙区",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 81101,
+            "name": "东华街道",
+            "parentId": 811
+          },
+          {
+            "code": 81102,
+            "name": "双龙街道",
+            "parentId": 811
+          },
+          {
+            "code": 81103,
+            "name": "拓东街道",
+            "parentId": 811
+          },
+          {
+            "code": 81104,
+            "name": "松华街道",
+            "parentId": 811
+          },
+          {
+            "code": 81105,
+            "name": "滇源街道",
+            "parentId": 811
+          },
+          {
+            "code": 81106,
+            "name": "联盟街道",
+            "parentId": 811
+          },
+          {
+            "code": 81107,
+            "name": "茨坝街道",
+            "parentId": 811
+          },
+          {
+            "code": 81108,
+            "name": "金辰街道",
+            "parentId": 811
+          },
+          {
+            "code": 81109,
+            "name": "阿子营街道",
+            "parentId": 811
+          },
+          {
+            "code": 81110,
+            "name": "青云街道",
+            "parentId": 811
+          },
+          {
+            "code": 81111,
+            "name": "鼓楼街道",
+            "parentId": 811
+          },
+          {
+            "code": 81112,
+            "name": "龙泉街道",
+            "parentId": 811
+          }
+        ]
+      },
+      {
+        "code": 812,
+        "name": "石林彝族自治县",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 81201,
+            "name": "圭山镇",
+            "parentId": 812
+          },
+          {
+            "code": 81202,
+            "name": "大可乡",
+            "parentId": 812
+          },
+          {
+            "code": 81203,
+            "name": "板桥街道",
+            "parentId": 812
+          },
+          {
+            "code": 81204,
+            "name": "石林街道",
+            "parentId": 812
+          },
+          {
+            "code": 81205,
+            "name": "西街口镇",
+            "parentId": 812
+          },
+          {
+            "code": 81206,
+            "name": "长湖镇",
+            "parentId": 812
+          },
+          {
+            "code": 81207,
+            "name": "鹿阜街道",
+            "parentId": 812
+          }
+        ]
+      },
+      {
+        "code": 813,
+        "name": "禄劝彝族苗族自治县",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 81301,
+            "name": "中屏镇",
+            "parentId": 813
+          },
+          {
+            "code": 81302,
+            "name": "乌东德镇",
+            "parentId": 813
+          },
+          {
+            "code": 81303,
+            "name": "乌蒙乡",
+            "parentId": 813
+          },
+          {
+            "code": 81304,
+            "name": "九龙镇",
+            "parentId": 813
+          },
+          {
+            "code": 81305,
+            "name": "云龙乡",
+            "parentId": 813
+          },
+          {
+            "code": 81306,
+            "name": "则黑乡",
+            "parentId": 813
+          },
+          {
+            "code": 81307,
+            "name": "团街镇",
+            "parentId": 813
+          },
+          {
+            "code": 81308,
+            "name": "屏山街道",
+            "parentId": 813
+          },
+          {
+            "code": 81309,
+            "name": "崇德街道",
+            "parentId": 813
+          },
+          {
+            "code": 81310,
+            "name": "撒营盘镇",
+            "parentId": 813
+          },
+          {
+            "code": 81311,
+            "name": "汤郎乡",
+            "parentId": 813
+          },
+          {
+            "code": 81312,
+            "name": "皎平渡镇",
+            "parentId": 813
+          },
+          {
+            "code": 81313,
+            "name": "禄劝工业园区",
+            "parentId": 813
+          },
+          {
+            "code": 81314,
+            "name": "翠华镇",
+            "parentId": 813
+          },
+          {
+            "code": 81315,
+            "name": "茂山镇",
+            "parentId": 813
+          },
+          {
+            "code": 81316,
+            "name": "转龙镇",
+            "parentId": 813
+          },
+          {
+            "code": 81317,
+            "name": "雪山乡",
+            "parentId": 813
+          },
+          {
+            "code": 81318,
+            "name": "马鹿塘乡",
+            "parentId": 813
+          }
+        ]
+      },
+      {
+        "code": 814,
+        "name": "西山区",
+        "parentId": 8,
+        "children": [
+          {
+            "code": 81401,
+            "name": "前卫街道",
+            "parentId": 814
+          },
+          {
+            "code": 81402,
+            "name": "团结街道",
+            "parentId": 814
+          },
+          {
+            "code": 81403,
+            "name": "昆明滇池国家旅游度假区",
+            "parentId": 814
+          },
+          {
+            "code": 81404,
+            "name": "棕树营街道",
+            "parentId": 814
+          },
+          {
+            "code": 81405,
+            "name": "永昌街道",
+            "parentId": 814
+          },
+          {
+            "code": 81406,
+            "name": "海口街道",
+            "parentId": 814
+          },
+          {
+            "code": 81407,
+            "name": "碧鸡街道",
+            "parentId": 814
+          },
+          {
+            "code": 81408,
+            "name": "福海街道",
+            "parentId": 814
+          },
+          {
+            "code": 81409,
+            "name": "西苑街道",
+            "parentId": 814
+          },
+          {
+            "code": 81410,
+            "name": "金碧街道",
+            "parentId": 814
+          },
+          {
+            "code": 81411,
+            "name": "马街街道",
+            "parentId": 814
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 9,
+    "name": "昭通市",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 901,
+        "name": "大关县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90101,
+            "name": "上高桥回族彝族苗族乡",
+            "parentId": 901
+          },
+          {
+            "code": 90102,
+            "name": "吉利镇",
+            "parentId": 901
+          },
+          {
+            "code": 90103,
+            "name": "天星镇",
+            "parentId": 901
+          },
+          {
+            "code": 90104,
+            "name": "寿山镇",
+            "parentId": 901
+          },
+          {
+            "code": 90105,
+            "name": "悦乐镇",
+            "parentId": 901
+          },
+          {
+            "code": 90106,
+            "name": "木杆镇",
+            "parentId": 901
+          },
+          {
+            "code": 90107,
+            "name": "玉碗镇",
+            "parentId": 901
+          },
+          {
+            "code": 90108,
+            "name": "翠华镇",
+            "parentId": 901
+          },
+          {
+            "code": 90109,
+            "name": "高桥镇",
+            "parentId": 901
+          }
+        ]
+      },
+      {
+        "code": 902,
+        "name": "威信县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90201,
+            "name": "三桃乡",
+            "parentId": 902
+          },
+          {
+            "code": 90202,
+            "name": "双河苗族彝族乡",
+            "parentId": 902
+          },
+          {
+            "code": 90203,
+            "name": "庙沟镇",
+            "parentId": 902
+          },
+          {
+            "code": 90204,
+            "name": "扎西镇",
+            "parentId": 902
+          },
+          {
+            "code": 90205,
+            "name": "旧城镇",
+            "parentId": 902
+          },
+          {
+            "code": 90206,
+            "name": "水田镇",
+            "parentId": 902
+          },
+          {
+            "code": 90207,
+            "name": "罗布镇",
+            "parentId": 902
+          },
+          {
+            "code": 90208,
+            "name": "长安镇",
+            "parentId": 902
+          },
+          {
+            "code": 90209,
+            "name": "高田乡",
+            "parentId": 902
+          },
+          {
+            "code": 90210,
+            "name": "麟凤镇",
+            "parentId": 902
+          }
+        ]
+      },
+      {
+        "code": 903,
+        "name": "巧家县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90301,
+            "name": "东坪镇",
+            "parentId": 903
+          },
+          {
+            "code": 90302,
+            "name": "中寨乡",
+            "parentId": 903
+          },
+          {
+            "code": 90303,
+            "name": "包谷垴乡",
+            "parentId": 903
+          },
+          {
+            "code": 90304,
+            "name": "大寨镇",
+            "parentId": 903
+          },
+          {
+            "code": 90305,
+            "name": "小河镇",
+            "parentId": 903
+          },
+          {
+            "code": 90306,
+            "name": "崇溪镇",
+            "parentId": 903
+          },
+          {
+            "code": 90307,
+            "name": "新店镇",
+            "parentId": 903
+          },
+          {
+            "code": 90308,
+            "name": "炉房乡",
+            "parentId": 903
+          },
+          {
+            "code": 90309,
+            "name": "玉屏街道",
+            "parentId": 903
+          },
+          {
+            "code": 90310,
+            "name": "白鹤滩街道",
+            "parentId": 903
+          },
+          {
+            "code": 90311,
+            "name": "红山乡",
+            "parentId": 903
+          },
+          {
+            "code": 90312,
+            "name": "老店镇",
+            "parentId": 903
+          },
+          {
+            "code": 90313,
+            "name": "茂租镇",
+            "parentId": 903
+          },
+          {
+            "code": 90314,
+            "name": "药山镇",
+            "parentId": 903
+          },
+          {
+            "code": 90315,
+            "name": "蒙姑镇",
+            "parentId": 903
+          },
+          {
+            "code": 90316,
+            "name": "金塘镇",
+            "parentId": 903
+          },
+          {
+            "code": 90317,
+            "name": "马树镇",
+            "parentId": 903
+          }
+        ]
+      },
+      {
+        "code": 904,
+        "name": "彝良县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90401,
+            "name": "两河镇",
+            "parentId": 904
+          },
+          {
+            "code": 90402,
+            "name": "发界街道",
+            "parentId": 904
+          },
+          {
+            "code": 90403,
+            "name": "奎香苗族彝族乡",
+            "parentId": 904
+          },
+          {
+            "code": 90404,
+            "name": "小草坝镇",
+            "parentId": 904
+          },
+          {
+            "code": 90405,
+            "name": "柳溪苗族乡",
+            "parentId": 904
+          },
+          {
+            "code": 90406,
+            "name": "树林彝族苗族乡",
+            "parentId": 904
+          },
+          {
+            "code": 90407,
+            "name": "洛旺苗族乡",
+            "parentId": 904
+          },
+          {
+            "code": 90408,
+            "name": "洛泽河镇",
+            "parentId": 904
+          },
+          {
+            "code": 90409,
+            "name": "海子镇",
+            "parentId": 904
+          },
+          {
+            "code": 90410,
+            "name": "牛街镇",
+            "parentId": 904
+          },
+          {
+            "code": 90411,
+            "name": "荞山镇",
+            "parentId": 904
+          },
+          {
+            "code": 90412,
+            "name": "角奎街道",
+            "parentId": 904
+          },
+          {
+            "code": 90413,
+            "name": "钟鸣镇",
+            "parentId": 904
+          },
+          {
+            "code": 90414,
+            "name": "龙安镇",
+            "parentId": 904
+          },
+          {
+            "code": 90415,
+            "name": "龙海镇",
+            "parentId": 904
+          },
+          {
+            "code": 90416,
+            "name": "龙街苗族彝族乡",
+            "parentId": 904
+          }
+        ]
+      },
+      {
+        "code": 905,
+        "name": "昭阳区",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90501,
+            "name": "乐居镇",
+            "parentId": 905
+          },
+          {
+            "code": 90502,
+            "name": "凤凰街道",
+            "parentId": 905
+          },
+          {
+            "code": 90503,
+            "name": "北闸街道",
+            "parentId": 905
+          },
+          {
+            "code": 90504,
+            "name": "大寨子乡",
+            "parentId": 905
+          },
+          {
+            "code": 90505,
+            "name": "大山包镇",
+            "parentId": 905
+          },
+          {
+            "code": 90506,
+            "name": "太平街道",
+            "parentId": 905
+          },
+          {
+            "code": 90507,
+            "name": "守望回族乡",
+            "parentId": 905
+          },
+          {
+            "code": 90508,
+            "name": "小龙洞回族彝族乡",
+            "parentId": 905
+          },
+          {
+            "code": 90509,
+            "name": "布嘎回族乡",
+            "parentId": 905
+          },
+          {
+            "code": 90510,
+            "name": "旧圃镇",
+            "parentId": 905
+          },
+          {
+            "code": 90511,
+            "name": "永丰镇",
+            "parentId": 905
+          },
+          {
+            "code": 90512,
+            "name": "洒渔镇",
+            "parentId": 905
+          },
+          {
+            "code": 90513,
+            "name": "炎山镇",
+            "parentId": 905
+          },
+          {
+            "code": 90514,
+            "name": "田坝乡",
+            "parentId": 905
+          },
+          {
+            "code": 90515,
+            "name": "盘河镇",
+            "parentId": 905
+          },
+          {
+            "code": 90516,
+            "name": "苏家院镇",
+            "parentId": 905
+          },
+          {
+            "code": 90517,
+            "name": "苏甲乡",
+            "parentId": 905
+          },
+          {
+            "code": 90518,
+            "name": "青岗岭回族彝族乡",
+            "parentId": 905
+          },
+          {
+            "code": 90519,
+            "name": "靖安镇",
+            "parentId": 905
+          },
+          {
+            "code": 90520,
+            "name": "龙泉街道",
+            "parentId": 905
+          }
+        ]
+      },
+      {
+        "code": 906,
+        "name": "水富市",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90601,
+            "name": "两碗镇",
+            "parentId": 906
+          },
+          {
+            "code": 90602,
+            "name": "云富街道",
+            "parentId": 906
+          },
+          {
+            "code": 90603,
+            "name": "向家坝镇",
+            "parentId": 906
+          },
+          {
+            "code": 90604,
+            "name": "太平镇",
+            "parentId": 906
+          }
+        ]
+      },
+      {
+        "code": 907,
+        "name": "永善县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90701,
+            "name": "伍寨彝族苗族乡",
+            "parentId": 907
+          },
+          {
+            "code": 90702,
+            "name": "务基镇",
+            "parentId": 907
+          },
+          {
+            "code": 90703,
+            "name": "团结乡",
+            "parentId": 907
+          },
+          {
+            "code": 90704,
+            "name": "墨翰乡",
+            "parentId": 907
+          },
+          {
+            "code": 90705,
+            "name": "大兴镇",
+            "parentId": 907
+          },
+          {
+            "code": 90706,
+            "name": "桧溪镇",
+            "parentId": 907
+          },
+          {
+            "code": 90707,
+            "name": "水竹乡",
+            "parentId": 907
+          },
+          {
+            "code": 90708,
+            "name": "永兴街道",
+            "parentId": 907
+          },
+          {
+            "code": 90709,
+            "name": "溪洛渡街道",
+            "parentId": 907
+          },
+          {
+            "code": 90710,
+            "name": "码口镇",
+            "parentId": 907
+          },
+          {
+            "code": 90711,
+            "name": "细沙乡",
+            "parentId": 907
+          },
+          {
+            "code": 90712,
+            "name": "茂林镇",
+            "parentId": 907
+          },
+          {
+            "code": 90713,
+            "name": "莲峰镇",
+            "parentId": 907
+          },
+          {
+            "code": 90714,
+            "name": "青胜乡",
+            "parentId": 907
+          },
+          {
+            "code": 90715,
+            "name": "马楠苗族彝族乡",
+            "parentId": 907
+          },
+          {
+            "code": 90716,
+            "name": "黄华镇",
+            "parentId": 907
+          }
+        ]
+      },
+      {
+        "code": 908,
+        "name": "盐津县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90801,
+            "name": "中和镇",
+            "parentId": 908
+          },
+          {
+            "code": 90802,
+            "name": "兴隆乡",
+            "parentId": 908
+          },
+          {
+            "code": 90803,
+            "name": "庙坝镇",
+            "parentId": 908
+          },
+          {
+            "code": 90804,
+            "name": "普洱镇",
+            "parentId": 908
+          },
+          {
+            "code": 90805,
+            "name": "柿子镇",
+            "parentId": 908
+          },
+          {
+            "code": 90806,
+            "name": "滩头乡",
+            "parentId": 908
+          },
+          {
+            "code": 90807,
+            "name": "牛寨乡",
+            "parentId": 908
+          },
+          {
+            "code": 90808,
+            "name": "盐井镇",
+            "parentId": 908
+          },
+          {
+            "code": 90809,
+            "name": "落雁乡",
+            "parentId": 908
+          },
+          {
+            "code": 90810,
+            "name": "豆沙镇",
+            "parentId": 908
+          }
+        ]
+      },
+      {
+        "code": 909,
+        "name": "绥江县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 90901,
+            "name": "中城镇",
+            "parentId": 909
+          },
+          {
+            "code": 90902,
+            "name": "会仪镇",
+            "parentId": 909
+          },
+          {
+            "code": 90903,
+            "name": "南岸镇",
+            "parentId": 909
+          },
+          {
+            "code": 90904,
+            "name": "新滩镇",
+            "parentId": 909
+          },
+          {
+            "code": 90905,
+            "name": "板栗镇",
+            "parentId": 909
+          }
+        ]
+      },
+      {
+        "code": 910,
+        "name": "镇雄县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 91001,
+            "name": "中屯镇",
+            "parentId": 910
+          },
+          {
+            "code": 91002,
+            "name": "乌峰街道",
+            "parentId": 910
+          },
+          {
+            "code": 91003,
+            "name": "五德镇",
+            "parentId": 910
+          },
+          {
+            "code": 91004,
+            "name": "以勒镇",
+            "parentId": 910
+          },
+          {
+            "code": 91005,
+            "name": "以古镇",
+            "parentId": 910
+          },
+          {
+            "code": 91006,
+            "name": "南台街道",
+            "parentId": 910
+          },
+          {
+            "code": 91007,
+            "name": "场坝镇",
+            "parentId": 910
+          },
+          {
+            "code": 91008,
+            "name": "坡头镇",
+            "parentId": 910
+          },
+          {
+            "code": 91009,
+            "name": "坪上镇",
+            "parentId": 910
+          },
+          {
+            "code": 91010,
+            "name": "塘房镇",
+            "parentId": 910
+          },
+          {
+            "code": 91011,
+            "name": "大湾镇",
+            "parentId": 910
+          },
+          {
+            "code": 91012,
+            "name": "尖山乡",
+            "parentId": 910
+          },
+          {
+            "code": 91013,
+            "name": "旧府街道",
+            "parentId": 910
+          },
+          {
+            "code": 91014,
+            "name": "木卓镇",
+            "parentId": 910
+          },
+          {
+            "code": 91015,
+            "name": "杉树乡",
+            "parentId": 910
+          },
+          {
+            "code": 91016,
+            "name": "林口彝族苗族乡",
+            "parentId": 910
+          },
+          {
+            "code": 91017,
+            "name": "果珠彝族乡",
+            "parentId": 910
+          },
+          {
+            "code": 91018,
+            "name": "母享镇",
+            "parentId": 910
+          },
+          {
+            "code": 91019,
+            "name": "泼机镇",
+            "parentId": 910
+          },
+          {
+            "code": 91020,
+            "name": "牛场镇",
+            "parentId": 910
+          },
+          {
+            "code": 91021,
+            "name": "盐源镇",
+            "parentId": 910
+          },
+          {
+            "code": 91022,
+            "name": "碗厂镇",
+            "parentId": 910
+          },
+          {
+            "code": 91023,
+            "name": "罗坎镇",
+            "parentId": 910
+          },
+          {
+            "code": 91024,
+            "name": "芒部镇",
+            "parentId": 910
+          },
+          {
+            "code": 91025,
+            "name": "花山乡",
+            "parentId": 910
+          },
+          {
+            "code": 91026,
+            "name": "花朗乡",
+            "parentId": 910
+          },
+          {
+            "code": 91027,
+            "name": "赤水源镇",
+            "parentId": 910
+          },
+          {
+            "code": 91028,
+            "name": "雨河镇",
+            "parentId": 910
+          },
+          {
+            "code": 91029,
+            "name": "鱼洞乡",
+            "parentId": 910
+          },
+          {
+            "code": 91030,
+            "name": "黑树镇",
+            "parentId": 910
+          }
+        ]
+      },
+      {
+        "code": 911,
+        "name": "鲁甸县",
+        "parentId": 9,
+        "children": [
+          {
+            "code": 91101,
+            "name": "乐红镇",
+            "parentId": 911
+          },
+          {
+            "code": 91102,
+            "name": "小寨镇",
+            "parentId": 911
+          },
+          {
+            "code": 91103,
+            "name": "文屏街道",
+            "parentId": 911
+          },
+          {
+            "code": 91104,
+            "name": "新街镇",
+            "parentId": 911
+          },
+          {
+            "code": 91105,
+            "name": "桃源回族乡",
+            "parentId": 911
+          },
+          {
+            "code": 91106,
+            "name": "梭山镇",
+            "parentId": 911
+          },
+          {
+            "code": 91107,
+            "name": "水磨镇",
+            "parentId": 911
+          },
+          {
+            "code": 91108,
+            "name": "江底镇",
+            "parentId": 911
+          },
+          {
+            "code": 91109,
+            "name": "火德红镇",
+            "parentId": 911
+          },
+          {
+            "code": 91110,
+            "name": "砚池街道",
+            "parentId": 911
+          },
+          {
+            "code": 91111,
+            "name": "茨院回族乡",
+            "parentId": 911
+          },
+          {
+            "code": 91112,
+            "name": "龙头山镇",
+            "parentId": 911
+          },
+          {
+            "code": 91113,
+            "name": "龙树镇",
+            "parentId": 911
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 10,
+    "name": "普洱市",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 1001,
+        "name": "墨江哈尼族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100101,
+            "name": "团田镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100102,
+            "name": "坝溜镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100103,
+            "name": "孟弄彝族乡",
+            "parentId": 1001
+          },
+          {
+            "code": 100104,
+            "name": "文武镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100105,
+            "name": "新安镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100106,
+            "name": "新抚镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100107,
+            "name": "景星镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100108,
+            "name": "泗南江镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100109,
+            "name": "联珠镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100110,
+            "name": "通关镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100111,
+            "name": "那哈乡",
+            "parentId": 1001
+          },
+          {
+            "code": 100112,
+            "name": "雅邑镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100113,
+            "name": "鱼塘镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100114,
+            "name": "龙坝镇",
+            "parentId": 1001
+          },
+          {
+            "code": 100115,
+            "name": "龙潭乡",
+            "parentId": 1001
+          }
+        ]
+      },
+      {
+        "code": 1002,
+        "name": "孟连傣族拉祜族佤族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100201,
+            "name": "公信乡",
+            "parentId": 1002
+          },
+          {
+            "code": 100202,
+            "name": "勐马镇",
+            "parentId": 1002
+          },
+          {
+            "code": 100203,
+            "name": "娜允镇",
+            "parentId": 1002
+          },
+          {
+            "code": 100204,
+            "name": "富岩镇",
+            "parentId": 1002
+          },
+          {
+            "code": 100205,
+            "name": "景信乡",
+            "parentId": 1002
+          },
+          {
+            "code": 100206,
+            "name": "芒信镇",
+            "parentId": 1002
+          }
+        ]
+      },
+      {
+        "code": 1003,
+        "name": "宁洱哈尼族彝族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100301,
+            "name": "勐先镇",
+            "parentId": 1003
+          },
+          {
+            "code": 100302,
+            "name": "同心镇",
+            "parentId": 1003
+          },
+          {
+            "code": 100303,
+            "name": "宁洱镇",
+            "parentId": 1003
+          },
+          {
+            "code": 100304,
+            "name": "德化镇",
+            "parentId": 1003
+          },
+          {
+            "code": 100305,
+            "name": "德安乡",
+            "parentId": 1003
+          },
+          {
+            "code": 100306,
+            "name": "普义乡",
+            "parentId": 1003
+          },
+          {
+            "code": 100307,
+            "name": "梅子镇",
+            "parentId": 1003
+          },
+          {
+            "code": 100308,
+            "name": "磨黑镇",
+            "parentId": 1003
+          },
+          {
+            "code": 100309,
+            "name": "黎明乡",
+            "parentId": 1003
+          }
+        ]
+      },
+      {
+        "code": 1004,
+        "name": "思茅区",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100401,
+            "name": "云仙彝族乡",
+            "parentId": 1004
+          },
+          {
+            "code": 100402,
+            "name": "倚象镇",
+            "parentId": 1004
+          },
+          {
+            "code": 100403,
+            "name": "六顺镇",
+            "parentId": 1004
+          },
+          {
+            "code": 100404,
+            "name": "南屏镇",
+            "parentId": 1004
+          },
+          {
+            "code": 100405,
+            "name": "思茅港镇",
+            "parentId": 1004
+          },
+          {
+            "code": 100406,
+            "name": "思茅街道",
+            "parentId": 1004
+          },
+          {
+            "code": 100407,
+            "name": "龙潭彝族傣族乡",
+            "parentId": 1004
+          }
+        ]
+      },
+      {
+        "code": 1005,
+        "name": "景东彝族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100501,
+            "name": "大朝山东镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100502,
+            "name": "大街镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100503,
+            "name": "太忠镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100504,
+            "name": "安定镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100505,
+            "name": "文井镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100506,
+            "name": "文龙镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100507,
+            "name": "景福镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100508,
+            "name": "曼等乡",
+            "parentId": 1005
+          },
+          {
+            "code": 100509,
+            "name": "林街乡",
+            "parentId": 1005
+          },
+          {
+            "code": 100510,
+            "name": "漫湾镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100511,
+            "name": "花山镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100512,
+            "name": "锦屏镇",
+            "parentId": 1005
+          },
+          {
+            "code": 100513,
+            "name": "龙街乡",
+            "parentId": 1005
+          }
+        ]
+      },
+      {
+        "code": 1006,
+        "name": "景谷傣族彝族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100601,
+            "name": "凤山镇",
+            "parentId": 1006
+          },
+          {
+            "code": 100602,
+            "name": "勐班乡",
+            "parentId": 1006
+          },
+          {
+            "code": 100603,
+            "name": "半坡乡",
+            "parentId": 1006
+          },
+          {
+            "code": 100604,
+            "name": "威远镇",
+            "parentId": 1006
+          },
+          {
+            "code": 100605,
+            "name": "景谷镇",
+            "parentId": 1006
+          },
+          {
+            "code": 100606,
+            "name": "正兴镇",
+            "parentId": 1006
+          },
+          {
+            "code": 100607,
+            "name": "民乐镇",
+            "parentId": 1006
+          },
+          {
+            "code": 100608,
+            "name": "永平镇",
+            "parentId": 1006
+          },
+          {
+            "code": 100609,
+            "name": "益智乡",
+            "parentId": 1006
+          },
+          {
+            "code": 100610,
+            "name": "碧安乡",
+            "parentId": 1006
+          }
+        ]
+      },
+      {
+        "code": 1007,
+        "name": "江城哈尼族彝族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100701,
+            "name": "勐烈镇",
+            "parentId": 1007
+          },
+          {
+            "code": 100702,
+            "name": "嘉禾乡",
+            "parentId": 1007
+          },
+          {
+            "code": 100703,
+            "name": "国庆乡",
+            "parentId": 1007
+          },
+          {
+            "code": 100704,
+            "name": "宝藏镇",
+            "parentId": 1007
+          },
+          {
+            "code": 100705,
+            "name": "康平镇",
+            "parentId": 1007
+          },
+          {
+            "code": 100706,
+            "name": "整董镇",
+            "parentId": 1007
+          },
+          {
+            "code": 100707,
+            "name": "曲水镇",
+            "parentId": 1007
+          }
+        ]
+      },
+      {
+        "code": 1008,
+        "name": "澜沧拉祜族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100801,
+            "name": "上允镇",
+            "parentId": 1008
+          },
+          {
+            "code": 100802,
+            "name": "东回镇",
+            "parentId": 1008
+          },
+          {
+            "code": 100803,
+            "name": "东河乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100804,
+            "name": "勐朗镇",
+            "parentId": 1008
+          },
+          {
+            "code": 100805,
+            "name": "南岭乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100806,
+            "name": "发展河哈尼族乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100807,
+            "name": "大山乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100808,
+            "name": "安康佤族乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100809,
+            "name": "富东乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100810,
+            "name": "富邦乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100811,
+            "name": "惠民镇",
+            "parentId": 1008
+          },
+          {
+            "code": 100812,
+            "name": "拉巴乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100813,
+            "name": "文东佤族乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100814,
+            "name": "木戛乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100815,
+            "name": "竹塘乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100816,
+            "name": "糯扎渡镇",
+            "parentId": 1008
+          },
+          {
+            "code": 100817,
+            "name": "糯福乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100818,
+            "name": "谦六彝族乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100819,
+            "name": "酒井哈尼族乡",
+            "parentId": 1008
+          },
+          {
+            "code": 100820,
+            "name": "雪林佤族乡",
+            "parentId": 1008
+          }
+        ]
+      },
+      {
+        "code": 1009,
+        "name": "西盟佤族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 100901,
+            "name": "中课镇",
+            "parentId": 1009
+          },
+          {
+            "code": 100902,
+            "name": "力所拉祜族乡",
+            "parentId": 1009
+          },
+          {
+            "code": 100903,
+            "name": "勐卡镇",
+            "parentId": 1009
+          },
+          {
+            "code": 100904,
+            "name": "勐梭镇",
+            "parentId": 1009
+          },
+          {
+            "code": 100905,
+            "name": "岳宋乡",
+            "parentId": 1009
+          },
+          {
+            "code": 100906,
+            "name": "新厂镇",
+            "parentId": 1009
+          },
+          {
+            "code": 100907,
+            "name": "翁嘎科镇",
+            "parentId": 1009
+          }
+        ]
+      },
+      {
+        "code": 1010,
+        "name": "镇沅彝族哈尼族拉祜族自治县",
+        "parentId": 10,
+        "children": [
+          {
+            "code": 101001,
+            "name": "九甲镇",
+            "parentId": 1010
+          },
+          {
+            "code": 101002,
+            "name": "勐大镇",
+            "parentId": 1010
+          },
+          {
+            "code": 101003,
+            "name": "古城镇",
+            "parentId": 1010
+          },
+          {
+            "code": 101004,
+            "name": "和平镇",
+            "parentId": 1010
+          },
+          {
+            "code": 101005,
+            "name": "恩乐镇",
+            "parentId": 1010
+          },
+          {
+            "code": 101006,
+            "name": "按板镇",
+            "parentId": 1010
+          },
+          {
+            "code": 101007,
+            "name": "振太镇",
+            "parentId": 1010
+          },
+          {
+            "code": 101008,
+            "name": "田坝乡",
+            "parentId": 1010
+          },
+          {
+            "code": 101009,
+            "name": "者东镇",
+            "parentId": 1010
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 11,
+    "name": "曲靖市",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 1101,
+        "name": "会泽县",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110101,
+            "name": "上村乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110102,
+            "name": "乐业镇",
+            "parentId": 1101
+          },
+          {
+            "code": 110103,
+            "name": "五星乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110104,
+            "name": "以礼街道",
+            "parentId": 1101
+          },
+          {
+            "code": 110105,
+            "name": "古城街道",
+            "parentId": 1101
+          },
+          {
+            "code": 110106,
+            "name": "大井镇",
+            "parentId": 1101
+          },
+          {
+            "code": 110107,
+            "name": "大桥乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110108,
+            "name": "大海乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110109,
+            "name": "娜姑镇",
+            "parentId": 1101
+          },
+          {
+            "code": 110110,
+            "name": "宝云街道",
+            "parentId": 1101
+          },
+          {
+            "code": 110111,
+            "name": "待补镇",
+            "parentId": 1101
+          },
+          {
+            "code": 110112,
+            "name": "新街回族乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110113,
+            "name": "火红乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110114,
+            "name": "田坝乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110115,
+            "name": "矿山镇",
+            "parentId": 1101
+          },
+          {
+            "code": 110116,
+            "name": "纸厂乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110117,
+            "name": "老厂乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110118,
+            "name": "者海镇",
+            "parentId": 1101
+          },
+          {
+            "code": 110119,
+            "name": "迤车镇",
+            "parentId": 1101
+          },
+          {
+            "code": 110120,
+            "name": "金钟街道",
+            "parentId": 1101
+          },
+          {
+            "code": 110121,
+            "name": "钟屏街道",
+            "parentId": 1101
+          },
+          {
+            "code": 110122,
+            "name": "雨碌乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110123,
+            "name": "马路乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110124,
+            "name": "驾车乡",
+            "parentId": 1101
+          },
+          {
+            "code": 110125,
+            "name": "鲁纳乡",
+            "parentId": 1101
+          }
+        ]
+      },
+      {
+        "code": 1102,
+        "name": "宣威市",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110201,
+            "name": "东山镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110202,
+            "name": "丰华街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110203,
+            "name": "乐丰乡",
+            "parentId": 1102
+          },
+          {
+            "code": 110204,
+            "name": "倘塘镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110205,
+            "name": "凤凰街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110206,
+            "name": "务德镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110207,
+            "name": "双河乡",
+            "parentId": 1102
+          },
+          {
+            "code": 110208,
+            "name": "双龙街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110209,
+            "name": "复兴街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110210,
+            "name": "宛水街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110211,
+            "name": "宝山镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110212,
+            "name": "得禄乡",
+            "parentId": 1102
+          },
+          {
+            "code": 110213,
+            "name": "文兴乡",
+            "parentId": 1102
+          },
+          {
+            "code": 110214,
+            "name": "普立乡",
+            "parentId": 1102
+          },
+          {
+            "code": 110215,
+            "name": "来宾街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110216,
+            "name": "杨柳镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110217,
+            "name": "板桥街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110218,
+            "name": "格宜镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110219,
+            "name": "海岱镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110220,
+            "name": "热水镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110221,
+            "name": "田坝镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110222,
+            "name": "羊场镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110223,
+            "name": "落水镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110224,
+            "name": "虹桥街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110225,
+            "name": "西宁街道",
+            "parentId": 1102
+          },
+          {
+            "code": 110226,
+            "name": "西泽乡",
+            "parentId": 1102
+          },
+          {
+            "code": 110227,
+            "name": "阿都乡",
+            "parentId": 1102
+          },
+          {
+            "code": 110228,
+            "name": "龙场镇",
+            "parentId": 1102
+          },
+          {
+            "code": 110229,
+            "name": "龙潭镇",
+            "parentId": 1102
+          }
+        ]
+      },
+      {
+        "code": 1103,
+        "name": "富源县",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110301,
+            "name": "中安街道",
+            "parentId": 1103
+          },
+          {
+            "code": 110302,
+            "name": "十八连山镇",
+            "parentId": 1103
+          },
+          {
+            "code": 110303,
+            "name": "古敢水族乡",
+            "parentId": 1103
+          },
+          {
+            "code": 110304,
+            "name": "后所镇",
+            "parentId": 1103
+          },
+          {
+            "code": 110305,
+            "name": "墨红镇",
+            "parentId": 1103
+          },
+          {
+            "code": 110306,
+            "name": "大河镇",
+            "parentId": 1103
+          },
+          {
+            "code": 110307,
+            "name": "富村镇",
+            "parentId": 1103
+          },
+          {
+            "code": 110308,
+            "name": "竹园镇",
+            "parentId": 1103
+          },
+          {
+            "code": 110309,
+            "name": "老厂镇",
+            "parentId": 1103
+          },
+          {
+            "code": 110310,
+            "name": "胜境街道",
+            "parentId": 1103
+          },
+          {
+            "code": 110311,
+            "name": "营上镇",
+            "parentId": 1103
+          },
+          {
+            "code": 110312,
+            "name": "黄泥河镇",
+            "parentId": 1103
+          }
+        ]
+      },
+      {
+        "code": 1104,
+        "name": "师宗县",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110401,
+            "name": "丹凤街道",
+            "parentId": 1104
+          },
+          {
+            "code": 110402,
+            "name": "五龙壮族乡",
+            "parentId": 1104
+          },
+          {
+            "code": 110403,
+            "name": "大同街道",
+            "parentId": 1104
+          },
+          {
+            "code": 110404,
+            "name": "彩云镇",
+            "parentId": 1104
+          },
+          {
+            "code": 110405,
+            "name": "漾月街道",
+            "parentId": 1104
+          },
+          {
+            "code": 110406,
+            "name": "竹基镇",
+            "parentId": 1104
+          },
+          {
+            "code": 110407,
+            "name": "葵山镇",
+            "parentId": 1104
+          },
+          {
+            "code": 110408,
+            "name": "雄壁镇",
+            "parentId": 1104
+          },
+          {
+            "code": 110409,
+            "name": "高良壮族苗族瑶族乡",
+            "parentId": 1104
+          },
+          {
+            "code": 110410,
+            "name": "龙庆彝族壮族乡",
+            "parentId": 1104
+          }
+        ]
+      },
+      {
+        "code": 1105,
+        "name": "沾益区",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110501,
+            "name": "大坡乡",
+            "parentId": 1105
+          },
+          {
+            "code": 110502,
+            "name": "德泽乡",
+            "parentId": 1105
+          },
+          {
+            "code": 110503,
+            "name": "播乐乡",
+            "parentId": 1105
+          },
+          {
+            "code": 110504,
+            "name": "炎方乡",
+            "parentId": 1105
+          },
+          {
+            "code": 110505,
+            "name": "白水镇",
+            "parentId": 1105
+          },
+          {
+            "code": 110506,
+            "name": "盘江镇",
+            "parentId": 1105
+          },
+          {
+            "code": 110507,
+            "name": "花山街道",
+            "parentId": 1105
+          },
+          {
+            "code": 110508,
+            "name": "菱角乡",
+            "parentId": 1105
+          },
+          {
+            "code": 110509,
+            "name": "西平街道",
+            "parentId": 1105
+          },
+          {
+            "code": 110510,
+            "name": "金龙街道",
+            "parentId": 1105
+          },
+          {
+            "code": 110511,
+            "name": "龙华街道",
+            "parentId": 1105
+          }
+        ]
+      },
+      {
+        "code": 1106,
+        "name": "罗平县",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110601,
+            "name": "九龙街道",
+            "parentId": 1106
+          },
+          {
+            "code": 110602,
+            "name": "大水井乡",
+            "parentId": 1106
+          },
+          {
+            "code": 110603,
+            "name": "富乐镇",
+            "parentId": 1106
+          },
+          {
+            "code": 110604,
+            "name": "旧屋基彝族乡",
+            "parentId": 1106
+          },
+          {
+            "code": 110605,
+            "name": "板桥镇",
+            "parentId": 1106
+          },
+          {
+            "code": 110606,
+            "name": "罗雄街道",
+            "parentId": 1106
+          },
+          {
+            "code": 110607,
+            "name": "老厂乡",
+            "parentId": 1106
+          },
+          {
+            "code": 110608,
+            "name": "腊山街道",
+            "parentId": 1106
+          },
+          {
+            "code": 110609,
+            "name": "钟山乡",
+            "parentId": 1106
+          },
+          {
+            "code": 110610,
+            "name": "长底布依族乡",
+            "parentId": 1106
+          },
+          {
+            "code": 110611,
+            "name": "阿岗镇",
+            "parentId": 1106
+          },
+          {
+            "code": 110612,
+            "name": "马街镇",
+            "parentId": 1106
+          },
+          {
+            "code": 110613,
+            "name": "鲁布革布依族苗族乡",
+            "parentId": 1106
+          }
+        ]
+      },
+      {
+        "code": 1107,
+        "name": "陆良县",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110701,
+            "name": "三岔河镇",
+            "parentId": 1107
+          },
+          {
+            "code": 110702,
+            "name": "中枢街道",
+            "parentId": 1107
+          },
+          {
+            "code": 110703,
+            "name": "召夸镇",
+            "parentId": 1107
+          },
+          {
+            "code": 110704,
+            "name": "同乐街道",
+            "parentId": 1107
+          },
+          {
+            "code": 110705,
+            "name": "大莫古镇",
+            "parentId": 1107
+          },
+          {
+            "code": 110706,
+            "name": "小百户镇",
+            "parentId": 1107
+          },
+          {
+            "code": 110707,
+            "name": "板桥镇",
+            "parentId": 1107
+          },
+          {
+            "code": 110708,
+            "name": "活水乡",
+            "parentId": 1107
+          },
+          {
+            "code": 110709,
+            "name": "芳华镇",
+            "parentId": 1107
+          },
+          {
+            "code": 110710,
+            "name": "马街镇",
+            "parentId": 1107
+          },
+          {
+            "code": 110711,
+            "name": "龙海乡",
+            "parentId": 1107
+          }
+        ]
+      },
+      {
+        "code": 1108,
+        "name": "马龙区",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110801,
+            "name": "大庄乡",
+            "parentId": 1108
+          },
+          {
+            "code": 110802,
+            "name": "张安屯街道",
+            "parentId": 1108
+          },
+          {
+            "code": 110803,
+            "name": "旧县街道",
+            "parentId": 1108
+          },
+          {
+            "code": 110804,
+            "name": "月望乡",
+            "parentId": 1108
+          },
+          {
+            "code": 110805,
+            "name": "王家庄街道",
+            "parentId": 1108
+          },
+          {
+            "code": 110806,
+            "name": "纳章镇",
+            "parentId": 1108
+          },
+          {
+            "code": 110807,
+            "name": "通泉街道",
+            "parentId": 1108
+          },
+          {
+            "code": 110808,
+            "name": "马过河镇",
+            "parentId": 1108
+          },
+          {
+            "code": 110809,
+            "name": "马鸣乡",
+            "parentId": 1108
+          },
+          {
+            "code": 110810,
+            "name": "鸡头村街道",
+            "parentId": 1108
+          }
+        ]
+      },
+      {
+        "code": 1109,
+        "name": "麒麟区",
+        "parentId": 11,
+        "children": [
+          {
+            "code": 110901,
+            "name": "三宝街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110902,
+            "name": "东山镇",
+            "parentId": 1109
+          },
+          {
+            "code": 110903,
+            "name": "南宁街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110904,
+            "name": "太和街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110905,
+            "name": "寥廓街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110906,
+            "name": "建宁街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110907,
+            "name": "文华街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110908,
+            "name": "沿江街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110909,
+            "name": "潇湘街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110910,
+            "name": "珠街街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110911,
+            "name": "白石江街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110912,
+            "name": "益宁街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110913,
+            "name": "翠峰街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110914,
+            "name": "茨营镇",
+            "parentId": 1109
+          },
+          {
+            "code": 110915,
+            "name": "西城街道",
+            "parentId": 1109
+          },
+          {
+            "code": 110916,
+            "name": "越州镇",
+            "parentId": 1109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 12,
+    "name": "楚雄彝族自治州",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 1201,
+        "name": "元谋县",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120101,
+            "name": "元马镇",
+            "parentId": 1201
+          },
+          {
+            "code": 120102,
+            "name": "凉山乡",
+            "parentId": 1201
+          },
+          {
+            "code": 120103,
+            "name": "姜驿乡",
+            "parentId": 1201
+          },
+          {
+            "code": 120104,
+            "name": "平田乡",
+            "parentId": 1201
+          },
+          {
+            "code": 120105,
+            "name": "新华乡",
+            "parentId": 1201
+          },
+          {
+            "code": 120106,
+            "name": "江边乡",
+            "parentId": 1201
+          },
+          {
+            "code": 120107,
+            "name": "物茂乡",
+            "parentId": 1201
+          },
+          {
+            "code": 120108,
+            "name": "羊街镇",
+            "parentId": 1201
+          },
+          {
+            "code": 120109,
+            "name": "老城乡",
+            "parentId": 1201
+          },
+          {
+            "code": 120110,
+            "name": "黄瓜园镇",
+            "parentId": 1201
+          }
+        ]
+      },
+      {
+        "code": 1202,
+        "name": "南华县",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120201,
+            "name": "一街乡",
+            "parentId": 1202
+          },
+          {
+            "code": 120202,
+            "name": "五街镇",
+            "parentId": 1202
+          },
+          {
+            "code": 120203,
+            "name": "五顶山乡",
+            "parentId": 1202
+          },
+          {
+            "code": 120204,
+            "name": "兔街镇",
+            "parentId": 1202
+          },
+          {
+            "code": 120205,
+            "name": "沙桥镇",
+            "parentId": 1202
+          },
+          {
+            "code": 120206,
+            "name": "红土坡镇",
+            "parentId": 1202
+          },
+          {
+            "code": 120207,
+            "name": "罗武庄乡",
+            "parentId": 1202
+          },
+          {
+            "code": 120208,
+            "name": "雨露白族乡",
+            "parentId": 1202
+          },
+          {
+            "code": 120209,
+            "name": "马街镇",
+            "parentId": 1202
+          },
+          {
+            "code": 120210,
+            "name": "龙川镇",
+            "parentId": 1202
+          }
+        ]
+      },
+      {
+        "code": 1203,
+        "name": "双柏县",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120301,
+            "name": "大庄镇",
+            "parentId": 1203
+          },
+          {
+            "code": 120302,
+            "name": "大麦地镇",
+            "parentId": 1203
+          },
+          {
+            "code": 120303,
+            "name": "妥甸镇",
+            "parentId": 1203
+          },
+          {
+            "code": 120304,
+            "name": "安龙堡乡",
+            "parentId": 1203
+          },
+          {
+            "code": 120305,
+            "name": "法脿镇",
+            "parentId": 1203
+          },
+          {
+            "code": 120306,
+            "name": "爱尼山乡",
+            "parentId": 1203
+          },
+          {
+            "code": 120307,
+            "name": "独田乡",
+            "parentId": 1203
+          },
+          {
+            "code": 120308,
+            "name": "鄂嘉镇",
+            "parentId": 1203
+          }
+        ]
+      },
+      {
+        "code": 1204,
+        "name": "大姚县",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120401,
+            "name": "三台乡",
+            "parentId": 1204
+          },
+          {
+            "code": 120402,
+            "name": "三岔河镇",
+            "parentId": 1204
+          },
+          {
+            "code": 120403,
+            "name": "六苴镇",
+            "parentId": 1204
+          },
+          {
+            "code": 120404,
+            "name": "新街镇",
+            "parentId": 1204
+          },
+          {
+            "code": 120405,
+            "name": "昙华乡",
+            "parentId": 1204
+          },
+          {
+            "code": 120406,
+            "name": "桂花镇",
+            "parentId": 1204
+          },
+          {
+            "code": 120407,
+            "name": "湾碧傣族傈僳族乡",
+            "parentId": 1204
+          },
+          {
+            "code": 120408,
+            "name": "石羊镇",
+            "parentId": 1204
+          },
+          {
+            "code": 120409,
+            "name": "赵家店镇",
+            "parentId": 1204
+          },
+          {
+            "code": 120410,
+            "name": "金碧镇",
+            "parentId": 1204
+          },
+          {
+            "code": 120411,
+            "name": "铁锁乡",
+            "parentId": 1204
+          },
+          {
+            "code": 120412,
+            "name": "龙街镇",
+            "parentId": 1204
+          }
+        ]
+      },
+      {
+        "code": 1205,
+        "name": "姚安县",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120501,
+            "name": "光禄镇",
+            "parentId": 1205
+          },
+          {
+            "code": 120502,
+            "name": "前场镇",
+            "parentId": 1205
+          },
+          {
+            "code": 120503,
+            "name": "大河口乡",
+            "parentId": 1205
+          },
+          {
+            "code": 120504,
+            "name": "太平镇",
+            "parentId": 1205
+          },
+          {
+            "code": 120505,
+            "name": "官屯镇",
+            "parentId": 1205
+          },
+          {
+            "code": 120506,
+            "name": "左门乡",
+            "parentId": 1205
+          },
+          {
+            "code": 120507,
+            "name": "弥兴镇",
+            "parentId": 1205
+          },
+          {
+            "code": 120508,
+            "name": "栋川镇",
+            "parentId": 1205
+          },
+          {
+            "code": 120509,
+            "name": "适中乡",
+            "parentId": 1205
+          }
+        ]
+      },
+      {
+        "code": 1206,
+        "name": "楚雄市",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120601,
+            "name": "三街镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120602,
+            "name": "东华镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120603,
+            "name": "东瓜镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120604,
+            "name": "中山镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120605,
+            "name": "八角镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120606,
+            "name": "吕合镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120607,
+            "name": "大地基乡",
+            "parentId": 1206
+          },
+          {
+            "code": 120608,
+            "name": "大过口乡",
+            "parentId": 1206
+          },
+          {
+            "code": 120609,
+            "name": "子午镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120610,
+            "name": "新村镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120611,
+            "name": "树苴乡",
+            "parentId": 1206
+          },
+          {
+            "code": 120612,
+            "name": "紫溪镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120613,
+            "name": "苍岭镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120614,
+            "name": "西舍路镇",
+            "parentId": 1206
+          },
+          {
+            "code": 120615,
+            "name": "鹿城镇",
+            "parentId": 1206
+          }
+        ]
+      },
+      {
+        "code": 1207,
+        "name": "武定县",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120701,
+            "name": "万德镇",
+            "parentId": 1207
+          },
+          {
+            "code": 120702,
+            "name": "东坡傣族乡",
+            "parentId": 1207
+          },
+          {
+            "code": 120703,
+            "name": "发窝乡",
+            "parentId": 1207
+          },
+          {
+            "code": 120704,
+            "name": "己衣镇",
+            "parentId": 1207
+          },
+          {
+            "code": 120705,
+            "name": "插甸镇",
+            "parentId": 1207
+          },
+          {
+            "code": 120706,
+            "name": "狮山镇",
+            "parentId": 1207
+          },
+          {
+            "code": 120707,
+            "name": "猫街镇",
+            "parentId": 1207
+          },
+          {
+            "code": 120708,
+            "name": "环州乡",
+            "parentId": 1207
+          },
+          {
+            "code": 120709,
+            "name": "田心乡",
+            "parentId": 1207
+          },
+          {
+            "code": 120710,
+            "name": "白路镇",
+            "parentId": 1207
+          },
+          {
+            "code": 120711,
+            "name": "高桥镇",
+            "parentId": 1207
+          }
+        ]
+      },
+      {
+        "code": 1208,
+        "name": "永仁县",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120801,
+            "name": "中和镇",
+            "parentId": 1208
+          },
+          {
+            "code": 120802,
+            "name": "宜就镇",
+            "parentId": 1208
+          },
+          {
+            "code": 120803,
+            "name": "永兴傣族乡",
+            "parentId": 1208
+          },
+          {
+            "code": 120804,
+            "name": "永定镇",
+            "parentId": 1208
+          },
+          {
+            "code": 120805,
+            "name": "猛虎乡",
+            "parentId": 1208
+          },
+          {
+            "code": 120806,
+            "name": "维的乡",
+            "parentId": 1208
+          },
+          {
+            "code": 120807,
+            "name": "莲池乡",
+            "parentId": 1208
+          }
+        ]
+      },
+      {
+        "code": 1209,
+        "name": "牟定县",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 120901,
+            "name": "共和镇",
+            "parentId": 1209
+          },
+          {
+            "code": 120902,
+            "name": "凤屯镇",
+            "parentId": 1209
+          },
+          {
+            "code": 120903,
+            "name": "安乐乡",
+            "parentId": 1209
+          },
+          {
+            "code": 120904,
+            "name": "戌街乡",
+            "parentId": 1209
+          },
+          {
+            "code": 120905,
+            "name": "新桥镇",
+            "parentId": 1209
+          },
+          {
+            "code": 120906,
+            "name": "江坡镇",
+            "parentId": 1209
+          },
+          {
+            "code": 120907,
+            "name": "蟠猫乡",
+            "parentId": 1209
+          }
+        ]
+      },
+      {
+        "code": 1210,
+        "name": "禄丰市",
+        "parentId": 12,
+        "children": [
+          {
+            "code": 121001,
+            "name": "一平浪镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121002,
+            "name": "中村乡",
+            "parentId": 1210
+          },
+          {
+            "code": 121003,
+            "name": "仁兴镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121004,
+            "name": "勤丰镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121005,
+            "name": "和平镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121006,
+            "name": "土官镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121007,
+            "name": "妥安乡",
+            "parentId": 1210
+          },
+          {
+            "code": 121008,
+            "name": "广通镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121009,
+            "name": "彩云镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121010,
+            "name": "恐龙山镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121011,
+            "name": "碧城镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121012,
+            "name": "金山镇",
+            "parentId": 1210
+          },
+          {
+            "code": 121013,
+            "name": "高峰乡",
+            "parentId": 1210
+          },
+          {
+            "code": 121014,
+            "name": "黑井镇",
+            "parentId": 1210
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 13,
+    "name": "玉溪市",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 1301,
+        "name": "元江哈尼族彝族傣族自治县",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130101,
+            "name": "咪哩乡",
+            "parentId": 1301
+          },
+          {
+            "code": 130102,
+            "name": "因远镇",
+            "parentId": 1301
+          },
+          {
+            "code": 130103,
+            "name": "曼来镇",
+            "parentId": 1301
+          },
+          {
+            "code": 130104,
+            "name": "洼垤乡",
+            "parentId": 1301
+          },
+          {
+            "code": 130105,
+            "name": "澧江街道",
+            "parentId": 1301
+          },
+          {
+            "code": 130106,
+            "name": "甘庄街道",
+            "parentId": 1301
+          },
+          {
+            "code": 130107,
+            "name": "红河街道",
+            "parentId": 1301
+          },
+          {
+            "code": 130108,
+            "name": "羊街乡",
+            "parentId": 1301
+          },
+          {
+            "code": 130109,
+            "name": "那诺乡",
+            "parentId": 1301
+          },
+          {
+            "code": 130110,
+            "name": "龙潭乡",
+            "parentId": 1301
+          }
+        ]
+      },
+      {
+        "code": 1302,
+        "name": "华宁县",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130201,
+            "name": "华溪镇",
+            "parentId": 1302
+          },
+          {
+            "code": 130202,
+            "name": "宁州街道",
+            "parentId": 1302
+          },
+          {
+            "code": 130203,
+            "name": "盘溪镇",
+            "parentId": 1302
+          },
+          {
+            "code": 130204,
+            "name": "通红甸彝族苗族乡",
+            "parentId": 1302
+          },
+          {
+            "code": 130205,
+            "name": "青龙镇",
+            "parentId": 1302
+          }
+        ]
+      },
+      {
+        "code": 1303,
+        "name": "峨山彝族自治县",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130301,
+            "name": "化念镇",
+            "parentId": 1303
+          },
+          {
+            "code": 130302,
+            "name": "双江街道",
+            "parentId": 1303
+          },
+          {
+            "code": 130303,
+            "name": "塔甸镇",
+            "parentId": 1303
+          },
+          {
+            "code": 130304,
+            "name": "大龙潭乡",
+            "parentId": 1303
+          },
+          {
+            "code": 130305,
+            "name": "富良棚乡",
+            "parentId": 1303
+          },
+          {
+            "code": 130306,
+            "name": "小街街道",
+            "parentId": 1303
+          },
+          {
+            "code": 130307,
+            "name": "岔河乡",
+            "parentId": 1303
+          },
+          {
+            "code": 130308,
+            "name": "甸中镇",
+            "parentId": 1303
+          }
+        ]
+      },
+      {
+        "code": 1304,
+        "name": "新平彝族傣族自治县",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130401,
+            "name": "古城街道",
+            "parentId": 1304
+          },
+          {
+            "code": 130402,
+            "name": "平掌乡",
+            "parentId": 1304
+          },
+          {
+            "code": 130403,
+            "name": "平甸乡",
+            "parentId": 1304
+          },
+          {
+            "code": 130404,
+            "name": "建兴乡",
+            "parentId": 1304
+          },
+          {
+            "code": 130405,
+            "name": "戛洒镇",
+            "parentId": 1304
+          },
+          {
+            "code": 130406,
+            "name": "扬武镇",
+            "parentId": 1304
+          },
+          {
+            "code": 130407,
+            "name": "新化乡",
+            "parentId": 1304
+          },
+          {
+            "code": 130408,
+            "name": "桂山街道",
+            "parentId": 1304
+          },
+          {
+            "code": 130409,
+            "name": "水塘镇",
+            "parentId": 1304
+          },
+          {
+            "code": 130410,
+            "name": "漠沙镇",
+            "parentId": 1304
+          },
+          {
+            "code": 130411,
+            "name": "老厂乡",
+            "parentId": 1304
+          },
+          {
+            "code": 130412,
+            "name": "者竜乡",
+            "parentId": 1304
+          }
+        ]
+      },
+      {
+        "code": 1305,
+        "name": "易门县",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130501,
+            "name": "六街街道",
+            "parentId": 1305
+          },
+          {
+            "code": 130502,
+            "name": "十街彝族乡",
+            "parentId": 1305
+          },
+          {
+            "code": 130503,
+            "name": "小街乡",
+            "parentId": 1305
+          },
+          {
+            "code": 130504,
+            "name": "浦贝彝族乡",
+            "parentId": 1305
+          },
+          {
+            "code": 130505,
+            "name": "绿汁镇",
+            "parentId": 1305
+          },
+          {
+            "code": 130506,
+            "name": "铜厂彝族乡",
+            "parentId": 1305
+          },
+          {
+            "code": 130507,
+            "name": "龙泉街道",
+            "parentId": 1305
+          }
+        ]
+      },
+      {
+        "code": 1306,
+        "name": "江川区",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130601,
+            "name": "九溪镇",
+            "parentId": 1306
+          },
+          {
+            "code": 130602,
+            "name": "前卫镇",
+            "parentId": 1306
+          },
+          {
+            "code": 130603,
+            "name": "宁海街道",
+            "parentId": 1306
+          },
+          {
+            "code": 130604,
+            "name": "安化彝族乡",
+            "parentId": 1306
+          },
+          {
+            "code": 130605,
+            "name": "星云街道",
+            "parentId": 1306
+          },
+          {
+            "code": 130606,
+            "name": "江城镇",
+            "parentId": 1306
+          },
+          {
+            "code": 130607,
+            "name": "路居镇",
+            "parentId": 1306
+          },
+          {
+            "code": 130608,
+            "name": "雄关乡",
+            "parentId": 1306
+          }
+        ]
+      },
+      {
+        "code": 1307,
+        "name": "澄江市",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130701,
+            "name": "九村镇",
+            "parentId": 1307
+          },
+          {
+            "code": 130702,
+            "name": "凤麓街道",
+            "parentId": 1307
+          },
+          {
+            "code": 130703,
+            "name": "右所镇",
+            "parentId": 1307
+          },
+          {
+            "code": 130704,
+            "name": "海口镇",
+            "parentId": 1307
+          },
+          {
+            "code": 130705,
+            "name": "阳宗镇",
+            "parentId": 1307
+          },
+          {
+            "code": 130706,
+            "name": "龙街街道",
+            "parentId": 1307
+          }
+        ]
+      },
+      {
+        "code": 1308,
+        "name": "红塔区",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130801,
+            "name": "凤凰街道",
+            "parentId": 1308
+          },
+          {
+            "code": 130802,
+            "name": "北城街道",
+            "parentId": 1308
+          },
+          {
+            "code": 130803,
+            "name": "大营街街道",
+            "parentId": 1308
+          },
+          {
+            "code": 130804,
+            "name": "小石桥彝族乡",
+            "parentId": 1308
+          },
+          {
+            "code": 130805,
+            "name": "春和街道",
+            "parentId": 1308
+          },
+          {
+            "code": 130806,
+            "name": "李棋街道",
+            "parentId": 1308
+          },
+          {
+            "code": 130807,
+            "name": "洛河彝族乡",
+            "parentId": 1308
+          },
+          {
+            "code": 130808,
+            "name": "玉兴街道",
+            "parentId": 1308
+          },
+          {
+            "code": 130809,
+            "name": "玉带街道",
+            "parentId": 1308
+          },
+          {
+            "code": 130810,
+            "name": "研和街道",
+            "parentId": 1308
+          },
+          {
+            "code": 130811,
+            "name": "高仓街道",
+            "parentId": 1308
+          }
+        ]
+      },
+      {
+        "code": 1309,
+        "name": "通海县",
+        "parentId": 13,
+        "children": [
+          {
+            "code": 130901,
+            "name": "九龙街道",
+            "parentId": 1309
+          },
+          {
+            "code": 130902,
+            "name": "兴蒙蒙古族乡",
+            "parentId": 1309
+          },
+          {
+            "code": 130903,
+            "name": "四街镇",
+            "parentId": 1309
+          },
+          {
+            "code": 130904,
+            "name": "杨广镇",
+            "parentId": 1309
+          },
+          {
+            "code": 130905,
+            "name": "河西镇",
+            "parentId": 1309
+          },
+          {
+            "code": 130906,
+            "name": "秀山街道",
+            "parentId": 1309
+          },
+          {
+            "code": 130907,
+            "name": "纳古镇",
+            "parentId": 1309
+          },
+          {
+            "code": 130908,
+            "name": "里山彝族乡",
+            "parentId": 1309
+          },
+          {
+            "code": 130909,
+            "name": "高大傣族彝族乡",
+            "parentId": 1309
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 14,
+    "name": "红河哈尼族彝族自治州",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 1401,
+        "name": "个旧市",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140101,
+            "name": "保和乡",
+            "parentId": 1401
+          },
+          {
+            "code": 140102,
+            "name": "卡房镇",
+            "parentId": 1401
+          },
+          {
+            "code": 140103,
+            "name": "大屯街道",
+            "parentId": 1401
+          },
+          {
+            "code": 140104,
+            "name": "宝华街道",
+            "parentId": 1401
+          },
+          {
+            "code": 140105,
+            "name": "沙甸街道",
+            "parentId": 1401
+          },
+          {
+            "code": 140106,
+            "name": "老厂镇",
+            "parentId": 1401
+          },
+          {
+            "code": 140107,
+            "name": "蔓耗镇",
+            "parentId": 1401
+          },
+          {
+            "code": 140108,
+            "name": "贾沙乡",
+            "parentId": 1401
+          },
+          {
+            "code": 140109,
+            "name": "金湖街道",
+            "parentId": 1401
+          },
+          {
+            "code": 140110,
+            "name": "锡城街道",
+            "parentId": 1401
+          },
+          {
+            "code": 140111,
+            "name": "鸡街镇",
+            "parentId": 1401
+          }
+        ]
+      },
+      {
+        "code": 1402,
+        "name": "元阳县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140201,
+            "name": "上新城乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140202,
+            "name": "俄扎乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140203,
+            "name": "南沙镇",
+            "parentId": 1402
+          },
+          {
+            "code": 140204,
+            "name": "嘎娘乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140205,
+            "name": "大坪乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140206,
+            "name": "小新街乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140207,
+            "name": "攀枝花乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140208,
+            "name": "新街镇",
+            "parentId": 1402
+          },
+          {
+            "code": 140209,
+            "name": "沙拉托乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140210,
+            "name": "牛角寨镇",
+            "parentId": 1402
+          },
+          {
+            "code": 140211,
+            "name": "逢春岭乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140212,
+            "name": "马街乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140213,
+            "name": "黄茅岭乡",
+            "parentId": 1402
+          },
+          {
+            "code": 140214,
+            "name": "黄草岭乡",
+            "parentId": 1402
+          }
+        ]
+      },
+      {
+        "code": 1403,
+        "name": "屏边苗族自治县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140301,
+            "name": "和平镇",
+            "parentId": 1403
+          },
+          {
+            "code": 140302,
+            "name": "新华乡",
+            "parentId": 1403
+          },
+          {
+            "code": 140303,
+            "name": "新现镇",
+            "parentId": 1403
+          },
+          {
+            "code": 140304,
+            "name": "湾塘乡",
+            "parentId": 1403
+          },
+          {
+            "code": 140305,
+            "name": "玉屏镇",
+            "parentId": 1403
+          },
+          {
+            "code": 140306,
+            "name": "白云乡",
+            "parentId": 1403
+          },
+          {
+            "code": 140307,
+            "name": "白河镇",
+            "parentId": 1403
+          }
+        ]
+      },
+      {
+        "code": 1404,
+        "name": "建水县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140401,
+            "name": "临安镇",
+            "parentId": 1404
+          },
+          {
+            "code": 140402,
+            "name": "利民乡",
+            "parentId": 1404
+          },
+          {
+            "code": 140403,
+            "name": "南庄镇",
+            "parentId": 1404
+          },
+          {
+            "code": 140404,
+            "name": "坡头乡",
+            "parentId": 1404
+          },
+          {
+            "code": 140405,
+            "name": "官厅镇",
+            "parentId": 1404
+          },
+          {
+            "code": 140406,
+            "name": "岔科镇",
+            "parentId": 1404
+          },
+          {
+            "code": 140407,
+            "name": "普雄乡",
+            "parentId": 1404
+          },
+          {
+            "code": 140408,
+            "name": "曲江镇",
+            "parentId": 1404
+          },
+          {
+            "code": 140409,
+            "name": "李浩寨乡",
+            "parentId": 1404
+          },
+          {
+            "code": 140410,
+            "name": "甸尾乡",
+            "parentId": 1404
+          },
+          {
+            "code": 140411,
+            "name": "盘江乡",
+            "parentId": 1404
+          },
+          {
+            "code": 140412,
+            "name": "西庄镇",
+            "parentId": 1404
+          },
+          {
+            "code": 140413,
+            "name": "青龙镇",
+            "parentId": 1404
+          },
+          {
+            "code": 140414,
+            "name": "面甸镇",
+            "parentId": 1404
+          }
+        ]
+      },
+      {
+        "code": 1405,
+        "name": "开远市",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140501,
+            "name": "中和营镇",
+            "parentId": 1405
+          },
+          {
+            "code": 140502,
+            "name": "乐白道街道",
+            "parentId": 1405
+          },
+          {
+            "code": 140503,
+            "name": "大庄回族乡",
+            "parentId": 1405
+          },
+          {
+            "code": 140504,
+            "name": "小龙潭镇",
+            "parentId": 1405
+          },
+          {
+            "code": 140505,
+            "name": "灵泉街道",
+            "parentId": 1405
+          },
+          {
+            "code": 140506,
+            "name": "碑格乡",
+            "parentId": 1405
+          },
+          {
+            "code": 140507,
+            "name": "羊街乡",
+            "parentId": 1405
+          }
+        ]
+      },
+      {
+        "code": 1406,
+        "name": "弥勒市",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140601,
+            "name": "东山镇",
+            "parentId": 1406
+          },
+          {
+            "code": 140602,
+            "name": "五山乡",
+            "parentId": 1406
+          },
+          {
+            "code": 140603,
+            "name": "太平街道",
+            "parentId": 1406
+          },
+          {
+            "code": 140604,
+            "name": "巡检司镇",
+            "parentId": 1406
+          },
+          {
+            "code": 140605,
+            "name": "弥阳街道",
+            "parentId": 1406
+          },
+          {
+            "code": 140606,
+            "name": "新哨镇",
+            "parentId": 1406
+          },
+          {
+            "code": 140607,
+            "name": "朋普镇",
+            "parentId": 1406
+          },
+          {
+            "code": 140608,
+            "name": "江边乡",
+            "parentId": 1406
+          },
+          {
+            "code": 140609,
+            "name": "福城街道",
+            "parentId": 1406
+          },
+          {
+            "code": 140610,
+            "name": "竹园镇",
+            "parentId": 1406
+          },
+          {
+            "code": 140611,
+            "name": "虹溪镇",
+            "parentId": 1406
+          },
+          {
+            "code": 140612,
+            "name": "西一镇",
+            "parentId": 1406
+          },
+          {
+            "code": 140613,
+            "name": "西三镇",
+            "parentId": 1406
+          },
+          {
+            "code": 140614,
+            "name": "西二镇",
+            "parentId": 1406
+          }
+        ]
+      },
+      {
+        "code": 1407,
+        "name": "河口瑶族自治县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140701,
+            "name": "南溪镇",
+            "parentId": 1407
+          },
+          {
+            "code": 140702,
+            "name": "桥头苗族壮族乡",
+            "parentId": 1407
+          },
+          {
+            "code": 140703,
+            "name": "河口镇",
+            "parentId": 1407
+          },
+          {
+            "code": 140704,
+            "name": "瑶山乡",
+            "parentId": 1407
+          },
+          {
+            "code": 140705,
+            "name": "老范寨乡",
+            "parentId": 1407
+          },
+          {
+            "code": 140706,
+            "name": "莲花滩乡",
+            "parentId": 1407
+          }
+        ]
+      },
+      {
+        "code": 1408,
+        "name": "泸西县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140801,
+            "name": "三塘乡",
+            "parentId": 1408
+          },
+          {
+            "code": 140802,
+            "name": "中枢镇",
+            "parentId": 1408
+          },
+          {
+            "code": 140803,
+            "name": "午街铺镇",
+            "parentId": 1408
+          },
+          {
+            "code": 140804,
+            "name": "向阳乡",
+            "parentId": 1408
+          },
+          {
+            "code": 140805,
+            "name": "旧城镇",
+            "parentId": 1408
+          },
+          {
+            "code": 140806,
+            "name": "永宁乡",
+            "parentId": 1408
+          },
+          {
+            "code": 140807,
+            "name": "白水镇",
+            "parentId": 1408
+          },
+          {
+            "code": 140808,
+            "name": "金马镇",
+            "parentId": 1408
+          }
+        ]
+      },
+      {
+        "code": 1409,
+        "name": "石屏县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 140901,
+            "name": "哨冲镇",
+            "parentId": 1409
+          },
+          {
+            "code": 140902,
+            "name": "坝心镇",
+            "parentId": 1409
+          },
+          {
+            "code": 140903,
+            "name": "大桥乡",
+            "parentId": 1409
+          },
+          {
+            "code": 140904,
+            "name": "宝秀镇",
+            "parentId": 1409
+          },
+          {
+            "code": 140905,
+            "name": "异龙镇",
+            "parentId": 1409
+          },
+          {
+            "code": 140906,
+            "name": "新城乡",
+            "parentId": 1409
+          },
+          {
+            "code": 140907,
+            "name": "牛街镇",
+            "parentId": 1409
+          },
+          {
+            "code": 140908,
+            "name": "龙朋镇",
+            "parentId": 1409
+          },
+          {
+            "code": 140909,
+            "name": "龙武镇",
+            "parentId": 1409
+          }
+        ]
+      },
+      {
+        "code": 1410,
+        "name": "红河县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 141001,
+            "name": "三村乡",
+            "parentId": 1410
+          },
+          {
+            "code": 141002,
+            "name": "乐育镇",
+            "parentId": 1410
+          },
+          {
+            "code": 141003,
+            "name": "垤玛乡",
+            "parentId": 1410
+          },
+          {
+            "code": 141004,
+            "name": "大羊街乡",
+            "parentId": 1410
+          },
+          {
+            "code": 141005,
+            "name": "宝华镇",
+            "parentId": 1410
+          },
+          {
+            "code": 141006,
+            "name": "架车乡",
+            "parentId": 1410
+          },
+          {
+            "code": 141007,
+            "name": "洛恩乡",
+            "parentId": 1410
+          },
+          {
+            "code": 141008,
+            "name": "浪堤镇",
+            "parentId": 1410
+          },
+          {
+            "code": 141009,
+            "name": "甲寅镇",
+            "parentId": 1410
+          },
+          {
+            "code": 141010,
+            "name": "石头寨乡",
+            "parentId": 1410
+          },
+          {
+            "code": 141011,
+            "name": "车古乡",
+            "parentId": 1410
+          },
+          {
+            "code": 141012,
+            "name": "迤萨镇",
+            "parentId": 1410
+          },
+          {
+            "code": 141013,
+            "name": "阿扎河乡",
+            "parentId": 1410
+          }
+        ]
+      },
+      {
+        "code": 1411,
+        "name": "绿春县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 141101,
+            "name": "三猛乡",
+            "parentId": 1411
+          },
+          {
+            "code": 141102,
+            "name": "半坡乡",
+            "parentId": 1411
+          },
+          {
+            "code": 141103,
+            "name": "大兴镇",
+            "parentId": 1411
+          },
+          {
+            "code": 141104,
+            "name": "大水沟乡",
+            "parentId": 1411
+          },
+          {
+            "code": 141105,
+            "name": "大黑山镇",
+            "parentId": 1411
+          },
+          {
+            "code": 141106,
+            "name": "平河镇",
+            "parentId": 1411
+          },
+          {
+            "code": 141107,
+            "name": "戈奎乡",
+            "parentId": 1411
+          },
+          {
+            "code": 141108,
+            "name": "牛孔镇",
+            "parentId": 1411
+          },
+          {
+            "code": 141109,
+            "name": "骑马坝乡",
+            "parentId": 1411
+          }
+        ]
+      },
+      {
+        "code": 1412,
+        "name": "蒙自市",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 141201,
+            "name": "冷泉镇",
+            "parentId": 1412
+          },
+          {
+            "code": 141202,
+            "name": "文澜街道",
+            "parentId": 1412
+          },
+          {
+            "code": 141203,
+            "name": "文萃街道",
+            "parentId": 1412
+          },
+          {
+            "code": 141204,
+            "name": "新安所街道",
+            "parentId": 1412
+          },
+          {
+            "code": 141205,
+            "name": "期路白苗族乡",
+            "parentId": 1412
+          },
+          {
+            "code": 141206,
+            "name": "水田乡",
+            "parentId": 1412
+          },
+          {
+            "code": 141207,
+            "name": "老寨苗族乡",
+            "parentId": 1412
+          },
+          {
+            "code": 141208,
+            "name": "芷村镇",
+            "parentId": 1412
+          },
+          {
+            "code": 141209,
+            "name": "草坝镇",
+            "parentId": 1412
+          },
+          {
+            "code": 141210,
+            "name": "西北勒乡",
+            "parentId": 1412
+          },
+          {
+            "code": 141211,
+            "name": "观澜街道",
+            "parentId": 1412
+          },
+          {
+            "code": 141212,
+            "name": "雨过铺街道",
+            "parentId": 1412
+          },
+          {
+            "code": 141213,
+            "name": "鸣鹫镇",
+            "parentId": 1412
+          }
+        ]
+      },
+      {
+        "code": 1413,
+        "name": "金平苗族瑶族傣族自治县",
+        "parentId": 14,
+        "children": [
+          {
+            "code": 141301,
+            "name": "勐拉镇",
+            "parentId": 1413
+          },
+          {
+            "code": 141302,
+            "name": "勐桥乡",
+            "parentId": 1413
+          },
+          {
+            "code": 141303,
+            "name": "大寨乡",
+            "parentId": 1413
+          },
+          {
+            "code": 141304,
+            "name": "沙依坡乡",
+            "parentId": 1413
+          },
+          {
+            "code": 141305,
+            "name": "老勐镇",
+            "parentId": 1413
+          },
+          {
+            "code": 141306,
+            "name": "老集寨乡",
+            "parentId": 1413
+          },
+          {
+            "code": 141307,
+            "name": "者米拉祜族乡",
+            "parentId": 1413
+          },
+          {
+            "code": 141308,
+            "name": "营盘乡",
+            "parentId": 1413
+          },
+          {
+            "code": 141309,
+            "name": "金平县农场",
+            "parentId": 1413
+          },
+          {
+            "code": 141310,
+            "name": "金水河镇",
+            "parentId": 1413
+          },
+          {
+            "code": 141311,
+            "name": "金河镇",
+            "parentId": 1413
+          },
+          {
+            "code": 141312,
+            "name": "铜厂乡",
+            "parentId": 1413
+          },
+          {
+            "code": 141313,
+            "name": "阿得博乡",
+            "parentId": 1413
+          },
+          {
+            "code": 141314,
+            "name": "马鞍底乡",
+            "parentId": 1413
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 15,
+    "name": "西双版纳傣族自治州",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 1501,
+        "name": "勐海县",
+        "parentId": 15,
+        "children": [
+          {
+            "code": 150101,
+            "name": "勐宋乡",
+            "parentId": 1501
+          },
+          {
+            "code": 150102,
+            "name": "勐往乡",
+            "parentId": 1501
+          },
+          {
+            "code": 150103,
+            "name": "勐海镇",
+            "parentId": 1501
+          },
+          {
+            "code": 150104,
+            "name": "勐混镇",
+            "parentId": 1501
+          },
+          {
+            "code": 150105,
+            "name": "勐满镇",
+            "parentId": 1501
+          },
+          {
+            "code": 150106,
+            "name": "勐遮镇",
+            "parentId": 1501
+          },
+          {
+            "code": 150107,
+            "name": "勐阿镇",
+            "parentId": 1501
+          },
+          {
+            "code": 150108,
+            "name": "布朗山布朗族乡",
+            "parentId": 1501
+          },
+          {
+            "code": 150109,
+            "name": "打洛镇",
+            "parentId": 1501
+          },
+          {
+            "code": 150110,
+            "name": "格朗和哈尼族乡",
+            "parentId": 1501
+          },
+          {
+            "code": 150111,
+            "name": "西定哈尼族布朗族乡",
+            "parentId": 1501
+          }
+        ]
+      },
+      {
+        "code": 1502,
+        "name": "勐腊县",
+        "parentId": 15,
+        "children": [
+          {
+            "code": 150201,
+            "name": "关累镇",
+            "parentId": 1502
+          },
+          {
+            "code": 150202,
+            "name": "勐仑镇",
+            "parentId": 1502
+          },
+          {
+            "code": 150203,
+            "name": "勐伴镇",
+            "parentId": 1502
+          },
+          {
+            "code": 150204,
+            "name": "勐捧农场",
+            "parentId": 1502
+          },
+          {
+            "code": 150205,
+            "name": "勐捧镇",
+            "parentId": 1502
+          },
+          {
+            "code": 150206,
+            "name": "勐满农场",
+            "parentId": 1502
+          },
+          {
+            "code": 150207,
+            "name": "勐满镇",
+            "parentId": 1502
+          },
+          {
+            "code": 150208,
+            "name": "勐腊农场",
+            "parentId": 1502
+          },
+          {
+            "code": 150209,
+            "name": "勐腊镇",
+            "parentId": 1502
+          },
+          {
+            "code": 150210,
+            "name": "勐醒农场",
+            "parentId": 1502
+          },
+          {
+            "code": 150211,
+            "name": "易武镇",
+            "parentId": 1502
+          },
+          {
+            "code": 150212,
+            "name": "瑶区瑶族乡",
+            "parentId": 1502
+          },
+          {
+            "code": 150213,
+            "name": "磨憨镇",
+            "parentId": 1502
+          },
+          {
+            "code": 150214,
+            "name": "象明彝族乡",
+            "parentId": 1502
+          }
+        ]
+      },
+      {
+        "code": 1503,
+        "name": "景洪市",
+        "parentId": 15,
+        "children": [
+          {
+            "code": 150301,
+            "name": "东风农场",
+            "parentId": 1503
+          },
+          {
+            "code": 150302,
+            "name": "允景洪街道",
+            "parentId": 1503
+          },
+          {
+            "code": 150303,
+            "name": "勐养镇",
+            "parentId": 1503
+          },
+          {
+            "code": 150304,
+            "name": "勐旺乡",
+            "parentId": 1503
+          },
+          {
+            "code": 150305,
+            "name": "勐罕镇",
+            "parentId": 1503
+          },
+          {
+            "code": 150306,
+            "name": "勐龙镇",
+            "parentId": 1503
+          },
+          {
+            "code": 150307,
+            "name": "嘎栋街道",
+            "parentId": 1503
+          },
+          {
+            "code": 150308,
+            "name": "嘎洒街道",
+            "parentId": 1503
+          },
+          {
+            "code": 150309,
+            "name": "基诺山基诺族乡",
+            "parentId": 1503
+          },
+          {
+            "code": 150310,
+            "name": "大渡岗乡",
+            "parentId": 1503
+          },
+          {
+            "code": 150311,
+            "name": "普文镇",
+            "parentId": 1503
+          },
+          {
+            "code": 150312,
+            "name": "景哈哈尼族乡",
+            "parentId": 1503
+          },
+          {
+            "code": 150313,
+            "name": "景讷乡",
+            "parentId": 1503
+          },
+          {
+            "code": 150314,
+            "name": "曼弄枫街道",
+            "parentId": 1503
+          },
+          {
+            "code": 150315,
+            "name": "橄榄坝农场",
+            "parentId": 1503
+          },
+          {
+            "code": 150316,
+            "name": "江北街道",
+            "parentId": 1503
+          },
+          {
+            "code": 150317,
+            "name": "西双版纳监狱",
+            "parentId": 1503
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": 16,
+    "name": "迪庆藏族自治州",
+    "parentId": 0,
+    "children": [
+      {
+        "code": 1601,
+        "name": "德钦县",
+        "parentId": 16,
+        "children": [
+          {
+            "code": 160101,
+            "name": "云岭乡",
+            "parentId": 1601
+          },
+          {
+            "code": 160102,
+            "name": "佛山乡",
+            "parentId": 1601
+          },
+          {
+            "code": 160103,
+            "name": "升平镇",
+            "parentId": 1601
+          },
+          {
+            "code": 160104,
+            "name": "奔子栏镇",
+            "parentId": 1601
+          },
+          {
+            "code": 160105,
+            "name": "拖顶傈僳族乡",
+            "parentId": 1601
+          },
+          {
+            "code": 160106,
+            "name": "燕门乡",
+            "parentId": 1601
+          },
+          {
+            "code": 160107,
+            "name": "羊拉乡",
+            "parentId": 1601
+          },
+          {
+            "code": 160108,
+            "name": "霞若傈僳族乡",
+            "parentId": 1601
+          }
+        ]
+      },
+      {
+        "code": 1602,
+        "name": "维西傈僳族自治县",
+        "parentId": 16,
+        "children": [
+          {
+            "code": 160201,
+            "name": "中路乡",
+            "parentId": 1602
+          },
+          {
+            "code": 160202,
+            "name": "保和镇",
+            "parentId": 1602
+          },
+          {
+            "code": 160203,
+            "name": "叶枝镇",
+            "parentId": 1602
+          },
+          {
+            "code": 160204,
+            "name": "塔城镇",
+            "parentId": 1602
+          },
+          {
+            "code": 160205,
+            "name": "巴迪乡",
+            "parentId": 1602
+          },
+          {
+            "code": 160206,
+            "name": "康普乡",
+            "parentId": 1602
+          },
+          {
+            "code": 160207,
+            "name": "攀天阁乡",
+            "parentId": 1602
+          },
+          {
+            "code": 160208,
+            "name": "永春乡",
+            "parentId": 1602
+          },
+          {
+            "code": 160209,
+            "name": "白济汛乡",
+            "parentId": 1602
+          },
+          {
+            "code": 160210,
+            "name": "维登乡",
+            "parentId": 1602
+          }
+        ]
+      },
+      {
+        "code": 1603,
+        "name": "香格里拉市",
+        "parentId": 16,
+        "children": [
+          {
+            "code": 160301,
+            "name": "三坝纳西族乡",
+            "parentId": 1603
+          },
+          {
+            "code": 160302,
+            "name": "上江乡",
+            "parentId": 1603
+          },
+          {
+            "code": 160303,
+            "name": "东旺乡",
+            "parentId": 1603
+          },
+          {
+            "code": 160304,
+            "name": "五境乡",
+            "parentId": 1603
+          },
+          {
+            "code": 160305,
+            "name": "小中甸镇",
+            "parentId": 1603
+          },
+          {
+            "code": 160306,
+            "name": "尼西乡",
+            "parentId": 1603
+          },
+          {
+            "code": 160307,
+            "name": "建塘镇",
+            "parentId": 1603
+          },
+          {
+            "code": 160308,
+            "name": "格咱乡",
+            "parentId": 1603
+          },
+          {
+            "code": 160309,
+            "name": "洛吉乡",
+            "parentId": 1603
+          },
+          {
+            "code": 160310,
+            "name": "虎跳峡镇",
+            "parentId": 1603
+          },
+          {
+            "code": 160311,
+            "name": "迪庆扶贫民族经济开发区",
+            "parentId": 1603
+          },
+          {
+            "code": 160312,
+            "name": "金江镇",
+            "parentId": 1603
+          }
+        ]
+      }
+    ]
+  }
+]

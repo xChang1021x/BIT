@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Thu Jun 12 18:03:11 2025
+# Process ID: 236144
+# Current directory: D:/xChangx/Personal/Help/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log time_counter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source time_counter.tcl -notrace
+# Log file: D:/xChangx/Personal/Help/project_1/project_1.runs/impl_1/time_counter.vdi
+# Journal file: D:/xChangx/Personal/Help/project_1/project_1.runs/impl_1\vivado.jou
+# Running On: LAPTOP-D5DBCLIQ, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16498 MB
+#-----------------------------------------------------------
+source time_counter.tcl -notrace

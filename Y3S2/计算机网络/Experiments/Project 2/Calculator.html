@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Calculator</title>
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+				background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+				min-height: 100vh;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				padding: 2rem;
+			}
+
+			.calculator-container {
+				background: rgba(255, 255, 255, 0.95);
+				padding: 3rem;
+				border-radius: 20px;
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+				text-align: center;
+				max-width: 500px;
+				width: 100%;
+			}
+
+			h2 {
+				color: #333;
+				font-size: 2.5rem;
+				margin-bottom: 2rem;
+				font-weight: 300;
+			}
+
+			.input-group {
+				margin-bottom: 1.5rem;
+				text-align: left;
+			}
+
+			.input-group label {
+				display: block;
+				margin-bottom: 0.5rem;
+				color: #555;
+				font-weight: 500;
+			}
+
+			.input-group input[type="text"] {
+				width: 100%;
+				padding: 12px 15px;
+				border: 2px solid #e1e5e9;
+				border-radius: 10px;
+				font-size: 1rem;
+				transition: border-color 0.3s ease;
+				background: #f8f9fa;
+			}
+
+			.input-group input[type="text"]:focus {
+				outline: none;
+				border-color: #667eea;
+				background: white;
+			}
+
+			.operations {
+				margin: 2rem 0;
+				display: flex;
+				justify-content: center;
+				gap: 1rem;
+				flex-wrap: wrap;
+			}
+
+			.operation-item {
+				display: flex;
+				align-items: center;
+				gap: 0.5rem;
+			}
+
+			.operation-item input[type="radio"] {
+				transform: scale(1.2);
+				accent-color: #667eea;
+			}
+
+			.operation-item label {
+				font-size: 1.2rem;
+				font-weight: 500;
+				color: #333;
+			}
+
+			.submit-btn {
+				background: linear-gradient(45deg, #667eea, #764ba2);
+				color: white;
+				border: none;
+				padding: 15px 40px;
+				border-radius: 25px;
+				font-size: 1.1rem;
+				font-weight: 500;
+				cursor: pointer;
+				transition: all 0.3s ease;
+				box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+			}
+
+			.submit-btn:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+			}
+
+			.home-link {
+				display: inline-block;
+				margin-top: 2rem;
+				color: #667eea;
+				text-decoration: none;
+				font-weight: 500;
+				transition: color 0.3s ease;
+			}
+
+			.home-link:hover {
+				color: #764ba2;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="calculator-container">
+			<h2>计算器</h2>
+			<form method="post" action="./Calculator.py">
+				<div class="input-group">
+					<label for="a">第一个数字:</label>
+					<input type="text" id="a" name="a" placeholder="请输入第一个数字" required />
+				</div>
+
+				<div class="input-group">
+					<label for="b">第二个数字:</label>
+					<input type="text" id="b" name="b" placeholder="请输入第二个数字" required />
+				</div>
+
+				<div class="operations">
+					<div class="operation-item">
+						<input type="radio" id="add" name="ch" value="add" required />
+						<label for="add">+</label>
+					</div>
+					<div class="operation-item">
+						<input type="radio" id="sub" name="ch" value="sub" />
+						<label for="sub">-</label>
+					</div>
+					<div class="operation-item">
+						<input type="radio" id="mul" name="ch" value="mul" />
+						<label for="mul">×</label>
+					</div>
+					<div class="operation-item">
+						<input type="radio" id="div" name="ch" value="div" />
+						<label for="div">÷</label>
+					</div>
+				</div>
+
+				<button type="submit" class="submit-btn">= 计算结果</button>
+			</form>
+
+			<a href="index.html" class="home-link">返回首页</a>
+		</div>
+	</body>
+</html>

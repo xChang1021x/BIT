@@ -1,0 +1,29 @@
+Time resolution is 1 ps
+=== 开始32位ALU测试 ===
+
+[测试1] 算术运算测试
+5 + 3 =          8 (ZF=0, CF=0, OF=0)
+MAX_INT + 1 = 80000000 (OF=1)
+MIN_INT - 1 = 7fffffff (OF=1)
+
+[测试2] 减法测试
+10 - 4 =          6 (CF=0)
+0 - 1 = ffffffff (CF=1)
+
+[测试3] 逻辑运算测试
+F0F0F0F0 AND 0F0F0F0F = 00000000
+F0F0F0F0 OR 0F0F0F0F = ffffffff
+F0F0F0F0 XOR 0F0F0F0F = ffffffff
+
+[测试4] 移位运算测试
+0x0000000F << 4 = 000000f0
+0xF0000000 >> 4 = 0f000000
+0xF0000000 >>> 4 = ff000000
+
+[测试5] 标志位测试
+0 + 0 = 00000000 (ZF=1)
+MIN_INT + 1 = 80000001 (SF=1)
+3 + 0 = 00000003 (PF=1)
+
+=== 所有测试完成 ===
+$finish called at time : 240 ns : File "D:/xChangx/University/BIT/Y3S2/Lab/alu/alu.srcs/sources_1/new/alu_tb.v" Line 114

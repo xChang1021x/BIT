@@ -1,0 +1,81 @@
+[
+  {
+    "code": 1,
+    "name": "国有企业",
+    "parentId": 0,
+    "children": [
+      {"code": 101, "name": "中央直属国有企业", "parentId": 1},
+      {"code": 102, "name": "省属国有企业", "parentId": 1},
+      {"code": 103, "name": "市属国有企业", "parentId": 1},
+      {"code": 104, "name": "县属国有企业", "parentId": 1}
+    ]
+  },
+  {
+    "code": 2,
+    "name": "集体企业",
+    "parentId": 0,
+    "children": [
+      {"code": 201, "name": "城镇集体企业", "parentId": 2},
+      {"code": 202, "name": "农村集体企业", "parentId": 2}
+    ]
+  },
+  {
+    "code": 3,
+    "name": "私营企业",
+    "parentId": 0,
+    "children": [
+      {"code": 301, "name": "私营有限责任公司", "parentId": 3},
+      {"code": 302, "name": "私营股份有限公司", "parentId": 3},
+      {"code": 303, "name": "私营独资企业", "parentId": 3},
+      {"code": 304, "name": "私营合伙企业", "parentId": 3}
+    ]
+  },
+  {
+    "code": 4,
+    "name": "外商投资企业",
+    "parentId": 0,
+    "children": [
+      {"code": 401, "name": "中外合资经营企业", "parentId": 4},
+      {"code": 402, "name": "中外合作经营企业", "parentId": 4},
+      {"code": 403, "name": "外商独资企业", "parentId": 4}
+    ]
+  },
+  {
+    "code": 5,
+    "name": "港澳台投资企业",
+    "parentId": 0,
+    "children": [
+      {"code": 501, "name": "港澳合资企业", "parentId": 5},
+      {"code": 502, "name": "港澳独资企业", "parentId": 5},
+      {"code": 503, "name": "台资企业", "parentId": 5}
+    ]
+  },
+  {
+    "code": 6,
+    "name": "股份制企业",
+    "parentId": 0,
+    "children": [
+      {"code": 601, "name": "上市公司", "parentId": 6},
+      {"code": 602, "name": "非上市股份有限公司", "parentId": 6}
+    ]
+  },
+  {
+    "code": 7,
+    "name": "个体工商户",
+    "parentId": 0,
+    "children": [
+      {"code": 701, "name": "个体经营户", "parentId": 7},
+      {"code": 702, "name": "家庭作坊", "parentId": 7}
+    ]
+  },
+  {
+    "code": 8,
+    "name": "其他企业",
+    "parentId": 0,
+    "children": [
+      {"code": 801, "name": "非企业单位（如事业单位参公管理企业）", "parentId": 8},
+      {"code": 802, "name": "社会团体办企业等", "parentId": 8}
+    ]
+  }
+]
+
