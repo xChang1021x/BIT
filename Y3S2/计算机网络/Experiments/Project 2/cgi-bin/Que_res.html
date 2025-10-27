@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta charset="UTF-8" />
+		<title>学生信息查询结果</title>
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+				background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+				min-height: 100vh;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				padding: 2rem;
+			}
+
+			.result-container {
+				background: rgba(255, 255, 255, 0.95);
+				padding: 3rem;
+				border-radius: 20px;
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+				text-align: center;
+				max-width: 800px;
+				width: 100%;
+			}
+
+			h1 {
+				color: #333;
+				font-size: 2.5rem;
+				margin-bottom: 2rem;
+				font-weight: 300;
+			}
+
+			.table-container {
+				overflow-x: auto;
+				margin: 2rem 0;
+				border-radius: 15px;
+				box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+			}
+
+			table {
+				width: 100%;
+				border-collapse: collapse;
+				background: white;
+				border-radius: 15px;
+				overflow: hidden;
+			}
+
+			th {
+				background: linear-gradient(45deg, #667eea, #764ba2);
+				color: white;
+				padding: 15px 20px;
+				font-weight: 500;
+				text-align: center;
+				font-size: 1.1rem;
+			}
+
+			td {
+				padding: 12px 20px;
+				text-align: center;
+				border-bottom: 1px solid #e1e5e9;
+				color: #333;
+			}
+
+			tr:nth-child(even) {
+				background-color: #f8f9fa;
+			}
+
+			tr:hover {
+				background-color: #e3f2fd;
+				transition: background-color 0.3s ease;
+			}
+
+			.nav-links {
+				margin-top: 2rem;
+			}
+
+			.nav-btn {
+				display: inline-block;
+				background: linear-gradient(45deg, #667eea, #764ba2);
+				color: white;
+				padding: 12px 30px;
+				text-decoration: none;
+				border-radius: 25px;
+				font-weight: 500;
+				margin: 0 10px;
+				transition: all 0.3s ease;
+				box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+			}
+
+			.nav-btn:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+			}
+
+			.home-link {
+				display: inline-block;
+				margin-top: 1rem;
+				color: #667eea;
+				text-decoration: none;
+				font-weight: 500;
+				transition: color 0.3s ease;
+			}
+
+			.home-link:hover {
+				color: #764ba2;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="result-container">
+			<h1>查询结果</h1>
+			<div class="table-container">
+				<table>
+					<thead>
+						<tr>
+							<th>学号</th>
+							<th>姓名</th>
+							<th>性别</th>
+							<th>年龄</th>
+							<th>班级</th>
+						</tr>
+					</thead>
+					<tbody>
+						$data
+					</tbody>
+				</table>
+			</div>
+
+			<div class="nav-links">
+				<a href="http://$hostname:$port/Query.html" class="nav-btn">继续查询</a>
+				<a href="http://$hostname:$port/index.html" class="nav-btn">返回首页</a>
+			</div>
+		</div>
+	</body>
+</html>

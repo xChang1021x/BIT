@@ -1,0 +1,3 @@
+/home/chang/compiler-lab1-full/build/CMakeFiles/Compilerlab1.dir
+/home/chang/compiler-lab1-full/build/CMakeFiles/edit_cache.dir
+/home/chang/compiler-lab1-full/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>学生信息查询</title>
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+				background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+				min-height: 100vh;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				padding: 2rem;
+			}
+
+			.query-container {
+				background: rgba(255, 255, 255, 0.95);
+				padding: 3rem;
+				border-radius: 20px;
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+				text-align: center;
+				max-width: 500px;
+				width: 100%;
+			}
+
+			h2 {
+				color: #333;
+				font-size: 2.5rem;
+				margin-bottom: 2rem;
+				font-weight: 300;
+			}
+
+			.input-group {
+				margin-bottom: 2rem;
+				text-align: left;
+			}
+
+			.input-group label {
+				display: block;
+				margin-bottom: 0.5rem;
+				color: #555;
+				font-weight: 500;
+				font-size: 1.1rem;
+			}
+
+			.input-group input[type="text"] {
+				width: 100%;
+				padding: 15px 20px;
+				border: 2px solid #e1e5e9;
+				border-radius: 10px;
+				font-size: 1rem;
+				transition: border-color 0.3s ease;
+				background: #f8f9fa;
+			}
+
+			.input-group input[type="text"]:focus {
+				outline: none;
+				border-color: #667eea;
+				background: white;
+			}
+
+			.submit-btn {
+				background: linear-gradient(45deg, #667eea, #764ba2);
+				color: white;
+				border: none;
+				padding: 15px 40px;
+				border-radius: 25px;
+				font-size: 1.1rem;
+				font-weight: 500;
+				cursor: pointer;
+				transition: all 0.3s ease;
+				box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+				width: 100%;
+			}
+
+			.submit-btn:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+			}
+
+			.home-link {
+				display: inline-block;
+				margin-top: 2rem;
+				color: #667eea;
+				text-decoration: none;
+				font-weight: 500;
+				transition: color 0.3s ease;
+			}
+
+			.home-link:hover {
+				color: #764ba2;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="query-container">
+			<h2>查询信息</h2>
+			<form method="post" action="./Query.py">
+				<div class="input-group">
+					<label for="id">学生学号:</label>
+					<input type="text" id="id" name="id" placeholder="请输入学生学号" required />
+				</div>
+				<button type="submit" class="submit-btn">提交查询</button>
+			</form>
+
+			<a href="index.html" class="home-link">返回首页</a>
+		</div>
+	</body>
+</html>

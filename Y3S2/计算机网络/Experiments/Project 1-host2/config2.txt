@@ -1,0 +1,10 @@
+LocalPort=12346
+RemoteIP=127.0.0.1
+RemotePort=12345
+DataSize=1024
+WindowSize=10
+Timeout=150
+ErrorRate=1
+LossRate=1
+FileToSend=sent_file2.txt
+FileToReceive=received_file2.txt

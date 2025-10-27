@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Compilerlab1.dir/src/main.cpp.o CMakeFiles/Compilerlab1.dir/src/lexer.cpp.o CMakeFiles/Compilerlab1.dir/src/parser.cpp.o CMakeFiles/Compilerlab1.dir/src/codegen.cpp.o -o Compilerlab1 

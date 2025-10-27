@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>计算结果</title>
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			body {
+				font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+				background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+				min-height: 100vh;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				padding: 2rem;
+			}
+
+			.result-container {
+				background: rgba(255, 255, 255, 0.95);
+				padding: 3rem;
+				border-radius: 20px;
+				box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+				text-align: center;
+				max-width: 600px;
+				width: 100%;
+			}
+
+			h1 {
+				color: #333;
+				font-size: 2.5rem;
+				margin-bottom: 1rem;
+				font-weight: 300;
+			}
+
+			.result-display {
+				background: linear-gradient(45deg, #667eea, #764ba2);
+				color: white;
+				padding: 2rem;
+				border-radius: 15px;
+				margin: 2rem 0;
+				font-size: 1.5rem;
+				font-weight: 500;
+				box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+			}
+
+			.return-btn {
+				display: inline-block;
+				background: linear-gradient(45deg, #667eea, #764ba2);
+				color: white;
+				padding: 15px 40px;
+				text-decoration: none;
+				border-radius: 25px;
+				font-weight: 500;
+				font-size: 1.1rem;
+				transition: all 0.3s ease;
+				box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+			}
+
+			.return-btn:hover {
+				transform: translateY(-2px);
+				box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+			}
+
+			.home-link {
+				display: inline-block;
+				margin-top: 1rem;
+				color: #667eea;
+				text-decoration: none;
+				font-weight: 500;
+				transition: color 0.3s ease;
+			}
+
+			.home-link:hover {
+				color: #764ba2;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="result-container">
+			<h1>计算结果</h1>
+			<div class="result-display">$a $c $b = $res</div>
+			<a href="http://$hostname:$port/Calculator.html" class="return-btn">返回计算器</a>
+			<br />
+			<a href="http://$hostname:$port/index.html" class="home-link">返回首页</a>
+		</div>
+	</body>
+</html>
